@@ -125,8 +125,6 @@ http://udpxy.local:8080/rtp/239.3.1.126:8001
 http://udpxy.local:8080/rtp/239.3.1.127:8001
 #EXTINF:-1 channel-number="69" tvg-id="69" tvg-name="睛彩广场舞",睛彩广场舞
 http://udpxy.local:8080/rtp/239.3.1.128:8001
-#EXTINF:-1 channel-number="70" tvg-id="70" tvg-name="魅力足球",魅力足球
-http://udpxy.local:8080/rtp/239.3.1.201:8001
 #EXTINF:-1 channel-number="72" tvg-id="72" tvg-name="广东卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangDong.png" group-title="卫视",广东卫视高清
 http://udpxy.local:8080/rtp/239.3.1.142:8048
 #EXTINF:-1 channel-number="73" tvg-id="73" tvg-name="河北卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeBei.png" group-title="卫视",河北卫视高清
@@ -149,20 +147,6 @@ http://udpxy.local:8080/rtp/239.3.1.22:8001
 http://udpxy.local:8080/rtp/239.3.1.244:2000
 #EXTINF:-1 channel-number="86" tvg-id="86" tvg-name="CCTV4K超高清HDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="地方",CCTV4K超高清HDR
 http://udpxy.local:8080/rtp/239.3.1.245:2000
-#EXTINF:-1 channel-number="90" tvg-id="90" tvg-name="动漫秀场",动漫秀场
-http://udpxy.local:8080/rtp/239.3.1.202:8001
-#EXTINF:-1 channel-number="91" tvg-id="91" tvg-name="都市剧场",都市剧场
-http://udpxy.local:8080/rtp/239.3.1.203:8001
-#EXTINF:-1 channel-number="92" tvg-id="92" tvg-name="法治天地",法治天地
-http://udpxy.local:8080/rtp/239.3.1.204:8001
-#EXTINF:-1 channel-number="93" tvg-id="93" tvg-name="游戏风云",游戏风云
-http://udpxy.local:8080/rtp/239.3.1.205:8001
-#EXTINF:-1 channel-number="94" tvg-id="94" tvg-name="生活时尚",生活时尚
-http://udpxy.local:8080/rtp/239.3.1.206:8001
-#EXTINF:-1 channel-number="95" tvg-id="95" tvg-name="乐游",乐游
-http://udpxy.local:8080/rtp/239.3.1.207:8001
-#EXTINF:-1 channel-number="96" tvg-id="96" tvg-name="金色学堂",金色学堂
-http://udpxy.local:8080/rtp/239.3.1.208:8001
 #EXTINF:-1 channel-number="101" tvg-id="101" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-1.png" group-title="央视",CCTV-1
 http://udpxy.local:8080/rtp/239.3.1.1:8000
 #EXTINF:-1 channel-number="102" tvg-id="102" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-2.png" group-title="央视",CCTV-2
@@ -419,10 +403,6 @@ http://udpxy.local:8080/rtp/239.3.1.118:8001
 http://udpxy.local:8080/rtp/239.3.1.140:8001
 #EXTINF:-1 channel-number="505" tvg-id="505" tvg-name="轮播频道5",轮播频道5
 http://udpxy.local:8080/rtp/239.3.1.253:8001
-#EXTINF:-1 channel-number="507" tvg-id="507" tvg-name="空中课堂-初三",空中课堂-初三
-http://udpxy.local:8080/rtp/239.3.1.176:8001
-#EXTINF:-1 channel-number="508" tvg-id="508" tvg-name="空中课堂-高三",空中课堂-高三
-http://udpxy.local:8080/rtp/239.3.1.177:8001
 #EXTINF:-1 channel-number="515" tvg-id="515" tvg-name="VBR测试-1",VBR测试-1
 http://udpxy.local:8080/rtp/239.3.1.139:8001
 #EXTINF:-1 channel-number="520" tvg-id="520" tvg-name="4K测试" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-4.png" group-title="地方",4K测试
@@ -433,22 +413,6 @@ http://udpxy.local:8080/rtp/239.3.1.103:8001
 http://udpxy.local:8080/rtp/239.3.1.247:2000
 #EXTINF:-1 channel-number="523" tvg-id="523" tvg-name="总平台测试2",总平台测试2
 http://udpxy.local:8080/rtp/239.3.1.248:2000
-#EXTINF:-1 channel-number="530" tvg-id="530" tvg-name="直播室101",直播室101
-http://udpxy.local:8080/rtp/239.3.1.166:8001
-#EXTINF:-1 channel-number="531" tvg-id="531" tvg-name="直播室102",直播室102
-http://udpxy.local:8080/rtp/239.3.1.167:8001
-#EXTINF:-1 channel-number="532" tvg-id="532" tvg-name="直播室103",直播室103
-http://udpxy.local:8080/rtp/239.3.1.168:8001
-#EXTINF:-1 channel-number="533" tvg-id="533" tvg-name="直播室104",直播室104
-http://udpxy.local:8080/rtp/239.3.1.169:8001
-#EXTINF:-1 channel-number="534" tvg-id="534" tvg-name="直播室106",直播室106
-http://udpxy.local:8080/rtp/239.3.1.170:8001
-#EXTINF:-1 channel-number="535" tvg-id="535" tvg-name="直播室107",直播室107
-http://udpxy.local:8080/rtp/239.3.1.171:8001
-#EXTINF:-1 channel-number="551" tvg-id="551" tvg-name="粤荟萃",粤荟萃
-http://udpxy.local:8080/rtp/239.3.1.162:8001
-#EXTINF:-1 channel-number="590" tvg-id="590" tvg-name="文化北京",文化北京
-http://udpxy.local:8080/rtp/239.3.1.97:8001
 #EXTINF:-1 channel-number="302" tvg-id="302" tvg-name="通州融媒" group-title="区县",通州融媒
 http://udpxy.local:8080/rtp/239.3.1.221:8001
 #EXTINF:-1 channel-number="303" tvg-id="303" tvg-name="密云电视台" group-title="区县",密云电视台
