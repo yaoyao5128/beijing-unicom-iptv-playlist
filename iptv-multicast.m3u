@@ -117,6 +117,8 @@ rtp://239.3.1.50:8184
 rtp://239.3.1.190:8001
 #EXTINF:-1 channel-number="61" tvg-id="61" tvg-name="时尚购物精选",时尚购物精选
 rtp://239.3.1.191:8001
+#EXTINF:-1 channel-number="62" tvg-id="62" tvg-name="甘肃卫视高清",甘肃卫视高清
+rtp://239.3.1.201:8180
 #EXTINF:-1 channel-number="66" tvg-id="66" tvg-name="睛彩竞技",睛彩竞技
 rtp://239.3.1.125:8001
 #EXTINF:-1 channel-number="67" tvg-id="67" tvg-name="睛彩篮球",睛彩篮球
@@ -397,6 +399,10 @@ rtp://239.3.1.120:8000
 rtp://239.3.1.121:8000
 #EXTINF:-1 channel-number="405" tvg-id="405" tvg-name="CCTV-16 4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-16.png" group-title="央视",CCTV-16 4K
 rtp://239.3.1.183:8001
+#EXTINF:-1 channel-number="406" tvg-id="406" tvg-name="广东卫视4K超高清",广东卫视4K超高清
+rtp://239.3.1.203:2000
+#EXTINF:-1 channel-number="408" tvg-id="408" tvg-name="深圳卫视4K超高清",深圳卫视4K超高清
+rtp://239.3.1.202:2000
 #EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="BRTV北京卫视超高清HDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="卫视",BRTV北京卫视超高清HDR
 rtp://239.3.1.118:8001
 #EXTINF:-1 channel-number="502" tvg-id="502" tvg-name="VBR测试-2",VBR测试-2

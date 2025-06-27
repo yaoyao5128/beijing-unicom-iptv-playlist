@@ -59,9 +59,9 @@
     "channelSDP": "igmp://239.3.1.151:8144",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226095/10000100000000060000000000705941_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -79,9 +79,9 @@
     "channelSDP": "igmp://239.3.1.238:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226053/10000100000000060000000000362332_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -112,9 +112,9 @@
     "channelSDP": "igmp://239.3.1.247:2000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226055/10000100000000060000000000364380_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -132,9 +132,9 @@
     "channelSDP": "igmp://239.3.1.248:2000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226048/10000100000000060000000000364379_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -152,9 +152,9 @@
     "channelSDP": "igmp://239.3.1.144:4120",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225995/10000100000000060000000000176944_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -172,9 +172,9 @@
     "channelSDP": "igmp://239.3.1.146:4120",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225996/10000100000000060000000000176943_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -283,9 +283,9 @@
     "channelSDP": "igmp://239.3.1.250:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225965/10000100000000060000000000157832_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -303,9 +303,9 @@
     "channelSDP": "igmp://239.3.1.198:9004",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225854/10000100000000060000000000025081_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -336,9 +336,9 @@
     "channelSDP": "igmp://239.3.1.200:9008",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225856/10000100000000060000000000025084_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -421,9 +421,9 @@
     "channelSDP": "igmp://239.3.1.141:1234",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225984/10000100000000060000000000176931_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -441,9 +441,9 @@
     "channelSDP": "igmp://239.3.1.197:9016",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225852/10000100000000060000000000025080_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -461,9 +461,9 @@
     "channelSDP": "igmp://239.3.1.210:8056",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226000/10000100000000060000000000205199_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -481,9 +481,9 @@
     "channelSDP": "igmp://239.3.1.201:8072",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225861/10000100000000060000000000025085_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -501,9 +501,9 @@
     "channelSDP": "igmp://239.3.1.209:8052",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226002/10000100000000060000000000205202_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -521,9 +521,9 @@
     "channelSDP": "igmp://239.3.1.143:4120",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225990/10000100000000060000000000176937_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -632,9 +632,9 @@
     "channelSDP": "igmp://239.3.1.47:8164",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225848/10000100000000060000000000025077_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -652,9 +652,9 @@
     "channelSDP": "igmp://239.3.1.225:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225814/10000100000000060000000000025042_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -672,9 +672,9 @@
     "channelSDP": "igmp://239.3.1.11:8040",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225885/10000100000000060000000000025536_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -692,9 +692,9 @@
     "channelSDP": "igmp://239.3.1.241:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225870/10000100000000060000000000025099_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -712,9 +712,9 @@
     "channelSDP": "igmp://239.3.1.235:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225804/10000100000000060000000000025033_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -732,9 +732,9 @@
     "channelSDP": "igmp://239.3.1.234:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225879/10000100000000060000000000025505_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -752,9 +752,9 @@
     "channelSDP": "igmp://239.3.1.23:8144",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225825/10000100000000060000000000025049_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -772,9 +772,9 @@
     "channelSDP": "igmp://239.3.1.228:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225813/10000100000000060000000000025038_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -792,9 +792,9 @@
     "channelSDP": "igmp://239.3.1.243:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225809/10000100000000060000000000025032_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -812,9 +812,9 @@
     "channelSDP": "igmp://239.3.1.2:8004",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225792/10000100000000060000000000025022_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -858,9 +858,9 @@
     "channelSDP": "igmp://239.3.1.102:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226071/10000100000000060000000000405011_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1086,9 +1086,9 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226094/10000100000000060000000000804258_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1106,9 +1106,9 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226092/10000100000000060000000000804251_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1126,9 +1126,9 @@
     "channelSDP": "igmp://239.3.1.172:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226100/10000100000000060000000000831268_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1146,9 +1146,9 @@
     "channelSDP": "igmp://239.3.1.173:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226113/10000100000000060000000000831269_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1166,9 +1166,9 @@
     "channelSDP": "igmp://239.3.1.174:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226102/10000100000000060000000000831270_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1186,9 +1186,9 @@
     "channelSDP": "igmp://239.3.1.175:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226115/10000100000000060000000000831271_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1206,9 +1206,9 @@
     "channelSDP": "igmp://239.3.1.107:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226108/10000100000000060000000000860803_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1226,9 +1226,9 @@
     "channelSDP": "igmp://239.3.1.108:8001\t",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226121/10000100000000060000000000860802_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1246,9 +1246,9 @@
     "channelSDP": "igmp://239.3.1.109:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226106/10000100000000060000000000860801_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1266,9 +1266,9 @@
     "channelSDP": "igmp://239.3.1.110:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226119/10000100000000060000000000860800_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1299,9 +1299,9 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226133/10000100000000060000000000943150_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1319,9 +1319,9 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226114/10000100000000060000000000930190_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1339,9 +1339,9 @@
     "channelSDP": "igmp://239.3.1.236:2000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226046/10000100000000060000000000323100_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1359,9 +1359,9 @@
     "channelSDP": "igmp://239.3.1.48:8160",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225849/10000100000000060000000000025072_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1379,9 +1379,9 @@
     "channelSDP": "igmp://239.3.1.45:8304",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225842/10000100000000060000000000025071_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1399,9 +1399,9 @@
     "channelSDP": "igmp://239.3.1.44:8184",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225847/10000100000000060000000000025070_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1419,9 +1419,9 @@
     "channelSDP": "igmp://239.3.1.39:8300",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225840/10000100000000060000000000025069_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1439,9 +1439,9 @@
     "channelSDP": "igmp://239.3.1.43:8176",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225845/10000100000000060000000000025068_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1459,9 +1459,9 @@
     "channelSDP": "igmp://239.3.1.38:8132",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225838/10000100000000060000000000025067_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1505,9 +1505,9 @@
     "channelSDP": "igmp://239.3.1.138:8044",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225956/10000100000000060000000000146903_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1525,9 +1525,9 @@
     "channelSDP": "igmp://239.3.1.233:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225811/10000100000000060000000000025034_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1545,9 +1545,9 @@
     "channelSDP": "igmp://239.3.1.4:8216",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225874/10000100000000060000000000025102_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1565,9 +1565,9 @@
     "channelSDP": "igmp://239.3.1.42:8172",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225843/10000100000000060000000000025066_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1585,9 +1585,9 @@
     "channelSDP": "igmp://239.3.1.41:8140",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225836/10000100000000060000000000025065_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1605,9 +1605,9 @@
     "channelSDP": "igmp://239.3.1.130:8004",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225819/10000100000000060000000000025043_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1651,9 +1651,9 @@
     "channelSDP": "igmp://239.3.1.40:8200",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225841/10000100000000060000000000025064_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1671,9 +1671,9 @@
     "channelSDP": "igmp://239.3.1.37:8292",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225834/10000100000000060000000000025063_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1691,9 +1691,9 @@
     "channelSDP": "igmp://239.3.1.36:8112",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225839/10000100000000060000000000025062_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1711,9 +1711,9 @@
     "channelSDP": "igmp://239.3.1.20:8276",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225818/10000100000000060000000000025046_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1731,9 +1731,9 @@
     "channelSDP": "igmp://239.3.1.24:8116",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225822/10000100000000060000000000025050_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1751,9 +1751,9 @@
     "channelSDP": "igmp://239.3.1.35:8296",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225832/10000100000000060000000000025061_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1771,9 +1771,9 @@
     "channelSDP": "igmp://239.3.1.31:8120",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225837/10000100000000060000000000025060_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1791,9 +1791,9 @@
     "channelSDP": "igmp://239.3.1.34:8192",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225830/10000100000000060000000000025059_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1811,9 +1811,9 @@
     "channelSDP": "igmp://239.3.1.16:8056",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225802/10000100000000060000000000025031_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1831,9 +1831,9 @@
     "channelSDP": "igmp://239.3.1.32:9244",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225833/10000100000000060000000000025057_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1851,9 +1851,9 @@
     "channelSDP": "igmp://239.3.1.33:8136",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225835/10000100000000060000000000025058_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1871,9 +1871,9 @@
     "channelSDP": "igmp://239.3.1.28:8196",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225829/10000100000000060000000000025053_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1891,9 +1891,9 @@
     "channelSDP": "igmp://239.3.1.15:8052",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225803/10000100000000060000000000025026_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1911,9 +1911,9 @@
     "channelSDP": "igmp://239.3.1.27:8128",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225824/10000100000000060000000000025052_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1931,9 +1931,9 @@
     "channelSDP": "igmp://239.3.1.7:8024",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225807/10000100000000060000000000025030_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1951,9 +1951,9 @@
     "channelSDP": "igmp://239.3.1.14:8236",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225805/10000100000000060000000000025028_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1971,9 +1971,9 @@
     "channelSDP": "igmp://239.3.1.30:8280",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225828/10000100000000060000000000025056_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -1991,9 +1991,9 @@
     "channelSDP": "igmp://239.3.1.29:8288",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225831/10000100000000060000000000025055_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2011,9 +2011,9 @@
     "channelSDP": "igmp://239.3.1.25:8148",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225826/10000100000000060000000000025054_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2031,9 +2031,9 @@
     "channelSDP": "igmp://239.3.1.26:8108",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225827/10000100000000060000000000025051_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2051,9 +2051,9 @@
     "channelSDP": "igmp://239.3.1.10:8228",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225798/10000100000000060000000000025027_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2071,9 +2071,9 @@
     "channelSDP": "igmp://239.3.1.21:8272",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225820/10000100000000060000000000025048_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2091,9 +2091,9 @@
     "channelSDP": "igmp://239.3.1.13:8048",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225796/10000100000000060000000000025025_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2111,9 +2111,9 @@
     "channelSDP": "igmp://239.3.1.19:8284",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225821/10000100000000060000000000025045_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2131,9 +2131,9 @@
     "channelSDP": "igmp://239.3.1.18:8268",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225816/10000100000000060000000000025044_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2151,9 +2151,9 @@
     "channelSDP": "igmp://239.3.1.12:8232",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225801/10000100000000060000000000025024_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2171,9 +2171,9 @@
     "channelSDP": "igmp://239.3.1.196:9012",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225850/10000100000000060000000000025079_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2191,9 +2191,9 @@
     "channelSDP": "igmp://239.3.1.194:9020",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225855/10000100000000060000000000025078_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2211,9 +2211,9 @@
     "channelSDP": "igmp://239.3.1.51:9252",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225846/10000100000000060000000000025075_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2231,9 +2231,9 @@
     "channelSDP": "igmp://239.3.1.193:8012",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225853/10000100000000060000000000025076_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2251,9 +2251,9 @@
     "channelSDP": "igmp://239.3.1.135:8028",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225881/10000100000000060000000000025507_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2271,9 +2271,9 @@
     "channelSDP": "igmp://239.3.1.9:8032",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225886/10000100000000060000000000025537_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2291,9 +2291,9 @@
     "channelSDP": "igmp://239.3.1.136:8032",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225883/10000100000000060000000000025534_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2311,9 +2311,9 @@
     "channelSDP": "igmp://239.3.1.129:8008",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225880/10000100000000060000000000025506_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2331,9 +2331,9 @@
     "channelSDP": "igmp://239.3.1.211:8064",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225999/10000100000000060000000000205203_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2390,9 +2390,9 @@
     "channelSDP": "igmp://239.3.1.212:8060",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226004/10000100000000060000000000205204_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2423,9 +2423,9 @@
     "channelSDP": "igmp://239.3.1.137:8036",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225957/10000100000000060000000000146902_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2469,9 +2469,9 @@
     "channelSDP": "igmp://239.3.1.95:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226005/10000100000000060000000000285122_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2489,9 +2489,9 @@
     "channelSDP": "igmp://239.3.1.142:8048",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225983/10000100000000060000000000176932_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2509,9 +2509,9 @@
     "channelSDP": "igmp://239.3.1.147:9268",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225986/10000100000000060000000000176933_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2529,9 +2529,9 @@
     "channelSDP": "igmp://239.3.1.1:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225877/10000100000000060000000000025101_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2549,9 +2549,9 @@
     "channelSDP": "igmp://239.3.1.132:8012",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225871/10000100000000060000000000025095_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2569,9 +2569,9 @@
     "channelSDP": "igmp://239.3.1.199:9000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225859/10000100000000060000000000025083_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2589,9 +2589,9 @@
     "channelSDP": "igmp://239.3.1.242:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225868/10000100000000060000000000025097_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2609,9 +2609,9 @@
     "channelSDP": "igmp://239.3.1.227:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225812/10000100000000060000000000025040_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2629,9 +2629,9 @@
     "channelSDP": "igmp://239.3.1.231:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225815/10000100000000060000000000025039_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2649,9 +2649,9 @@
     "channelSDP": "igmp://239.3.1.253:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225966/10000100000000060000000000157829_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2669,9 +2669,9 @@
     "channelSDP": "igmp://239.3.1.229:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225810/10000100000000060000000000025037_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2689,9 +2689,9 @@
     "channelSDP": "igmp://239.3.1.140:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225893/10000100000000060000000000146741_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2709,9 +2709,9 @@
     "channelSDP": "igmp://239.3.1.230:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225806/10000100000000060000000000025035_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2729,9 +2729,9 @@
     "channelSDP": "igmp://239.3.1.226:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225817/10000100000000060000000000025041_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2788,9 +2788,9 @@
     "channelSDP": "igmp://239.3.1.134:8020",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225869/10000100000000060000000000025093_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2808,9 +2808,9 @@
     "channelSDP": "igmp://239.3.1.133:8016",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225864/10000100000000060000000000025092_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2828,9 +2828,9 @@
     "channelSDP": "igmp://239.3.1.53:9136",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225882/10000100000000060000000000025533_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2861,9 +2861,9 @@
     "channelSDP": "igmp://239.3.1.195:9024",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225857/10000100000000060000000000025082_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2881,9 +2881,9 @@
     "channelSDP": "igmp://239.3.1.139:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225892/10000100000000060000000000146742_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2914,9 +2914,9 @@
     "channelSDP": "igmp://239.3.1.46:8124",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225851/10000100000000060000000000025074_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2934,9 +2934,9 @@
     "channelSDP": "igmp://239.3.1.49:8188",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225844/10000100000000060000000000025073_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -2954,9 +2954,9 @@
     "channelSDP": "igmp://239.3.1.237:4120",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226051/10000100000000060000000000332895_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3000,9 +3000,9 @@
     "channelSDP": "igmp://239.3.1.214:4220",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226149/10000100000000060000000001154841_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3020,9 +3020,9 @@
     "channelSDP": "igmp://239.3.1.213:4220",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226138/10000100000000060000000001154838_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3092,9 +3092,9 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226143/10000100000000060000000001010594_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3112,9 +3112,9 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226134/10000100000000060000000001010593_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3132,9 +3132,9 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226141/10000100000000060000000001010592_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3152,9 +3152,9 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226137/10000100000000060000000001010588_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3172,9 +3172,9 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226130/10000100000000060000000001010587_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3205,9 +3205,9 @@
     "channelSDP": "igmp://239.3.1.122:8160",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226147/10000100000000060000000001103866_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3225,9 +3225,9 @@
     "channelSDP": "igmp://239.3.1.123:8164",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226136/10000100000000060000000001103865_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3310,9 +3310,9 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226169/10000100000000060000000001311650_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3330,9 +3330,9 @@
     "channelSDP": "igmp://239.3.1.188:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226173/10000100000000060000000001341044_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3376,9 +3376,9 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226146/10000100000000060000000001189968_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3422,9 +3422,9 @@
     "channelSDP": "igmp://239.3.1.185:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226154/10000100000000060000000001234688_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3520,9 +3520,9 @@
     "channelSDP": "igmp://239.3.1.186:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226168/10000100000000060000000001558173_0.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3540,9 +3540,9 @@
     "channelSDP": "igmp://239.3.1.22:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226182/390398577.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3560,9 +3560,9 @@
     "channelSDP": "igmp://239.3.1.118:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226184/391328653.smil",
     "channelLogoStruct": {
+      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
-      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
@@ -3570,6 +3570,45 @@
     "channelPurchased": true,
     "channelFECPort": 0,
     "channelName": "BRTV北京卫视超高清HDR",
+    "channelType": "1"
+  },
+  {
+    "channelID": "00000001000000050000000000000603",
+    "userChannelID": 62,
+    "channelURL": "igmp://239.3.1.201:8180",
+    "timeShift": true,
+    "channelSDP": null,
+    "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226197/397709753.smil",
+    "channelLogoStruct": null,
+    "channelPurchased": true,
+    "channelFECPort": 0,
+    "channelName": "甘肃卫视高清",
+    "channelType": "1"
+  },
+  {
+    "channelID": "00000001000000050000000000000635",
+    "userChannelID": 406,
+    "channelURL": "igmp://239.3.1.203:2000",
+    "timeShift": true,
+    "channelSDP": null,
+    "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226195/397709747.smil",
+    "channelLogoStruct": null,
+    "channelPurchased": true,
+    "channelFECPort": 0,
+    "channelName": "广东卫视4K超高清",
+    "channelType": "1"
+  },
+  {
+    "channelID": "00000001000000050000000000000637",
+    "userChannelID": 408,
+    "channelURL": "igmp://239.3.1.202:2000",
+    "timeShift": false,
+    "channelSDP": null,
+    "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226188/397709741.smil",
+    "channelLogoStruct": null,
+    "channelPurchased": true,
+    "channelFECPort": 0,
+    "channelName": "深圳卫视4K超高清",
     "channelType": "1"
   }
 ]
