@@ -53,6 +53,8 @@ http://udpxy.local:8080/rtp/239.3.1.116:8000
 http://udpxy.local:8080/rtp/239.3.1.243:8000
 #EXTINF:-1 channel-number="27" tvg-id="27" tvg-name="BRTV生活高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_ShengHuo.png" group-title="北京",BRTV生活高清
 http://udpxy.local:8080/rtp/239.3.1.117:8000
+#EXTINF:-1 channel-number="28" tvg-id="28" tvg-name="BRTV卡酷少儿高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_KakuShaoEr.png" group-title="卫视",BRTV卡酷少儿高清
+http://udpxy.local:8080/rtp/239.3.1.189:8000
 #EXTINF:-1 channel-number="29" tvg-id="29" tvg-name="BRTV新闻高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_XinWen.png" group-title="北京",BRTV新闻高清
 http://udpxy.local:8080/rtp/239.3.1.159:8000
 #EXTINF:-1 channel-number="30" tvg-id="30" tvg-name="家有购物精选",家有购物精选
@@ -65,8 +67,6 @@ http://udpxy.local:8080/rtp/239.3.1.180:8001
 http://udpxy.local:8080/rtp/239.3.1.181:8001
 #EXTINF:-1 channel-number="34" tvg-id="34" tvg-name="萌宠TV",萌宠TV
 http://udpxy.local:8080/rtp/239.3.1.102:8001
-#EXTINF:-1 channel-number="35" tvg-id="35" tvg-name="BRTV卡酷少儿高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_KakuShaoEr.png" group-title="卫视",BRTV卡酷少儿高清
-http://udpxy.local:8080/rtp/239.3.1.189:8000
 #EXTINF:-1 channel-number="36" tvg-id="36" tvg-name="淘Baby",淘Baby
 http://udpxy.local:8080/rtp/239.3.1.238:8001
 #EXTINF:-1 channel-number="37" tvg-id="37" tvg-name="淘剧场",淘剧场
@@ -197,10 +197,10 @@ http://udpxy.local:8080/rtp/239.3.1.229:8000
 http://udpxy.local:8080/rtp/239.3.1.230:8000
 #EXTINF:-1 channel-number="127" tvg-id="127" tvg-name="BRTV生活" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_ShengHuo.png" group-title="北京",BRTV生活
 http://udpxy.local:8080/rtp/239.3.1.231:8000
+#EXTINF:-1 channel-number="128" tvg-id="128" tvg-name="BRTV卡酷少儿" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_KakuShaoEr.png" group-title="卫视",BRTV卡酷少儿
+http://udpxy.local:8080/rtp/239.3.1.234:8000
 #EXTINF:-1 channel-number="129" tvg-id="129" tvg-name="BRTV新闻" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_XinWen.png" group-title="北京",BRTV新闻
 http://udpxy.local:8080/rtp/239.3.1.233:8000
-#EXTINF:-1 channel-number="130" tvg-id="130" tvg-name="BRTV卡酷少儿" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_KakuShaoEr.png" group-title="卫视",BRTV卡酷少儿
-http://udpxy.local:8080/rtp/239.3.1.234:8000
 #EXTINF:-1 channel-number="131" tvg-id="131" tvg-name="BTV国际频道" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_International.png" group-title="北京",BTV国际频道
 http://udpxy.local:8080/rtp/239.3.1.235:8000
 #EXTINF:-1 channel-number="132" tvg-id="132" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="央视",湖南卫视
