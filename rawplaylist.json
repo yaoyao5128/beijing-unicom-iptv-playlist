@@ -1,6 +1,5 @@
 [
   {
-    "channelID": "01010001000000050000000000000338",
     "userChannelID": 168,
     "channelURL": "igmp://239.3.1.161:8001",
     "timeShift": true,
@@ -9,11 +8,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "南方卫视",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000338",
+    "channelType": "1",
+    "channelName": "南方卫视"
   },
   {
-    "channelID": "01010001000000050000000000000346",
     "userChannelID": 321,
     "channelURL": "igmp://239.3.1.165:8001",
     "timeShift": false,
@@ -22,11 +21,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "茶",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000346",
+    "channelType": "1",
+    "channelName": "茶"
   },
   {
-    "channelID": "01010001000000050000000000000345",
     "userChannelID": 320,
     "channelURL": "igmp://239.3.1.164:8001",
     "timeShift": false,
@@ -35,11 +34,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "快乐垂钓",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000345",
+    "channelType": "1",
+    "channelName": "快乐垂钓"
   },
   {
-    "channelID": "00000001000000050000000000000581",
     "userChannelID": 117,
     "channelURL": "igmp://239.3.1.150:8064",
     "timeShift": false,
@@ -48,11 +47,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-17",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000581",
+    "channelType": "null",
+    "channelName": "CCTV-17"
   },
   {
-    "channelID": "00000001000000050000000000000580",
     "userChannelID": 17,
     "channelURL": "igmp://239.3.1.151:8144",
     "timeShift": true,
@@ -62,17 +61,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV17-高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000580",
+    "channelType": "null",
+    "channelName": "CCTV17-高清"
   },
   {
-    "channelID": "01010001000000050000000000000308",
     "userChannelID": 36,
     "channelURL": "igmp://239.3.1.238:8001",
     "timeShift": true,
@@ -82,17 +81,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "淘Baby",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000308",
+    "channelType": "null",
+    "channelName": "淘Baby"
   },
   {
-    "channelID": "01010001000000050000000000000014",
     "userChannelID": 40,
     "channelURL": "igmp://239.3.1.249:8001",
     "timeShift": false,
@@ -101,11 +100,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "4K超清",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000014",
+    "channelType": "null",
+    "channelName": "4K超清"
   },
   {
-    "channelID": "00000001000000050000000000000558",
     "userChannelID": 522,
     "channelURL": "igmp://239.3.1.247:2000",
     "timeShift": false,
@@ -115,17 +114,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "总平台测试1",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000558",
+    "channelType": "null",
+    "channelName": "总平台测试1"
   },
   {
-    "channelID": "00000001000000050000000000000560",
     "userChannelID": 523,
     "channelURL": "igmp://239.3.1.248:2000",
     "timeShift": false,
@@ -135,17 +134,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "总平台测试2",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000560",
+    "channelType": "null",
+    "channelName": "总平台测试2"
   },
   {
-    "channelID": "00000001000000050000000000000462",
     "userChannelID": 167,
     "channelURL": "igmp://239.3.1.144:4120",
     "timeShift": true,
@@ -155,17 +154,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "兵团卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000462",
+    "channelType": "null",
+    "channelName": "兵团卫视"
   },
   {
-    "channelID": "00000001000000050000000000000463",
     "userChannelID": 171,
     "channelURL": "igmp://239.3.1.146:4120",
     "timeShift": true,
@@ -175,17 +174,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CETV1",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000463",
+    "channelType": "null",
+    "channelName": "CETV1"
   },
   {
-    "channelID": "00000001000000050000000000000533",
     "userChannelID": 324,
     "channelURL": "igmp://239.3.1.66:8068",
     "timeShift": true,
@@ -194,11 +193,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "熊猫频道",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000533",
+    "channelType": "null",
+    "channelName": "熊猫频道"
   },
   {
-    "channelID": "00000001000000050000000000000500",
     "userChannelID": 352,
     "channelURL": "igmp://239.3.1.68:4120",
     "timeShift": true,
@@ -207,11 +206,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "军旅剧场",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000500",
+    "channelType": "null",
+    "channelName": "军旅剧场"
   },
   {
-    "channelID": "00000001000000050000000000000503",
     "userChannelID": 356,
     "channelURL": "igmp://239.3.1.72:4120",
     "timeShift": true,
@@ -220,11 +219,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "美妆",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000503",
+    "channelType": "null",
+    "channelName": "美妆"
   },
   {
-    "channelID": "00000001000000050000000000000501",
     "userChannelID": 353,
     "channelURL": "igmp://239.3.1.69:4120",
     "timeShift": true,
@@ -233,11 +232,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "古装剧场",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000501",
+    "channelType": "null",
+    "channelName": "古装剧场"
   },
   {
-    "channelID": "00000001000000050000000000000502",
     "userChannelID": 354,
     "channelURL": "igmp://239.3.1.70:4120",
     "timeShift": true,
@@ -246,11 +245,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "音乐现场",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000502",
+    "channelType": "null",
+    "channelName": "音乐现场"
   },
   {
-    "channelID": "00000001000000050000000000000504",
     "userChannelID": 357,
     "channelURL": "igmp://239.3.1.73:4120",
     "timeShift": true,
@@ -259,11 +258,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "美人",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000504",
+    "channelType": "null",
+    "channelName": "美人"
   },
   {
-    "channelID": "00000001000000050000000000000505",
     "userChannelID": 358,
     "channelURL": "igmp://239.3.1.74:4120",
     "timeShift": true,
@@ -272,11 +271,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "精选",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000505",
+    "channelType": "null",
+    "channelName": "精选"
   },
   {
-    "channelID": "01010001000000050000000000000015",
     "userChannelID": 38,
     "channelURL": "igmp://239.3.1.250:8001",
     "timeShift": true,
@@ -286,17 +285,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "淘电影",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000015",
+    "channelType": "null",
+    "channelName": "淘电影"
   },
   {
-    "channelID": "00000001000000050000000000000104",
     "userChannelID": 206,
     "channelURL": "igmp://239.3.1.198:9004",
     "timeShift": true,
@@ -306,17 +305,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "IPTV3＋",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000104",
+    "channelType": "null",
+    "channelName": "IPTV3＋"
   },
   {
-    "channelID": "00000001000000050000000000000521",
     "userChannelID": 372,
     "channelURL": "igmp://239.3.1.88:4120",
     "timeShift": true,
@@ -325,11 +324,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "高网",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000521",
+    "channelType": "null",
+    "channelName": "高网"
   },
   {
-    "channelID": "00000001000000050000000000000105",
     "userChannelID": 208,
     "channelURL": "igmp://239.3.1.200:9008",
     "timeShift": true,
@@ -339,17 +338,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "IPTV5＋",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000105",
+    "channelType": "null",
+    "channelName": "IPTV5＋"
   },
   {
-    "channelID": "00000001000000050000000000000522",
     "userChannelID": 373,
     "channelURL": "igmp://239.3.1.89:4120",
     "timeShift": true,
@@ -358,11 +357,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "足球",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000522",
+    "channelType": "null",
+    "channelName": "足球"
   },
   {
-    "channelID": "00000001000000050000000000000523",
     "userChannelID": 374,
     "channelURL": "igmp://239.3.1.90:4120",
     "timeShift": true,
@@ -371,11 +370,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "武侠剧场",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000523",
+    "channelType": "null",
+    "channelName": "武侠剧场"
   },
   {
-    "channelID": "00000001000000050000000000000524",
     "userChannelID": 375,
     "channelURL": "igmp://239.3.1.91:4120",
     "timeShift": true,
@@ -384,11 +383,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "喜剧影院",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000524",
+    "channelType": "null",
+    "channelName": "喜剧影院"
   },
   {
-    "channelID": "00000001000000050000000000000527",
     "userChannelID": 378,
     "channelURL": "igmp://239.3.1.94:4120",
     "timeShift": true,
@@ -397,11 +396,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "星影",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000527",
+    "channelType": "null",
+    "channelName": "星影"
   },
   {
-    "channelID": "00000001000000050000000000000499",
     "userChannelID": 351,
     "channelURL": "igmp://239.3.1.67:4120",
     "timeShift": true,
@@ -410,11 +409,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "城市剧场",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000499",
+    "channelType": "null",
+    "channelName": "城市剧场"
   },
   {
-    "channelID": "00000001000000050000000000000266",
     "userChannelID": 48,
     "channelURL": "igmp://239.3.1.141:1234",
     "timeShift": true,
@@ -424,17 +423,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "天津卫视高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000266",
+    "channelType": "null",
+    "channelName": "天津卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000107",
     "userChannelID": 205,
     "channelURL": "igmp://239.3.1.197:9016",
     "timeShift": true,
@@ -444,17 +443,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "IPTV6＋",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000107",
+    "channelType": "null",
+    "channelName": "IPTV6＋"
   },
   {
-    "channelID": "00000001000000050000000000000472",
     "userChannelID": 51,
     "channelURL": "igmp://239.3.1.210:8056",
     "timeShift": true,
@@ -464,17 +463,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "辽宁卫视高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000472",
+    "channelType": "null",
+    "channelName": "辽宁卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000146",
     "userChannelID": 209,
     "channelURL": "igmp://239.3.1.201:8072",
     "timeShift": true,
@@ -484,17 +483,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "IPTV8＋",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000146",
+    "channelType": "null",
+    "channelName": "IPTV8＋"
   },
   {
-    "channelID": "00000001000000050000000000000470",
     "userChannelID": 50,
     "channelURL": "igmp://239.3.1.209:8052",
     "timeShift": true,
@@ -504,17 +503,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "山东卫视高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000470",
+    "channelType": "null",
+    "channelName": "山东卫视高清"
   },
   {
-    "channelID": "00005000000000000000000000000244",
     "userChannelID": 166,
     "channelURL": "igmp://239.3.1.143:4120",
     "timeShift": true,
@@ -524,17 +523,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "厦门卫视",
-    "channelType": "null"
+    "channelID": "00005000000000000000000000000244",
+    "channelType": "null",
+    "channelName": "厦门卫视"
   },
   {
-    "channelID": "00000001000000050000000000000516",
     "userChannelID": 368,
     "channelURL": "igmp://239.3.1.84:4120",
     "timeShift": true,
@@ -543,11 +542,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "光影",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000516",
+    "channelType": "null",
+    "channelName": "光影"
   },
   {
-    "channelID": "00000001000000050000000000000507",
     "userChannelID": 360,
     "channelURL": "igmp://239.3.1.76:4120",
     "timeShift": true,
@@ -556,11 +555,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "军事",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000507",
+    "channelType": "null",
+    "channelName": "军事"
   },
   {
-    "channelID": "00000001000000050000000000000509",
     "userChannelID": 361,
     "channelURL": "igmp://239.3.1.77:4120",
     "timeShift": true,
@@ -569,11 +568,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "国学",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000509",
+    "channelType": "null",
+    "channelName": "国学"
   },
   {
-    "channelID": "00000001000000050000000000000518",
     "userChannelID": 369,
     "channelURL": "igmp://239.3.1.85:4120",
     "timeShift": true,
@@ -582,11 +581,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "台球",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000518",
+    "channelType": "null",
+    "channelName": "台球"
   },
   {
-    "channelID": "00000001000000050000000000000519",
     "userChannelID": 370,
     "channelURL": "igmp://239.3.1.86:4120",
     "timeShift": true,
@@ -595,11 +594,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "爱生活",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000519",
+    "channelType": "null",
+    "channelName": "爱生活"
   },
   {
-    "channelID": "00000001000000050000000000000520",
     "userChannelID": 371,
     "channelURL": "igmp://239.3.1.87:4120",
     "timeShift": true,
@@ -608,11 +607,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "武术",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000520",
+    "channelType": "null",
+    "channelName": "武术"
   },
   {
-    "channelID": "00000001000000050000000000000525",
     "userChannelID": 376,
     "channelURL": "igmp://239.3.1.92:4120",
     "timeShift": true,
@@ -621,11 +620,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "动作影院",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000525",
+    "channelType": "null",
+    "channelName": "动作影院"
   },
   {
-    "channelID": "00000001000000050000000000000100",
     "userChannelID": 160,
     "channelURL": "igmp://239.3.1.47:8164",
     "timeShift": true,
@@ -635,17 +634,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "西藏卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000100",
+    "channelType": "null",
+    "channelName": "西藏卫视"
   },
   {
-    "channelID": "01010001000000050000000000000001",
     "userChannelID": 121,
     "channelURL": "igmp://239.3.1.225:8000",
     "timeShift": false,
@@ -655,17 +654,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV北京卫视",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000001",
+    "channelType": "null",
+    "channelName": "BRTV北京卫视"
   },
   {
-    "channelID": "00000001000000050000000000000056",
     "userChannelID": 111,
     "channelURL": "igmp://239.3.1.11:8040",
     "timeShift": false,
@@ -675,17 +674,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-11",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000056",
+    "channelType": "null",
+    "channelName": "CCTV-11"
   },
   {
-    "channelID": "01010001000000050000000000000021",
     "userChannelID": 21,
     "channelURL": "igmp://239.3.1.241:8000",
     "timeShift": true,
@@ -695,17 +694,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV北京卫视高清",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000021",
+    "channelType": "null",
+    "channelName": "BRTV北京卫视高清"
   },
   {
-    "channelID": "01010001000000050000000000000011",
     "userChannelID": 131,
     "channelURL": "igmp://239.3.1.235:8000",
     "timeShift": true,
@@ -715,17 +714,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BTV国际频道",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000011",
+    "channelType": "null",
+    "channelName": "BTV国际频道"
   },
   {
-    "channelID": "01010001000000050000000000000010",
     "userChannelID": 128,
     "channelURL": "igmp://239.3.1.234:8000",
     "timeShift": false,
@@ -735,17 +734,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV卡酷少儿",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000010",
+    "channelType": "null",
+    "channelName": "BRTV卡酷少儿"
   },
   {
-    "channelID": "00000001000000050000000000000093",
     "userChannelID": 136,
     "channelURL": "igmp://239.3.1.23:8144",
     "timeShift": true,
@@ -755,17 +754,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "天津卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000093",
+    "channelType": "null",
+    "channelName": "天津卫视"
   },
   {
-    "channelID": "01010001000000050000000000000004",
     "userChannelID": 124,
     "channelURL": "igmp://239.3.1.228:8000",
     "timeShift": false,
@@ -775,17 +774,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV影视",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000004",
+    "channelType": "null",
+    "channelName": "BRTV影视"
   },
   {
-    "channelID": "01010001000000050000000000000019",
     "userChannelID": 26,
     "channelURL": "igmp://239.3.1.243:8000",
     "timeShift": false,
@@ -795,17 +794,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV体育休闲高清",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000019",
+    "channelType": "null",
+    "channelName": "BRTV体育休闲高清"
   },
   {
-    "channelID": "00000001000000050000000000000058",
     "userChannelID": 102,
     "channelURL": "igmp://239.3.1.2:8004",
     "timeShift": false,
@@ -815,17 +814,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-2",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000058",
+    "channelType": "null",
+    "channelName": "CCTV-2"
   },
   {
-    "channelID": "00005000000000000000000000000248",
     "userChannelID": 139,
     "channelURL": "igmp://239.3.1.52:4120",
     "timeShift": true,
@@ -834,11 +833,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "山东教育",
-    "channelType": "1"
+    "channelID": "00005000000000000000000000000248",
+    "channelType": "1",
+    "channelName": "山东教育"
   },
   {
-    "channelID": "01010001000000050000000000000322",
     "userChannelID": 301,
     "channelURL": "igmp://239.3.1.96:8001",
     "timeShift": true,
@@ -847,11 +846,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "房山电视台",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000322",
+    "channelType": "null",
+    "channelName": "房山电视台"
   },
   {
-    "channelID": "01010001000000050000000000000328",
     "userChannelID": 34,
     "channelURL": "igmp://239.3.1.102:8001",
     "timeShift": true,
@@ -861,17 +860,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "萌宠TV",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000328",
+    "channelType": "null",
+    "channelName": "萌宠TV"
   },
   {
-    "channelID": "01010001000000050000000000000329",
     "userChannelID": 520,
     "channelURL": "igmp://239.3.1.104:8001",
     "timeShift": false,
@@ -880,11 +879,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "4K测试",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000329",
+    "channelType": "null",
+    "channelName": "4K测试"
   },
   {
-    "channelID": "01010001000000050000000000000330",
     "userChannelID": 521,
     "channelURL": "igmp://239.3.1.103:8001",
     "timeShift": false,
@@ -893,11 +892,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "高清测试",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000330",
+    "channelType": "null",
+    "channelName": "高清测试"
   },
   {
-    "channelID": "01010001000000050000000000000326",
     "userChannelID": 39,
     "channelURL": "igmp://239.3.1.100:8001",
     "timeShift": true,
@@ -906,11 +905,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "淘娱乐",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000326",
+    "channelType": "null",
+    "channelName": "淘娱乐"
   },
   {
-    "channelID": "00000001000000050000000000000573",
     "userChannelID": 4,
     "channelURL": "igmp://239.3.1.105:8092",
     "timeShift": true,
@@ -919,11 +918,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-4高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000573",
+    "channelType": "1",
+    "channelName": "CCTV-4高清"
   },
   {
-    "channelID": "00000001000000050000000000000589",
     "userChannelID": 163,
     "channelURL": "igmp://239.3.1.155:4120",
     "timeShift": true,
@@ -932,11 +931,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "三沙卫视",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000589",
+    "channelType": "1",
+    "channelName": "三沙卫视"
   },
   {
-    "channelID": "00000001000000050000000000000568",
     "userChannelID": 76,
     "channelURL": "igmp://239.3.1.57:8152",
     "timeShift": true,
@@ -945,11 +944,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CETV1高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000568",
+    "channelType": "1",
+    "channelName": "CETV1高清"
   },
   {
-    "channelID": "00000001000000050000000000000569",
     "userChannelID": 77,
     "channelURL": "igmp://239.3.1.58:8156",
     "timeShift": true,
@@ -958,11 +957,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "金鹰纪实高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000569",
+    "channelType": "1",
+    "channelName": "金鹰纪实高清"
   },
   {
-    "channelID": "00005000000000000000000000000251",
     "userChannelID": 172,
     "channelURL": "igmp://239.3.1.54:4120",
     "timeShift": true,
@@ -971,11 +970,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CETV2",
-    "channelType": "1"
+    "channelID": "00005000000000000000000000000251",
+    "channelType": "1",
+    "channelName": "CETV2"
   },
   {
-    "channelID": "00005000000000000000000000000250",
     "userChannelID": 173,
     "channelURL": "igmp://239.3.1.55:4120",
     "timeShift": true,
@@ -984,11 +983,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CETV3",
-    "channelType": "1"
+    "channelID": "00005000000000000000000000000250",
+    "channelType": "1",
+    "channelName": "CETV3"
   },
   {
-    "channelID": "00005000000000000000000000000252",
     "userChannelID": 174,
     "channelURL": "igmp://239.3.1.56:4120",
     "timeShift": true,
@@ -997,11 +996,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CETV4",
-    "channelType": "1"
+    "channelID": "00005000000000000000000000000252",
+    "channelType": "1",
+    "channelName": "CETV4"
   },
   {
-    "channelID": "00000001000000050000000000000590",
     "userChannelID": 380,
     "channelURL": "igmp://239.3.1.157:8176",
     "timeShift": false,
@@ -1010,11 +1009,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "体育赛事高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000590",
+    "channelType": "1",
+    "channelName": "体育赛事高清"
   },
   {
-    "channelID": "00000001000000050000000000000588",
     "userChannelID": 56,
     "channelURL": "igmp://239.3.1.156:8148",
     "timeShift": true,
@@ -1023,11 +1022,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "东南卫视高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000588",
+    "channelType": "1",
+    "channelName": "东南卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000587",
     "userChannelID": 15,
     "channelURL": "igmp://239.3.1.153:8136",
     "timeShift": true,
@@ -1036,11 +1035,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-15高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000587",
+    "channelType": "1",
+    "channelName": "CCTV-15高清"
   },
   {
-    "channelID": "00000001000000050000000000000583",
     "userChannelID": 11,
     "channelURL": "igmp://239.3.1.152:8120",
     "timeShift": true,
@@ -1049,11 +1048,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-11高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000583",
+    "channelType": "1",
+    "channelName": "CCTV-11高清"
   },
   {
-    "channelID": "00000001000000050000000000000575",
     "userChannelID": 73,
     "channelURL": "igmp://239.3.1.148:8072",
     "timeShift": true,
@@ -1062,11 +1061,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "河北卫视高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000575",
+    "channelType": "1",
+    "channelName": "河北卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000577",
     "userChannelID": 55,
     "channelURL": "igmp://239.3.1.149:8076",
     "timeShift": true,
@@ -1075,11 +1074,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "贵州卫视高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000577",
+    "channelType": "1",
+    "channelName": "贵州卫视高清"
   },
   {
-    "channelID": "01010001000000050000000000000364",
     "userChannelID": 24,
     "channelURL": "igmp://239.3.1.158:8000",
     "timeShift": true,
@@ -1089,17 +1088,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV影视高清",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000364",
+    "channelType": "1",
+    "channelName": "BRTV影视高清"
   },
   {
-    "channelID": "01010001000000050000000000000365",
     "userChannelID": 29,
     "channelURL": "igmp://239.3.1.159:8000",
     "timeShift": true,
@@ -1109,17 +1108,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV新闻高清 ",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000365",
+    "channelType": "1",
+    "channelName": "BRTV新闻高清 "
   },
   {
-    "channelID": "01010001000000050000000000000370",
     "userChannelID": 3,
     "channelURL": "igmp://239.3.1.172:8001",
     "timeShift": true,
@@ -1129,17 +1128,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-3高清",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000370",
+    "channelType": "1",
+    "channelName": "CCTV-3高清"
   },
   {
-    "channelID": "01010001000000050000000000000371",
     "userChannelID": 5,
     "channelURL": "igmp://239.3.1.173:8001",
     "timeShift": true,
@@ -1149,17 +1148,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-5高清",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000371",
+    "channelType": "1",
+    "channelName": "CCTV-5高清"
   },
   {
-    "channelID": "01010001000000050000000000000372",
     "userChannelID": 6,
     "channelURL": "igmp://239.3.1.174:8001",
     "timeShift": false,
@@ -1169,17 +1168,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-6高清",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000372",
+    "channelType": "1",
+    "channelName": "CCTV-6高清"
   },
   {
-    "channelID": "01010001000000050000000000000375",
     "userChannelID": 8,
     "channelURL": "igmp://239.3.1.175:8001",
     "timeShift": true,
@@ -1189,17 +1188,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-8高清",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000375",
+    "channelType": "null",
+    "channelName": "CCTV-8高清"
   },
   {
-    "channelID": "01010001000000050000000000000378",
     "userChannelID": 103,
     "channelURL": "igmp://239.3.1.107:8001",
     "timeShift": false,
@@ -1209,17 +1208,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-3",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000378",
+    "channelType": "null",
+    "channelName": "CCTV-3"
   },
   {
-    "channelID": "01010001000000050000000000000379",
     "userChannelID": 105,
     "channelURL": "igmp://239.3.1.108:8001\t",
     "timeShift": false,
@@ -1229,17 +1228,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-5",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000379",
+    "channelType": "null",
+    "channelName": "CCTV-5"
   },
   {
-    "channelID": "01010001000000050000000000000380",
     "userChannelID": 106,
     "channelURL": "igmp://239.3.1.109:8001",
     "timeShift": false,
@@ -1249,17 +1248,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-6",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000380",
+    "channelType": "null",
+    "channelName": "CCTV-6"
   },
   {
-    "channelID": "01010001000000050000000000000381",
     "userChannelID": 108,
     "channelURL": "igmp://239.3.1.110:8001",
     "timeShift": false,
@@ -1269,17 +1268,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-8",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000381",
+    "channelType": "null",
+    "channelName": "CCTV-8"
   },
   {
-    "channelID": "01010001000000050000000000000383",
     "userChannelID": 31,
     "channelURL": "igmp://239.3.1.178:8001",
     "timeShift": true,
@@ -1288,11 +1287,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "淘精彩",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000383",
+    "channelType": "1",
+    "channelName": "淘精彩"
   },
   {
-    "channelID": "01010001000000050000000000000397",
     "userChannelID": 28,
     "channelURL": "igmp://239.3.1.189:8000",
     "timeShift": true,
@@ -1302,17 +1301,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV卡酷少儿高清",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000397",
+    "channelType": "1",
+    "channelName": "BRTV卡酷少儿高清"
   },
   {
-    "channelID": "01010001000000050000000000000384",
     "userChannelID": 19,
     "channelURL": "igmp://239.3.1.179:8001",
     "timeShift": true,
@@ -1322,17 +1321,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "聚鲨环球精选",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000384",
+    "channelType": "1",
+    "channelName": "聚鲨环球精选"
   },
   {
-    "channelID": "00000001000000050000000000000545",
     "userChannelID": 401,
     "channelURL": "igmp://239.3.1.236:2000",
     "timeShift": false,
@@ -1342,17 +1341,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "爱上4K",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000545",
+    "channelType": "null",
+    "channelName": "爱上4K"
   },
   {
-    "channelID": "00000001000000050000000000000097",
     "userChannelID": 161,
     "channelURL": "igmp://239.3.1.48:8160",
     "timeShift": true,
@@ -1362,17 +1361,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "新疆卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000097",
+    "channelType": "null",
+    "channelName": "新疆卫视"
   },
   {
-    "channelID": "00000001000000050000000000000088",
     "userChannelID": 158,
     "channelURL": "igmp://239.3.1.45:8304",
     "timeShift": true,
@@ -1382,17 +1381,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "海南卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000088",
+    "channelType": "null",
+    "channelName": "海南卫视"
   },
   {
-    "channelID": "00000001000000050000000000000096",
     "userChannelID": 157,
     "channelURL": "igmp://239.3.1.44:8184",
     "timeShift": true,
@@ -1402,17 +1401,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "青海卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000096",
+    "channelType": "null",
+    "channelName": "青海卫视"
   },
   {
-    "channelID": "00000001000000050000000000000086",
     "userChannelID": 152,
     "channelURL": "igmp://239.3.1.39:8300",
     "timeShift": true,
@@ -1422,17 +1421,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "广西卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000086",
+    "channelType": "null",
+    "channelName": "广西卫视"
   },
   {
-    "channelID": "00000001000000050000000000000098",
     "userChannelID": 156,
     "channelURL": "igmp://239.3.1.43:8176",
     "timeShift": true,
@@ -1442,17 +1441,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "内蒙古卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000098",
+    "channelType": "null",
+    "channelName": "内蒙古卫视"
   },
   {
-    "channelID": "00000001000000050000000000000089",
     "userChannelID": 151,
     "channelURL": "igmp://239.3.1.38:8132",
     "timeShift": true,
@@ -1462,17 +1461,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "广东卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000089",
+    "channelType": "null",
+    "channelName": "广东卫视"
   },
   {
-    "channelID": "00000001000000050000000000000511",
     "userChannelID": 363,
     "channelURL": "igmp://239.3.1.79:4120",
     "timeShift": true,
@@ -1481,11 +1480,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "早教",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000511",
+    "channelType": "null",
+    "channelName": "早教"
   },
   {
-    "channelID": "00000001000000050000000000000506",
     "userChannelID": 359,
     "channelURL": "igmp://239.3.1.75:4120",
     "timeShift": true,
@@ -1494,11 +1493,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "解密",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000506",
+    "channelType": "null",
+    "channelName": "解密"
   },
   {
-    "channelID": "00000001000000050000000000000267",
     "userChannelID": 47,
     "channelURL": "igmp://239.3.1.138:8044",
     "timeShift": true,
@@ -1508,17 +1507,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "湖北卫视高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000267",
+    "channelType": "null",
+    "channelName": "湖北卫视高清"
   },
   {
-    "channelID": "01010001000000050000000000000009",
     "userChannelID": 129,
     "channelURL": "igmp://239.3.1.233:8000",
     "timeShift": false,
@@ -1528,17 +1527,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV新闻",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000009",
+    "channelType": "null",
+    "channelName": "BRTV新闻"
   },
   {
-    "channelID": "00000001000000050000000000000053",
     "userChannelID": 104,
     "channelURL": "igmp://239.3.1.4:8216",
     "timeShift": false,
@@ -1548,17 +1547,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-4",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000053",
+    "channelType": "null",
+    "channelName": "CCTV-4"
   },
   {
-    "channelID": "00000001000000050000000000000099",
     "userChannelID": 155,
     "channelURL": "igmp://239.3.1.42:8172",
     "timeShift": true,
@@ -1568,17 +1567,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "山西卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000099",
+    "channelType": "null",
+    "channelName": "山西卫视"
   },
   {
-    "channelID": "00000001000000050000000000000090",
     "userChannelID": 154,
     "channelURL": "igmp://239.3.1.41:8140",
     "timeShift": true,
@@ -1588,17 +1587,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "陕西卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000090",
+    "channelType": "null",
+    "channelName": "陕西卫视"
   },
   {
-    "channelID": "00000001000000050000000000000153",
     "userChannelID": 18,
     "channelURL": "igmp://239.3.1.130:8004",
     "timeShift": true,
@@ -1608,17 +1607,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-5+",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000153",
+    "channelType": "null",
+    "channelName": "CCTV-5+"
   },
   {
-    "channelID": "00000001000000050000000000000512",
     "userChannelID": 364,
     "channelURL": "igmp://239.3.1.80:4120",
     "timeShift": true,
@@ -1627,11 +1626,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "动画",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000512",
+    "channelType": "null",
+    "channelName": "动画"
   },
   {
-    "channelID": "00000001000000050000000000000513",
     "userChannelID": 365,
     "channelURL": "igmp://239.3.1.81:4120",
     "timeShift": true,
@@ -1640,11 +1639,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "好学生",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000513",
+    "channelType": "null",
+    "channelName": "好学生"
   },
   {
-    "channelID": "00000001000000050000000000000091",
     "userChannelID": 153,
     "channelURL": "igmp://239.3.1.40:8200",
     "timeShift": true,
@@ -1654,17 +1653,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "吉林卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000091",
+    "channelType": "null",
+    "channelName": "吉林卫视"
   },
   {
-    "channelID": "00000001000000050000000000000079",
     "userChannelID": 150,
     "channelURL": "igmp://239.3.1.37:8292",
     "timeShift": false,
@@ -1674,17 +1673,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "河北卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000079",
+    "channelType": "null",
+    "channelName": "河北卫视"
   },
   {
-    "channelID": "00000001000000050000000000000075",
     "userChannelID": 149,
     "channelURL": "igmp://239.3.1.36:8112",
     "timeShift": false,
@@ -1694,17 +1693,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "东南卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000075",
+    "channelType": "null",
+    "channelName": "东南卫视"
   },
   {
-    "channelID": "00000001000000050000000000000072",
     "userChannelID": 134,
     "channelURL": "igmp://239.3.1.20:8276",
     "timeShift": true,
@@ -1714,17 +1713,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "江苏卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000072",
+    "channelType": "null",
+    "channelName": "江苏卫视"
   },
   {
-    "channelID": "00000001000000050000000000000062",
     "userChannelID": 137,
     "channelURL": "igmp://239.3.1.24:8116",
     "timeShift": true,
@@ -1734,17 +1733,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "辽宁卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000062",
+    "channelType": "null",
+    "channelName": "辽宁卫视"
   },
   {
-    "channelID": "00000001000000050000000000000083",
     "userChannelID": 148,
     "channelURL": "igmp://239.3.1.35:8296",
     "timeShift": false,
@@ -1754,17 +1753,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "重庆卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000083",
+    "channelType": "null",
+    "channelName": "重庆卫视"
   },
   {
-    "channelID": "00000001000000050000000000000081",
     "userChannelID": 144,
     "channelURL": "igmp://239.3.1.31:8120",
     "timeShift": false,
@@ -1774,17 +1773,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "贵州卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000081",
+    "channelType": "null",
+    "channelName": "贵州卫视"
   },
   {
-    "channelID": "00000001000000050000000000000076",
     "userChannelID": 147,
     "channelURL": "igmp://239.3.1.34:8192",
     "timeShift": true,
@@ -1794,17 +1793,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "东方卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000076",
+    "channelType": "null",
+    "channelName": "东方卫视"
   },
   {
-    "channelID": "00000001000000050000000000000148",
     "userChannelID": 116,
     "channelURL": "igmp://239.3.1.16:8056",
     "timeShift": true,
@@ -1814,17 +1813,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000148",
+    "channelType": "null",
+    "channelName": "CGTN"
   },
   {
-    "channelID": "00000001000000050000000000000149",
     "userChannelID": 145,
     "channelURL": "igmp://239.3.1.32:9244",
     "timeShift": true,
@@ -1834,17 +1833,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "深圳卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000149",
+    "channelType": "null",
+    "channelName": "深圳卫视"
   },
   {
-    "channelID": "00000001000000050000000000000092",
     "userChannelID": 146,
     "channelURL": "igmp://239.3.1.33:8136",
     "timeShift": true,
@@ -1854,17 +1853,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "湖北卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000092",
+    "channelType": "null",
+    "channelName": "湖北卫视"
   },
   {
-    "channelID": "00000001000000050000000000000078",
     "userChannelID": 141,
     "channelURL": "igmp://239.3.1.28:8196",
     "timeShift": true,
@@ -1874,17 +1873,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "黑龙江卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000078",
+    "channelType": "null",
+    "channelName": "黑龙江卫视"
   },
   {
-    "channelID": "00000001000000050000000000000064",
     "userChannelID": 115,
     "channelURL": "igmp://239.3.1.15:8052",
     "timeShift": false,
@@ -1894,17 +1893,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-15",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000064",
+    "channelType": "null",
+    "channelName": "CCTV-15"
   },
   {
-    "channelID": "00000001000000050000000000000085",
     "userChannelID": 140,
     "channelURL": "igmp://239.3.1.27:8128",
     "timeShift": true,
@@ -1914,17 +1913,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "河南卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000085",
+    "channelType": "null",
+    "channelName": "河南卫视"
   },
   {
-    "channelID": "00000001000000050000000000000102",
     "userChannelID": 107,
     "channelURL": "igmp://239.3.1.7:8024",
     "timeShift": false,
@@ -1934,17 +1933,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-7",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000102",
+    "channelType": "null",
+    "channelName": "CCTV-7"
   },
   {
-    "channelID": "00000001000000050000000000000066",
     "userChannelID": 114,
     "channelURL": "igmp://239.3.1.14:8236",
     "timeShift": false,
@@ -1954,17 +1953,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-14",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000066",
+    "channelType": "null",
+    "channelName": "CCTV-14"
   },
   {
-    "channelID": "00000001000000050000000000000065",
     "userChannelID": 143,
     "channelURL": "igmp://239.3.1.30:8280",
     "timeShift": false,
@@ -1974,17 +1973,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "江西卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000065",
+    "channelType": "null",
+    "channelName": "江西卫视"
   },
   {
-    "channelID": "00000001000000050000000000000069",
     "userChannelID": 142,
     "channelURL": "igmp://239.3.1.29:8288",
     "timeShift": true,
@@ -1994,17 +1993,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "四川卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000069",
+    "channelType": "null",
+    "channelName": "四川卫视"
   },
   {
-    "channelID": "00000001000000050000000000000095",
     "userChannelID": 138,
     "channelURL": "igmp://239.3.1.25:8148",
     "timeShift": true,
@@ -2014,17 +2013,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "山东卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000095",
+    "channelType": "null",
+    "channelName": "山东卫视"
   },
   {
-    "channelID": "00000001000000050000000000000060",
     "userChannelID": 164,
     "channelURL": "igmp://239.3.1.26:8108",
     "timeShift": true,
@@ -2034,17 +2033,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "云南卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000060",
+    "channelType": "null",
+    "channelName": "云南卫视"
   },
   {
-    "channelID": "00000001000000050000000000000087",
     "userChannelID": 110,
     "channelURL": "igmp://239.3.1.10:8228",
     "timeShift": false,
@@ -2054,17 +2053,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-10",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000087",
+    "channelType": "null",
+    "channelName": "CCTV-10"
   },
   {
-    "channelID": "00000001000000050000000000000057",
     "userChannelID": 135,
     "channelURL": "igmp://239.3.1.21:8272",
     "timeShift": true,
@@ -2074,17 +2073,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "安徽卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000057",
+    "channelType": "null",
+    "channelName": "安徽卫视"
   },
   {
-    "channelID": "00000001000000050000000000000063",
     "userChannelID": 113,
     "channelURL": "igmp://239.3.1.13:8048",
     "timeShift": false,
@@ -2094,17 +2093,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-13",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000063",
+    "channelType": "null",
+    "channelName": "CCTV-13"
   },
   {
-    "channelID": "00000001000000050000000000000070",
     "userChannelID": 133,
     "channelURL": "igmp://239.3.1.19:8284",
     "timeShift": true,
@@ -2114,17 +2113,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "浙江卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000070",
+    "channelType": "null",
+    "channelName": "浙江卫视"
   },
   {
-    "channelID": "00000001000000050000000000000067",
     "userChannelID": 132,
     "channelURL": "igmp://239.3.1.18:8268",
     "timeShift": true,
@@ -2134,17 +2133,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "湖南卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000067",
+    "channelType": "null",
+    "channelName": "湖南卫视"
   },
   {
-    "channelID": "00000001000000050000000000000059",
     "userChannelID": 112,
     "channelURL": "igmp://239.3.1.12:8232",
     "timeShift": false,
@@ -2154,17 +2153,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-12",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000059",
+    "channelType": "null",
+    "channelName": "CCTV-12"
   },
   {
-    "channelID": "00000001000000050000000000000106",
     "userChannelID": 204,
     "channelURL": "igmp://239.3.1.196:9012",
     "timeShift": true,
@@ -2174,17 +2173,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "魅力时尚",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000106",
+    "channelType": "null",
+    "channelName": "魅力时尚"
   },
   {
-    "channelID": "00000001000000050000000000000108",
     "userChannelID": 202,
     "channelURL": "igmp://239.3.1.194:9020",
     "timeShift": true,
@@ -2194,17 +2193,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "热播剧场",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000108",
+    "channelType": "null",
+    "channelName": "热播剧场"
   },
   {
-    "channelID": "00000001000000050000000000000151",
     "userChannelID": 169,
     "channelURL": "igmp://239.3.1.51:9252",
     "timeShift": true,
@@ -2214,17 +2213,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "金鹰卡通",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000151",
+    "channelType": "null",
+    "channelName": "金鹰卡通"
   },
   {
-    "channelID": "00000001000000050000000000000110",
     "userChannelID": 201,
     "channelURL": "igmp://239.3.1.193:8012",
     "timeShift": true,
@@ -2234,17 +2233,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "收视指南",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000110",
+    "channelType": "null",
+    "channelName": "收视指南"
   },
   {
-    "channelID": "00000001000000050000000000000198",
     "userChannelID": 44,
     "channelURL": "igmp://239.3.1.135:8028",
     "timeShift": true,
@@ -2254,17 +2253,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "江苏卫视高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000198",
+    "channelType": "null",
+    "channelName": "江苏卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000084",
     "userChannelID": 109,
     "channelURL": "igmp://239.3.1.9:8032",
     "timeShift": false,
@@ -2274,17 +2273,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-9",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000084",
+    "channelType": "null",
+    "channelName": "CCTV-9"
   },
   {
-    "channelID": "00005000000000000000000000000263",
     "userChannelID": 45,
     "channelURL": "igmp://239.3.1.136:8032",
     "timeShift": true,
@@ -2294,17 +2293,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "东方卫视高清",
-    "channelType": "null"
+    "channelID": "00005000000000000000000000000263",
+    "channelType": "null",
+    "channelName": "东方卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000152",
     "userChannelID": 1,
     "channelURL": "igmp://239.3.1.129:8008",
     "timeShift": true,
@@ -2314,17 +2313,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-1高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000152",
+    "channelType": "null",
+    "channelName": "CCTV-1高清"
   },
   {
-    "channelID": "00000001000000050000000000000473",
     "userChannelID": 52,
     "channelURL": "igmp://239.3.1.211:8064",
     "timeShift": true,
@@ -2334,17 +2333,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "安徽卫视高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000473",
+    "channelType": "null",
+    "channelName": "安徽卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000514",
     "userChannelID": 366,
     "channelURL": "igmp://239.3.1.82:4120",
     "timeShift": true,
@@ -2353,11 +2352,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "鉴赏",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000514",
+    "channelType": "null",
+    "channelName": "鉴赏"
   },
   {
-    "channelID": "00000001000000050000000000000515",
     "userChannelID": 367,
     "channelURL": "igmp://239.3.1.83:4120",
     "timeShift": true,
@@ -2366,11 +2365,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "墨宝",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000515",
+    "channelType": "null",
+    "channelName": "墨宝"
   },
   {
-    "channelID": "00000001000000050000000000000526",
     "userChannelID": 377,
     "channelURL": "igmp://239.3.1.93:4120",
     "timeShift": true,
@@ -2379,11 +2378,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "家庭影院",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000526",
+    "channelType": "null",
+    "channelName": "家庭影院"
   },
   {
-    "channelID": "00000001100000051406111514059258",
     "userChannelID": 75,
     "channelURL": "igmp://239.3.1.212:8060",
     "timeShift": true,
@@ -2393,17 +2392,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "纪实频道HD",
-    "channelType": "null"
+    "channelID": "00000001100000051406111514059258",
+    "channelType": "null",
+    "channelName": "纪实频道HD"
   },
   {
-    "channelID": "00000001000000050000000000000498",
     "userChannelID": 355,
     "channelURL": "igmp://239.3.1.71:4120",
     "timeShift": false,
@@ -2412,11 +2411,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "地理",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000498",
+    "channelType": "null",
+    "channelName": "地理"
   },
   {
-    "channelID": "00000001000000050000000000000265",
     "userChannelID": 46,
     "channelURL": "igmp://239.3.1.137:8036",
     "timeShift": true,
@@ -2426,17 +2425,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "浙江卫视高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000265",
+    "channelType": "null",
+    "channelName": "浙江卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000483",
     "userChannelID": 14,
     "channelURL": "igmp://239.3.1.65:8132",
     "timeShift": true,
@@ -2445,11 +2444,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-14高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000483",
+    "channelType": "null",
+    "channelName": "CCTV-14高清"
   },
   {
-    "channelID": "00000001000000050000000000000482",
     "userChannelID": 12,
     "channelURL": "igmp://239.3.1.64:8124",
     "timeShift": true,
@@ -2458,11 +2457,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-12高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000482",
+    "channelType": "null",
+    "channelName": "CCTV-12高清"
   },
   {
-    "channelID": "01010001000000050000000000000017",
     "userChannelID": 37,
     "channelURL": "igmp://239.3.1.95:8001",
     "timeShift": true,
@@ -2472,17 +2471,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "淘剧场",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000017",
+    "channelType": "null",
+    "channelName": "淘剧场"
   },
   {
-    "channelID": "00000001000000050000000000000445",
     "userChannelID": 72,
     "channelURL": "igmp://239.3.1.142:8048",
     "timeShift": true,
@@ -2492,17 +2491,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "广东卫视高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000445",
+    "channelType": "null",
+    "channelName": "广东卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000448",
     "userChannelID": 170,
     "channelURL": "igmp://239.3.1.147:9268",
     "timeShift": true,
@@ -2512,17 +2511,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "嘉佳卡通",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000448",
+    "channelType": "null",
+    "channelName": "嘉佳卡通"
   },
   {
-    "channelID": "00000001000000050000000000000055",
     "userChannelID": 101,
     "channelURL": "igmp://239.3.1.1:8000",
     "timeShift": false,
@@ -2532,17 +2531,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-1",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000055",
+    "channelType": "null",
+    "channelName": "CCTV-1"
   },
   {
-    "channelID": "00000001000000050000000000000195",
     "userChannelID": 41,
     "channelURL": "igmp://239.3.1.132:8012",
     "timeShift": true,
@@ -2552,17 +2551,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "湖南卫视高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000195",
+    "channelType": "null",
+    "channelName": "湖南卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000103",
     "userChannelID": 207,
     "channelURL": "igmp://239.3.1.199:9000",
     "timeShift": true,
@@ -2572,17 +2571,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "少儿动画",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000103",
+    "channelType": "null",
+    "channelName": "少儿动画"
   },
   {
-    "channelID": "01010001000000050000000000000020",
     "userChannelID": 22,
     "channelURL": "igmp://239.3.1.242:8000",
     "timeShift": true,
@@ -2592,17 +2591,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV文艺高清",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000020",
+    "channelType": "null",
+    "channelName": "BRTV文艺高清"
   },
   {
-    "channelID": "01010001000000050000000000000003",
     "userChannelID": 123,
     "channelURL": "igmp://239.3.1.227:8000",
     "timeShift": false,
@@ -2612,17 +2611,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV纪实科教",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000003",
+    "channelType": "null",
+    "channelName": "BRTV纪实科教"
   },
   {
-    "channelID": "01010001000000050000000000000007",
     "userChannelID": 127,
     "channelURL": "igmp://239.3.1.231:8000",
     "timeShift": false,
@@ -2632,17 +2631,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV生活",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000007",
+    "channelType": "null",
+    "channelName": "BRTV生活"
   },
   {
-    "channelID": "01010001000000050000000000000018",
     "userChannelID": 505,
     "channelURL": "igmp://239.3.1.253:8001",
     "timeShift": false,
@@ -2652,17 +2651,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "轮播频道5",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000018",
+    "channelType": "null",
+    "channelName": "轮播频道5"
   },
   {
-    "channelID": "01010001000000050000000000000005",
     "userChannelID": 125,
     "channelURL": "igmp://239.3.1.229:8000",
     "timeShift": false,
@@ -2672,17 +2671,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV财经",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000005",
+    "channelType": "null",
+    "channelName": "BRTV财经"
   },
   {
-    "channelID": "01010001000000050000000000000127",
     "userChannelID": 502,
     "channelURL": "igmp://239.3.1.140:8001",
     "timeShift": true,
@@ -2692,17 +2691,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "VBR测试-2",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000127",
+    "channelType": "null",
+    "channelName": "VBR测试-2"
   },
   {
-    "channelID": "01010001000000050000000000000006",
     "userChannelID": 126,
     "channelURL": "igmp://239.3.1.230:8000",
     "timeShift": false,
@@ -2712,17 +2711,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV体育休闲",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000006",
+    "channelType": "null",
+    "channelName": "BRTV体育休闲"
   },
   {
-    "channelID": "01010001000000050000000000000002",
     "userChannelID": 122,
     "channelURL": "igmp://239.3.1.226:8000",
     "timeShift": false,
@@ -2732,17 +2731,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV文艺",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000002",
+    "channelType": "null",
+    "channelName": "BRTV文艺"
   },
   {
-    "channelID": "00000001000000050000000000000477",
     "userChannelID": 2,
     "channelURL": "igmp://239.3.1.60:8084",
     "timeShift": true,
@@ -2751,11 +2750,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-2高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000477",
+    "channelType": "null",
+    "channelName": "CCTV-2高清"
   },
   {
-    "channelID": "00000001000000050000000000000478",
     "userChannelID": 9,
     "channelURL": "igmp://239.3.1.62:8112",
     "timeShift": true,
@@ -2764,11 +2763,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-9高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000478",
+    "channelType": "null",
+    "channelName": "CCTV-9高清"
   },
   {
-    "channelID": "00000001000000050000000000000485",
     "userChannelID": 7,
     "channelURL": "igmp://239.3.1.61:8104",
     "timeShift": true,
@@ -2777,11 +2776,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-7高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000485",
+    "channelType": "null",
+    "channelName": "CCTV-7高清"
   },
   {
-    "channelID": "00000001000000050000000000000197",
     "userChannelID": 74,
     "channelURL": "igmp://239.3.1.134:8020",
     "timeShift": true,
@@ -2791,17 +2790,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "深圳卫视高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000197",
+    "channelType": "null",
+    "channelName": "深圳卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000196",
     "userChannelID": 53,
     "channelURL": "igmp://239.3.1.133:8016",
     "timeShift": true,
@@ -2811,17 +2810,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "黑龙江卫视高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000196",
+    "channelType": "null",
+    "channelName": "黑龙江卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000183",
     "userChannelID": 165,
     "channelURL": "igmp://239.3.1.53:9136",
     "timeShift": true,
@@ -2831,17 +2830,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "财富天下",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000183",
+    "channelType": "null",
+    "channelName": "财富天下"
   },
   {
-    "channelID": "00000001000000050000000000000480",
     "userChannelID": 10,
     "channelURL": "igmp://239.3.1.63:8116",
     "timeShift": true,
@@ -2850,11 +2849,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-10高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000480",
+    "channelType": "null",
+    "channelName": "CCTV-10高清"
   },
   {
-    "channelID": "00000001000000050000000000000109",
     "userChannelID": 203,
     "channelURL": "igmp://239.3.1.195:9024",
     "timeShift": true,
@@ -2864,17 +2863,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "经典电影",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000109",
+    "channelType": "null",
+    "channelName": "经典电影"
   },
   {
-    "channelID": "01010001000000050000000000000126",
     "userChannelID": 515,
     "channelURL": "igmp://239.3.1.139:8001",
     "timeShift": false,
@@ -2884,17 +2883,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "VBR测试-1",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000126",
+    "channelType": "null",
+    "channelName": "VBR测试-1"
   },
   {
-    "channelID": "00000001000000050000000000000510",
     "userChannelID": 362,
     "channelURL": "igmp://239.3.1.78:4120",
     "timeShift": true,
@@ -2903,11 +2902,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "戏曲",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000510",
+    "channelType": "null",
+    "channelName": "戏曲"
   },
   {
-    "channelID": "00000001000000050000000000000082",
     "userChannelID": 159,
     "channelURL": "igmp://239.3.1.46:8124",
     "timeShift": true,
@@ -2917,17 +2916,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "宁夏卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000082",
+    "channelType": "null",
+    "channelName": "宁夏卫视"
   },
   {
-    "channelID": "00000001000000050000000000000094",
     "userChannelID": 162,
     "channelURL": "igmp://239.3.1.49:8188",
     "timeShift": true,
@@ -2937,17 +2936,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "甘肃卫视",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000094",
+    "channelType": "null",
+    "channelName": "甘肃卫视"
   },
   {
-    "channelID": "00000001000000050000000000000546",
     "userChannelID": 379,
     "channelURL": "igmp://239.3.1.237:4120",
     "timeShift": true,
@@ -2957,17 +2956,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "IPTV5＋高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000546",
+    "channelType": "null",
+    "channelName": "IPTV5＋高清"
   },
   {
-    "channelID": "00000001000000050000000000000615",
     "userChannelID": 345,
     "channelURL": "igmp://239.3.1.217:4220",
     "timeShift": true,
@@ -2976,11 +2975,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN西班牙语",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000615",
+    "channelType": "null",
+    "channelName": "CGTN西班牙语"
   },
   {
-    "channelID": "00000001000000050000000000000613",
     "userChannelID": 343,
     "channelURL": "igmp://239.3.1.215:4220",
     "timeShift": true,
@@ -2989,11 +2988,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN英语",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000613",
+    "channelType": "null",
+    "channelName": "CGTN英语"
   },
   {
-    "channelID": "00000001000000050000000000000612",
     "userChannelID": 342,
     "channelURL": "igmp://239.3.1.214:4220",
     "timeShift": true,
@@ -3003,17 +3002,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-4美洲高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000612",
+    "channelType": "null",
+    "channelName": "CCTV-4美洲高清"
   },
   {
-    "channelID": "00000001000000050000000000000611",
     "userChannelID": 341,
     "channelURL": "igmp://239.3.1.213:4220",
     "timeShift": true,
@@ -3023,17 +3022,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-4欧洲高清",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000611",
+    "channelType": "null",
+    "channelName": "CCTV-4欧洲高清"
   },
   {
-    "channelID": "00000001000000050000000000000618",
     "userChannelID": 348,
     "channelURL": "igmp://239.3.1.220:4220",
     "timeShift": true,
@@ -3042,11 +3041,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN俄语",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000618",
+    "channelType": "null",
+    "channelName": "CGTN俄语"
   },
   {
-    "channelID": "00000001000000050000000000000617",
     "userChannelID": 347,
     "channelURL": "igmp://239.3.1.219:4220",
     "timeShift": true,
@@ -3055,11 +3054,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN阿拉伯语",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000617",
+    "channelType": "null",
+    "channelName": "CGTN阿拉伯语"
   },
   {
-    "channelID": "00000001000000050000000000000616",
     "userChannelID": 346,
     "channelURL": "igmp://239.3.1.218:4220",
     "timeShift": true,
@@ -3068,11 +3067,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN法语",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000616",
+    "channelType": "null",
+    "channelName": "CGTN法语"
   },
   {
-    "channelID": "00000001000000050000000000000614",
     "userChannelID": 344,
     "channelURL": "igmp://239.3.1.216:4220",
     "timeShift": true,
@@ -3081,11 +3080,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN英文纪录",
-    "channelType": "null"
+    "channelID": "00000001000000050000000000000614",
+    "channelType": "null",
+    "channelName": "CGTN英文纪录"
   },
   {
-    "channelID": "01010001000000050000000000000407",
     "userChannelID": 23,
     "channelURL": "igmp://239.3.1.115:8000",
     "timeShift": true,
@@ -3095,17 +3094,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV纪实科教高清",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000407",
+    "channelType": "1",
+    "channelName": "BRTV纪实科教高清"
   },
   {
-    "channelID": "01010001000000050000000000000408",
     "userChannelID": 25,
     "channelURL": "igmp://239.3.1.116:8000",
     "timeShift": true,
@@ -3115,17 +3114,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV财经高清",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000408",
+    "channelType": "1",
+    "channelName": "BRTV财经高清"
   },
   {
-    "channelID": "01010001000000050000000000000409",
     "userChannelID": 27,
     "channelURL": "igmp://239.3.1.117:8000",
     "timeShift": true,
@@ -3135,17 +3134,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV生活高清",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000409",
+    "channelType": "1",
+    "channelName": "BRTV生活高清"
   },
   {
-    "channelID": "01010001000000050000000000000412",
     "userChannelID": 403,
     "channelURL": "igmp://239.3.1.120:8000",
     "timeShift": false,
@@ -3155,17 +3154,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV体育休闲4K HDR",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000412",
+    "channelType": "1",
+    "channelName": "BRTV体育休闲4K HDR"
   },
   {
-    "channelID": "01010001000000050000000000000413",
     "userChannelID": 404,
     "channelURL": "igmp://239.3.1.121:8000",
     "timeShift": false,
@@ -3175,17 +3174,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV体育休闲4K SDR",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000413",
+    "channelType": "1",
+    "channelName": "BRTV体育休闲4K SDR"
   },
   {
-    "channelID": "00000001000000050000000000000602",
     "userChannelID": 13,
     "channelURL": "igmp://239.3.1.124:8128",
     "timeShift": true,
@@ -3194,11 +3193,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-13高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000602",
+    "channelType": "1",
+    "channelName": "CCTV-13高清"
   },
   {
-    "channelID": "00000001000000050000000000000609",
     "userChannelID": 57,
     "channelURL": "igmp://239.3.1.122:8160",
     "timeShift": true,
@@ -3208,17 +3207,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "重庆卫视高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000609",
+    "channelType": "1",
+    "channelName": "重庆卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000608",
     "userChannelID": 58,
     "channelURL": "igmp://239.3.1.123:8164",
     "timeShift": true,
@@ -3228,17 +3227,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "江西卫视高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000608",
+    "channelType": "1",
+    "channelName": "江西卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000626",
     "userChannelID": 85,
     "channelURL": "igmp://239.3.1.244:2000",
     "timeShift": false,
@@ -3247,11 +3246,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV4K超高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000626",
+    "channelType": "1",
+    "channelName": "CCTV4K超高清"
   },
   {
-    "channelID": "00000001000000050000000000000606",
     "userChannelID": 86,
     "channelURL": "igmp://239.3.1.245:2000",
     "timeShift": false,
@@ -3260,11 +3259,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV4K超高清HDR",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000606",
+    "channelType": "1",
+    "channelName": "CCTV4K超高清HDR"
   },
   {
-    "channelID": "01010001000000050000000000000465",
     "userChannelID": 49,
     "channelURL": "igmp://239.3.1.160:8001",
     "timeShift": true,
@@ -3273,11 +3272,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "聚鲨环球",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000465",
+    "channelType": "1",
+    "channelName": "聚鲨环球"
   },
   {
-    "channelID": "00000001000000050000000000000619",
     "userChannelID": 78,
     "channelURL": "igmp://239.3.1.240:8172",
     "timeShift": true,
@@ -3286,11 +3285,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "吉林卫视高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000619",
+    "channelType": "1",
+    "channelName": "吉林卫视高清"
   },
   {
-    "channelID": "01010001000000050000000000000455",
     "userChannelID": 60,
     "channelURL": "igmp://239.3.1.190:8001",
     "timeShift": true,
@@ -3299,11 +3298,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "优购物精选",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000455",
+    "channelType": "1",
+    "channelName": "优购物精选"
   },
   {
-    "channelID": "01010001000000050000000000000456",
     "userChannelID": 61,
     "channelURL": "igmp://239.3.1.191:8001",
     "timeShift": true,
@@ -3313,17 +3312,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "时尚购物精选",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000456",
+    "channelType": "1",
+    "channelName": "时尚购物精选"
   },
   {
-    "channelID": "01010001000000050000000000000457",
     "userChannelID": 79,
     "channelURL": "igmp://239.3.1.188:8001",
     "timeShift": true,
@@ -3333,17 +3332,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "中国交通",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000457",
+    "channelType": "1",
+    "channelName": "中国交通"
   },
   {
-    "channelID": "00000001000000050000000000000631",
     "userChannelID": 59,
     "channelURL": "igmp://239.3.1.50:8184",
     "timeShift": true,
@@ -3352,11 +3351,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "河南卫视高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000631",
+    "channelType": "1",
+    "channelName": "河南卫视高清"
   },
   {
-    "channelID": "01010001000000050000000000000438",
     "userChannelID": 43,
     "channelURL": "igmp://239.3.1.223:8001",
     "timeShift": true,
@@ -3365,11 +3364,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "央广购物精选",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000438",
+    "channelType": "1",
+    "channelName": "央广购物精选"
   },
   {
-    "channelID": "01010001000000050000000000000437",
     "userChannelID": 20,
     "channelURL": "igmp://239.3.1.222:8001",
     "timeShift": true,
@@ -3379,17 +3378,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "央广购物",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000437",
+    "channelType": "1",
+    "channelName": "央广购物"
   },
   {
-    "channelID": "01010001000000050000000000000389",
     "userChannelID": 16,
     "channelURL": "igmp://239.3.1.184:8001",
     "timeShift": true,
@@ -3398,11 +3397,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-16高清",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000389",
+    "channelType": "null",
+    "channelName": "CCTV-16高清"
   },
   {
-    "channelID": "01010001000000050000000000000442",
     "userChannelID": 33,
     "channelURL": "igmp://239.3.1.181:8001",
     "timeShift": true,
@@ -3411,11 +3410,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "时尚购物",
-    "channelType": "null"
+    "channelID": "01010001000000050000000000000442",
+    "channelType": "null",
+    "channelName": "时尚购物"
   },
   {
-    "channelID": "01010001000000050000000000000443",
     "userChannelID": 42,
     "channelURL": "igmp://239.3.1.185:8001",
     "timeShift": true,
@@ -3425,17 +3424,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "家有购物",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000443",
+    "channelType": "1",
+    "channelName": "家有购物"
   },
   {
-    "channelID": "01010001000000050000000000000388",
     "userChannelID": 405,
     "channelURL": "igmp://239.3.1.183:8001",
     "timeShift": true,
@@ -3444,11 +3443,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-16 4K",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000388",
+    "channelType": "1",
+    "channelName": "CCTV-16 4K"
   },
   {
-    "channelID": "01010001000000050000000000000441",
     "userChannelID": 32,
     "channelURL": "igmp://239.3.1.180:8001",
     "timeShift": true,
@@ -3457,11 +3456,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "优购物",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000441",
+    "channelType": "1",
+    "channelName": "优购物"
   },
   {
-    "channelID": "01010001000000050000000000000460",
     "userChannelID": 66,
     "channelURL": "igmp://239.3.1.125:8001",
     "timeShift": true,
@@ -3470,11 +3469,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "睛彩竞技",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000460",
+    "channelType": "1",
+    "channelName": "睛彩竞技"
   },
   {
-    "channelID": "01010001000000050000000000000461",
     "userChannelID": 67,
     "channelURL": "igmp://239.3.1.126:8001",
     "timeShift": true,
@@ -3483,11 +3482,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "睛彩篮球",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000461",
+    "channelType": "1",
+    "channelName": "睛彩篮球"
   },
   {
-    "channelID": "01010001000000050000000000000462",
     "userChannelID": 68,
     "channelURL": "igmp://239.3.1.127:8001",
     "timeShift": true,
@@ -3496,11 +3495,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "睛彩羽毛球",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000462",
+    "channelType": "1",
+    "channelName": "睛彩羽毛球"
   },
   {
-    "channelID": "01010001000000050000000000000463",
     "userChannelID": 69,
     "channelURL": "igmp://239.3.1.128:8001",
     "timeShift": true,
@@ -3509,11 +3508,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "睛彩广场舞",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000463",
+    "channelType": "1",
+    "channelName": "睛彩广场舞"
   },
   {
-    "channelID": "01010001000000050000000000000468",
     "userChannelID": 30,
     "channelURL": "igmp://239.3.1.186:8001",
     "timeShift": true,
@@ -3523,17 +3522,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "家有购物精选",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000000468",
+    "channelType": "1",
+    "channelName": "家有购物精选"
   },
   {
-    "channelID": "01010001000000050000000000004491",
     "userChannelID": 81,
     "channelURL": "igmp://239.3.1.22:8001",
     "timeShift": false,
@@ -3543,17 +3542,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV北京卫视超高清SDR",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000004491",
+    "channelType": "1",
+    "channelName": "BRTV北京卫视超高清SDR"
   },
   {
-    "channelID": "01010001000000050000000000005492",
     "userChannelID": 421,
     "channelURL": "igmp://239.3.1.118:8001",
     "timeShift": false,
@@ -3563,17 +3562,17 @@
       "channelLogURL": null,
       "positionX": 0,
       "positionY": 0,
-      "interval": 0,
       "beginTime": "null",
+      "interval": 0,
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV北京卫视超高清HDR",
-    "channelType": "1"
+    "channelID": "01010001000000050000000000005492",
+    "channelType": "1",
+    "channelName": "BRTV北京卫视超高清HDR"
   },
   {
-    "channelID": "00000001000000050000000000000603",
     "userChannelID": 62,
     "channelURL": "igmp://239.3.1.201:8180",
     "timeShift": true,
@@ -3582,11 +3581,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "甘肃卫视高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000603",
+    "channelType": "1",
+    "channelName": "甘肃卫视高清"
   },
   {
-    "channelID": "00000001000000050000000000000635",
     "userChannelID": 406,
     "channelURL": "igmp://239.3.1.203:2000",
     "timeShift": true,
@@ -3595,11 +3594,11 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "广东卫视4K超高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000635",
+    "channelType": "1",
+    "channelName": "广东卫视4K超高清"
   },
   {
-    "channelID": "00000001000000050000000000000637",
     "userChannelID": 408,
     "channelURL": "igmp://239.3.1.202:2000",
     "timeShift": false,
@@ -3608,7 +3607,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "深圳卫视4K超高清",
-    "channelType": "1"
+    "channelID": "00000001000000050000000000000637",
+    "channelType": "1",
+    "channelName": "深圳卫视4K超高清"
   }
 ]
