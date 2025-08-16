@@ -9,8 +9,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "南方卫视",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "南方卫视"
   },
   {
     "channelID": "01010001000000050000000000000346",
@@ -22,8 +22,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "茶",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "茶"
   },
   {
     "channelID": "01010001000000050000000000000345",
@@ -35,8 +35,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "快乐垂钓",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "快乐垂钓"
   },
   {
     "channelID": "00000001000000050000000000000580",
@@ -46,17 +46,17 @@
     "channelSDP": "igmp://239.3.1.151:8144",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226095/10000100000000060000000000705941_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV17-高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV17-高清"
   },
   {
     "channelID": "01010001000000050000000000000308",
@@ -66,17 +66,17 @@
     "channelSDP": "igmp://239.3.1.238:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226053/10000100000000060000000000362332_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "淘Baby",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "淘Baby"
   },
   {
     "channelID": "01010001000000050000000000000014",
@@ -88,8 +88,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "4K超清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "4K超清"
   },
   {
     "channelID": "00000001000000050000000000000558",
@@ -99,17 +99,17 @@
     "channelSDP": "igmp://239.3.1.247:2000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226055/10000100000000060000000000364380_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "总平台测试1",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "总平台测试1"
   },
   {
     "channelID": "00000001000000050000000000000560",
@@ -119,17 +119,17 @@
     "channelSDP": "igmp://239.3.1.248:2000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226048/10000100000000060000000000364379_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "总平台测试2",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "总平台测试2"
   },
   {
     "channelID": "00000001000000050000000000000462",
@@ -139,17 +139,17 @@
     "channelSDP": "igmp://239.3.1.144:4120",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225995/10000100000000060000000000176944_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "兵团卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "兵团卫视"
   },
   {
     "channelID": "00000001000000050000000000000533",
@@ -161,8 +161,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "熊猫频道",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "熊猫频道"
   },
   {
     "channelID": "00000001000000050000000000000500",
@@ -174,8 +174,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "军旅剧场",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "军旅剧场"
   },
   {
     "channelID": "00000001000000050000000000000503",
@@ -187,8 +187,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "美妆",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "美妆"
   },
   {
     "channelID": "00000001000000050000000000000501",
@@ -200,8 +200,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "古装剧场",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "古装剧场"
   },
   {
     "channelID": "00000001000000050000000000000502",
@@ -213,8 +213,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "音乐现场",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "音乐现场"
   },
   {
     "channelID": "00000001000000050000000000000504",
@@ -226,8 +226,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "美人",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "美人"
   },
   {
     "channelID": "00000001000000050000000000000505",
@@ -239,8 +239,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "精选",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "精选"
   },
   {
     "channelID": "01010001000000050000000000000015",
@@ -250,17 +250,17 @@
     "channelSDP": "igmp://239.3.1.250:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225965/10000100000000060000000000157832_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "淘电影",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "淘电影"
   },
   {
     "channelID": "00000001000000050000000000000104",
@@ -270,17 +270,17 @@
     "channelSDP": "igmp://239.3.1.198:9004",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225854/10000100000000060000000000025081_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "IPTV3＋",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "IPTV3＋"
   },
   {
     "channelID": "00000001000000050000000000000521",
@@ -292,8 +292,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "高网",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "高网"
   },
   {
     "channelID": "00000001000000050000000000000105",
@@ -303,17 +303,17 @@
     "channelSDP": "igmp://239.3.1.200:9008",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225856/10000100000000060000000000025084_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "IPTV5＋",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "IPTV5＋"
   },
   {
     "channelID": "00000001000000050000000000000522",
@@ -325,8 +325,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "足球",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "足球"
   },
   {
     "channelID": "00000001000000050000000000000523",
@@ -338,8 +338,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "武侠剧场",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "武侠剧场"
   },
   {
     "channelID": "00000001000000050000000000000524",
@@ -351,8 +351,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "喜剧影院",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "喜剧影院"
   },
   {
     "channelID": "00000001000000050000000000000527",
@@ -364,8 +364,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "星影",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "星影"
   },
   {
     "channelID": "00000001000000050000000000000499",
@@ -377,8 +377,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "城市剧场",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "城市剧场"
   },
   {
     "channelID": "00000001000000050000000000000266",
@@ -388,17 +388,17 @@
     "channelSDP": "igmp://239.3.1.141:1234",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225984/10000100000000060000000000176931_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "天津卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "天津卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000107",
@@ -408,17 +408,17 @@
     "channelSDP": "igmp://239.3.1.197:9016",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225852/10000100000000060000000000025080_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "IPTV6＋",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "IPTV6＋"
   },
   {
     "channelID": "00000001000000050000000000000472",
@@ -428,17 +428,17 @@
     "channelSDP": "igmp://239.3.1.210:8056",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226000/10000100000000060000000000205199_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "辽宁卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "辽宁卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000146",
@@ -448,17 +448,17 @@
     "channelSDP": "igmp://239.3.1.201:8072",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225861/10000100000000060000000000025085_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "IPTV8＋",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "IPTV8＋"
   },
   {
     "channelID": "00000001000000050000000000000470",
@@ -468,17 +468,17 @@
     "channelSDP": "igmp://239.3.1.209:8052",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226002/10000100000000060000000000205202_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "山东卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "山东卫视高清"
   },
   {
     "channelID": "00005000000000000000000000000244",
@@ -488,17 +488,17 @@
     "channelSDP": "igmp://239.3.1.143:4120",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225990/10000100000000060000000000176937_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "厦门卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "厦门卫视"
   },
   {
     "channelID": "00000001000000050000000000000516",
@@ -510,8 +510,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "光影",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "光影"
   },
   {
     "channelID": "00000001000000050000000000000507",
@@ -523,8 +523,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "军事",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "军事"
   },
   {
     "channelID": "00000001000000050000000000000509",
@@ -536,8 +536,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "国学",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "国学"
   },
   {
     "channelID": "00000001000000050000000000000518",
@@ -549,8 +549,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "台球",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "台球"
   },
   {
     "channelID": "00000001000000050000000000000519",
@@ -562,8 +562,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "爱生活",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "爱生活"
   },
   {
     "channelID": "00000001000000050000000000000520",
@@ -575,8 +575,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "武术",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "武术"
   },
   {
     "channelID": "00000001000000050000000000000525",
@@ -588,8 +588,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "动作影院",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "动作影院"
   },
   {
     "channelID": "00000001000000050000000000000100",
@@ -599,17 +599,17 @@
     "channelSDP": "igmp://239.3.1.47:8164",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225848/10000100000000060000000000025077_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "西藏卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "西藏卫视"
   },
   {
     "channelID": "01010001000000050000000000000001",
@@ -619,17 +619,17 @@
     "channelSDP": "igmp://239.3.1.225:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225814/10000100000000060000000000025042_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV北京卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV北京卫视"
   },
   {
     "channelID": "01010001000000050000000000000021",
@@ -639,17 +639,17 @@
     "channelSDP": "igmp://239.3.1.241:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225870/10000100000000060000000000025099_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV北京卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV北京卫视高清"
   },
   {
     "channelID": "01010001000000050000000000000011",
@@ -659,17 +659,17 @@
     "channelSDP": "igmp://239.3.1.235:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225804/10000100000000060000000000025033_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BTV国际频道",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BTV国际频道"
   },
   {
     "channelID": "01010001000000050000000000000010",
@@ -679,17 +679,17 @@
     "channelSDP": "igmp://239.3.1.234:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225879/10000100000000060000000000025505_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV卡酷少儿",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV卡酷少儿"
   },
   {
     "channelID": "01010001000000050000000000000004",
@@ -699,17 +699,17 @@
     "channelSDP": "igmp://239.3.1.228:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225813/10000100000000060000000000025038_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV影视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV影视"
   },
   {
     "channelID": "01010001000000050000000000000019",
@@ -719,17 +719,17 @@
     "channelSDP": "igmp://239.3.1.243:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225809/10000100000000060000000000025032_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV体育休闲高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV体育休闲高清"
   },
   {
     "channelID": "00005000000000000000000000000248",
@@ -741,8 +741,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "山东教育",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "山东教育"
   },
   {
     "channelID": "01010001000000050000000000000322",
@@ -754,8 +754,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "房山电视台",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "房山电视台"
   },
   {
     "channelID": "01010001000000050000000000000328",
@@ -765,17 +765,17 @@
     "channelSDP": "igmp://239.3.1.102:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226071/10000100000000060000000000405011_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "萌宠TV",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "萌宠TV"
   },
   {
     "channelID": "01010001000000050000000000000329",
@@ -787,8 +787,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "4K测试",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "4K测试"
   },
   {
     "channelID": "01010001000000050000000000000330",
@@ -800,8 +800,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "高清测试",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "高清测试"
   },
   {
     "channelID": "01010001000000050000000000000326",
@@ -813,8 +813,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "淘娱乐",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "淘娱乐"
   },
   {
     "channelID": "00000001000000050000000000000573",
@@ -826,8 +826,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-4高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CCTV-4高清"
   },
   {
     "channelID": "00000001000000050000000000000589",
@@ -839,8 +839,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "三沙卫视",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "三沙卫视"
   },
   {
     "channelID": "00000001000000050000000000000568",
@@ -852,8 +852,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CETV1高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CETV1高清"
   },
   {
     "channelID": "00000001000000050000000000000569",
@@ -865,8 +865,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "金鹰纪实高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "金鹰纪实高清"
   },
   {
     "channelID": "00005000000000000000000000000251",
@@ -878,8 +878,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CETV2",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CETV2"
   },
   {
     "channelID": "00005000000000000000000000000250",
@@ -891,8 +891,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CETV3",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CETV3"
   },
   {
     "channelID": "00005000000000000000000000000252",
@@ -904,8 +904,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CETV4",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CETV4"
   },
   {
     "channelID": "00000001000000050000000000000590",
@@ -917,8 +917,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "体育赛事高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "体育赛事高清"
   },
   {
     "channelID": "00000001000000050000000000000588",
@@ -930,8 +930,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "东南卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "东南卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000587",
@@ -943,8 +943,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-15高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CCTV-15高清"
   },
   {
     "channelID": "00000001000000050000000000000583",
@@ -956,8 +956,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-11高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CCTV-11高清"
   },
   {
     "channelID": "00000001000000050000000000000575",
@@ -969,8 +969,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "河北卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "河北卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000577",
@@ -982,8 +982,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "贵州卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "贵州卫视高清"
   },
   {
     "channelID": "01010001000000050000000000000364",
@@ -993,17 +993,17 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226094/10000100000000060000000000804258_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV影视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "BRTV影视高清"
   },
   {
     "channelID": "01010001000000050000000000000365",
@@ -1013,17 +1013,17 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226092/10000100000000060000000000804251_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV新闻高清 ",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "BRTV新闻高清 "
   },
   {
     "channelID": "01010001000000050000000000000370",
@@ -1033,17 +1033,17 @@
     "channelSDP": "igmp://239.3.1.172:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226100/10000100000000060000000000831268_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-3高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CCTV-3高清"
   },
   {
     "channelID": "01010001000000050000000000000371",
@@ -1053,17 +1053,17 @@
     "channelSDP": "igmp://239.3.1.173:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226113/10000100000000060000000000831269_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-5高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CCTV-5高清"
   },
   {
     "channelID": "01010001000000050000000000000372",
@@ -1073,17 +1073,17 @@
     "channelSDP": "igmp://239.3.1.174:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226102/10000100000000060000000000831270_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-6高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CCTV-6高清"
   },
   {
     "channelID": "01010001000000050000000000000375",
@@ -1093,17 +1093,17 @@
     "channelSDP": "igmp://239.3.1.175:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226115/10000100000000060000000000831271_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-8高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-8高清"
   },
   {
     "channelID": "01010001000000050000000000000383",
@@ -1115,8 +1115,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "淘精彩",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "淘精彩"
   },
   {
     "channelID": "01010001000000050000000000000397",
@@ -1126,17 +1126,17 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226133/10000100000000060000000000943150_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV卡酷少儿高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "BRTV卡酷少儿高清"
   },
   {
     "channelID": "01010001000000050000000000000384",
@@ -1146,17 +1146,17 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226114/10000100000000060000000000930190_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "聚鲨环球精选",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "聚鲨环球精选"
   },
   {
     "channelID": "00000001000000050000000000000545",
@@ -1166,17 +1166,17 @@
     "channelSDP": "igmp://239.3.1.236:2000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226046/10000100000000060000000000323100_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "爱上4K",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "爱上4K"
   },
   {
     "channelID": "00000001000000050000000000000097",
@@ -1186,17 +1186,17 @@
     "channelSDP": "igmp://239.3.1.48:8160",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225849/10000100000000060000000000025072_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "新疆卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "新疆卫视"
   },
   {
     "channelID": "00000001000000050000000000000088",
@@ -1206,17 +1206,17 @@
     "channelSDP": "igmp://239.3.1.45:8304",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225842/10000100000000060000000000025071_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "海南卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "海南卫视"
   },
   {
     "channelID": "00000001000000050000000000000096",
@@ -1226,17 +1226,17 @@
     "channelSDP": "igmp://239.3.1.44:8184",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225847/10000100000000060000000000025070_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "青海卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "青海卫视"
   },
   {
     "channelID": "00000001000000050000000000000086",
@@ -1246,17 +1246,17 @@
     "channelSDP": "igmp://239.3.1.39:8300",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225840/10000100000000060000000000025069_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "广西卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "广西卫视"
   },
   {
     "channelID": "00000001000000050000000000000098",
@@ -1266,17 +1266,17 @@
     "channelSDP": "igmp://239.3.1.43:8176",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225845/10000100000000060000000000025068_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "内蒙古卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "内蒙古卫视"
   },
   {
     "channelID": "00000001000000050000000000000511",
@@ -1288,8 +1288,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "早教",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "早教"
   },
   {
     "channelID": "00000001000000050000000000000506",
@@ -1301,8 +1301,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "解密",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "解密"
   },
   {
     "channelID": "00000001000000050000000000000267",
@@ -1312,17 +1312,17 @@
     "channelSDP": "igmp://239.3.1.138:8044",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225956/10000100000000060000000000146903_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "湖北卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "湖北卫视高清"
   },
   {
     "channelID": "01010001000000050000000000000009",
@@ -1332,17 +1332,17 @@
     "channelSDP": "igmp://239.3.1.233:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225811/10000100000000060000000000025034_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV新闻",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV新闻"
   },
   {
     "channelID": "00000001000000050000000000000099",
@@ -1352,17 +1352,17 @@
     "channelSDP": "igmp://239.3.1.42:8172",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225843/10000100000000060000000000025066_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "山西卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "山西卫视"
   },
   {
     "channelID": "00000001000000050000000000000090",
@@ -1372,17 +1372,17 @@
     "channelSDP": "igmp://239.3.1.41:8140",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225836/10000100000000060000000000025065_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "陕西卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "陕西卫视"
   },
   {
     "channelID": "00000001000000050000000000000153",
@@ -1392,17 +1392,17 @@
     "channelSDP": "igmp://239.3.1.130:8004",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225819/10000100000000060000000000025043_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-5+",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-5+"
   },
   {
     "channelID": "00000001000000050000000000000512",
@@ -1414,8 +1414,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "动画",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "动画"
   },
   {
     "channelID": "00000001000000050000000000000513",
@@ -1427,8 +1427,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "好学生",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "好学生"
   },
   {
     "channelID": "00000001000000050000000000000069",
@@ -1438,17 +1438,17 @@
     "channelSDP": "igmp://239.3.1.29:8288",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225831/10000100000000060000000000025055_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "四川卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "四川卫视"
   },
   {
     "channelID": "00000001000000050000000000000060",
@@ -1458,17 +1458,17 @@
     "channelSDP": "igmp://239.3.1.26:8108",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225827/10000100000000060000000000025051_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "云南卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "云南卫视"
   },
   {
     "channelID": "00000001000000050000000000000106",
@@ -1478,17 +1478,17 @@
     "channelSDP": "igmp://239.3.1.196:9012",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225850/10000100000000060000000000025079_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "魅力时尚",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "魅力时尚"
   },
   {
     "channelID": "00000001000000050000000000000108",
@@ -1498,17 +1498,17 @@
     "channelSDP": "igmp://239.3.1.194:9020",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225855/10000100000000060000000000025078_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "热播剧场",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "热播剧场"
   },
   {
     "channelID": "00000001000000050000000000000151",
@@ -1518,17 +1518,17 @@
     "channelSDP": "igmp://239.3.1.51:9252",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225846/10000100000000060000000000025075_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "金鹰卡通",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "金鹰卡通"
   },
   {
     "channelID": "00000001000000050000000000000110",
@@ -1538,17 +1538,17 @@
     "channelSDP": "igmp://239.3.1.193:8012",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225853/10000100000000060000000000025076_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "收视指南",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "收视指南"
   },
   {
     "channelID": "00000001000000050000000000000198",
@@ -1558,17 +1558,17 @@
     "channelSDP": "igmp://239.3.1.135:8028",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225881/10000100000000060000000000025507_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "江苏卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "江苏卫视高清"
   },
   {
     "channelID": "00005000000000000000000000000263",
@@ -1578,17 +1578,17 @@
     "channelSDP": "igmp://239.3.1.136:8032",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225883/10000100000000060000000000025534_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "东方卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "东方卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000152",
@@ -1598,17 +1598,17 @@
     "channelSDP": "igmp://239.3.1.129:8008",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225880/10000100000000060000000000025506_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-1高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-1高清"
   },
   {
     "channelID": "00000001000000050000000000000473",
@@ -1618,17 +1618,17 @@
     "channelSDP": "igmp://239.3.1.211:8064",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225999/10000100000000060000000000205203_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "安徽卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "安徽卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000514",
@@ -1640,8 +1640,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "鉴赏",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "鉴赏"
   },
   {
     "channelID": "00000001000000050000000000000515",
@@ -1653,8 +1653,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "墨宝",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "墨宝"
   },
   {
     "channelID": "00000001000000050000000000000526",
@@ -1666,8 +1666,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "家庭影院",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "家庭影院"
   },
   {
     "channelID": "00000001100000051406111514059258",
@@ -1677,17 +1677,17 @@
     "channelSDP": "igmp://239.3.1.212:8060",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226004/10000100000000060000000000205204_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "纪实频道HD",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "纪实频道HD"
   },
   {
     "channelID": "00000001000000050000000000000498",
@@ -1699,8 +1699,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "地理",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "地理"
   },
   {
     "channelID": "00000001000000050000000000000265",
@@ -1710,17 +1710,17 @@
     "channelSDP": "igmp://239.3.1.137:8036",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225957/10000100000000060000000000146902_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "浙江卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "浙江卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000483",
@@ -1732,8 +1732,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-14高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-14高清"
   },
   {
     "channelID": "00000001000000050000000000000482",
@@ -1745,8 +1745,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-12高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-12高清"
   },
   {
     "channelID": "01010001000000050000000000000017",
@@ -1756,17 +1756,17 @@
     "channelSDP": "igmp://239.3.1.95:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226005/10000100000000060000000000285122_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "淘剧场",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "淘剧场"
   },
   {
     "channelID": "00000001000000050000000000000445",
@@ -1776,17 +1776,17 @@
     "channelSDP": "igmp://239.3.1.142:8048",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225983/10000100000000060000000000176932_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "广东卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "广东卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000448",
@@ -1796,17 +1796,17 @@
     "channelSDP": "igmp://239.3.1.147:9268",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225986/10000100000000060000000000176933_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "嘉佳卡通",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "嘉佳卡通"
   },
   {
     "channelID": "00000001000000050000000000000195",
@@ -1816,17 +1816,17 @@
     "channelSDP": "igmp://239.3.1.132:8012",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225871/10000100000000060000000000025095_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "湖南卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "湖南卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000103",
@@ -1836,17 +1836,17 @@
     "channelSDP": "igmp://239.3.1.199:9000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225859/10000100000000060000000000025083_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "少儿动画",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "少儿动画"
   },
   {
     "channelID": "01010001000000050000000000000020",
@@ -1856,17 +1856,17 @@
     "channelSDP": "igmp://239.3.1.242:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225868/10000100000000060000000000025097_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV文艺高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV文艺高清"
   },
   {
     "channelID": "01010001000000050000000000000003",
@@ -1876,17 +1876,17 @@
     "channelSDP": "igmp://239.3.1.227:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225812/10000100000000060000000000025040_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV纪实科教",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV纪实科教"
   },
   {
     "channelID": "01010001000000050000000000000007",
@@ -1896,17 +1896,17 @@
     "channelSDP": "igmp://239.3.1.231:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225815/10000100000000060000000000025039_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV生活",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV生活"
   },
   {
     "channelID": "01010001000000050000000000000018",
@@ -1916,17 +1916,17 @@
     "channelSDP": "igmp://239.3.1.253:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225966/10000100000000060000000000157829_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "轮播频道5",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "轮播频道5"
   },
   {
     "channelID": "01010001000000050000000000000005",
@@ -1936,17 +1936,17 @@
     "channelSDP": "igmp://239.3.1.229:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225810/10000100000000060000000000025037_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV财经",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV财经"
   },
   {
     "channelID": "01010001000000050000000000000127",
@@ -1956,17 +1956,17 @@
     "channelSDP": "igmp://239.3.1.140:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225893/10000100000000060000000000146741_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "VBR测试-2",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "VBR测试-2"
   },
   {
     "channelID": "01010001000000050000000000000006",
@@ -1976,17 +1976,17 @@
     "channelSDP": "igmp://239.3.1.230:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225806/10000100000000060000000000025035_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV体育休闲",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV体育休闲"
   },
   {
     "channelID": "01010001000000050000000000000002",
@@ -1996,17 +1996,17 @@
     "channelSDP": "igmp://239.3.1.226:8000",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225817/10000100000000060000000000025041_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV文艺",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "BRTV文艺"
   },
   {
     "channelID": "00000001000000050000000000000477",
@@ -2018,8 +2018,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-2高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-2高清"
   },
   {
     "channelID": "00000001000000050000000000000478",
@@ -2031,8 +2031,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-9高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-9高清"
   },
   {
     "channelID": "00000001000000050000000000000485",
@@ -2044,8 +2044,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-7高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-7高清"
   },
   {
     "channelID": "00000001000000050000000000000197",
@@ -2055,17 +2055,17 @@
     "channelSDP": "igmp://239.3.1.134:8020",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225869/10000100000000060000000000025093_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "深圳卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "深圳卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000196",
@@ -2075,17 +2075,17 @@
     "channelSDP": "igmp://239.3.1.133:8016",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225864/10000100000000060000000000025092_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "黑龙江卫视高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "黑龙江卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000183",
@@ -2095,17 +2095,17 @@
     "channelSDP": "igmp://239.3.1.53:9136",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225882/10000100000000060000000000025533_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "财富天下",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "财富天下"
   },
   {
     "channelID": "00000001000000050000000000000480",
@@ -2117,8 +2117,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-10高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-10高清"
   },
   {
     "channelID": "00000001000000050000000000000109",
@@ -2128,17 +2128,17 @@
     "channelSDP": "igmp://239.3.1.195:9024",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225857/10000100000000060000000000025082_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "经典电影",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "经典电影"
   },
   {
     "channelID": "01010001000000050000000000000126",
@@ -2148,17 +2148,17 @@
     "channelSDP": "igmp://239.3.1.139:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225892/10000100000000060000000000146742_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "VBR测试-1",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "VBR测试-1"
   },
   {
     "channelID": "00000001000000050000000000000510",
@@ -2170,8 +2170,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "戏曲",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "戏曲"
   },
   {
     "channelID": "00000001000000050000000000000082",
@@ -2181,17 +2181,17 @@
     "channelSDP": "igmp://239.3.1.46:8124",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225851/10000100000000060000000000025074_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "宁夏卫视",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "宁夏卫视"
   },
   {
     "channelID": "00000001000000050000000000000546",
@@ -2201,17 +2201,17 @@
     "channelSDP": "igmp://239.3.1.237:4120",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226051/10000100000000060000000000332895_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "IPTV5＋高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "IPTV5＋高清"
   },
   {
     "channelID": "00000001000000050000000000000615",
@@ -2223,8 +2223,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN西班牙语",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CGTN西班牙语"
   },
   {
     "channelID": "00000001000000050000000000000613",
@@ -2236,8 +2236,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN英语",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CGTN英语"
   },
   {
     "channelID": "00000001000000050000000000000612",
@@ -2247,17 +2247,17 @@
     "channelSDP": "igmp://239.3.1.214:4220",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226149/10000100000000060000000001154841_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-4美洲高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-4美洲高清"
   },
   {
     "channelID": "00000001000000050000000000000611",
@@ -2267,17 +2267,17 @@
     "channelSDP": "igmp://239.3.1.213:4220",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226138/10000100000000060000000001154838_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-4欧洲高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-4欧洲高清"
   },
   {
     "channelID": "00000001000000050000000000000618",
@@ -2289,8 +2289,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN俄语",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CGTN俄语"
   },
   {
     "channelID": "00000001000000050000000000000617",
@@ -2302,8 +2302,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN阿拉伯语",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CGTN阿拉伯语"
   },
   {
     "channelID": "00000001000000050000000000000616",
@@ -2315,8 +2315,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN法语",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CGTN法语"
   },
   {
     "channelID": "00000001000000050000000000000614",
@@ -2328,8 +2328,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CGTN英文纪录",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CGTN英文纪录"
   },
   {
     "channelID": "01010001000000050000000000000407",
@@ -2339,17 +2339,17 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226143/10000100000000060000000001010594_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV纪实科教高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "BRTV纪实科教高清"
   },
   {
     "channelID": "01010001000000050000000000000408",
@@ -2359,17 +2359,17 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226134/10000100000000060000000001010593_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV财经高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "BRTV财经高清"
   },
   {
     "channelID": "01010001000000050000000000000409",
@@ -2379,17 +2379,17 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226141/10000100000000060000000001010592_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV生活高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "BRTV生活高清"
   },
   {
     "channelID": "01010001000000050000000000000412",
@@ -2399,17 +2399,17 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226137/10000100000000060000000001010588_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV体育休闲4K HDR",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "BRTV体育休闲4K HDR"
   },
   {
     "channelID": "01010001000000050000000000000413",
@@ -2419,17 +2419,17 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226130/10000100000000060000000001010587_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV体育休闲4K SDR",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "BRTV体育休闲4K SDR"
   },
   {
     "channelID": "00000001000000050000000000000602",
@@ -2441,8 +2441,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-13高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CCTV-13高清"
   },
   {
     "channelID": "00000001000000050000000000000609",
@@ -2452,17 +2452,17 @@
     "channelSDP": "igmp://239.3.1.122:8160",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226147/10000100000000060000000001103866_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "重庆卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "重庆卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000608",
@@ -2472,17 +2472,17 @@
     "channelSDP": "igmp://239.3.1.123:8164",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226136/10000100000000060000000001103865_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "江西卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "江西卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000626",
@@ -2494,8 +2494,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV4K超高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CCTV4K超高清"
   },
   {
     "channelID": "00000001000000050000000000000606",
@@ -2507,8 +2507,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV4K超高清HDR",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CCTV4K超高清HDR"
   },
   {
     "channelID": "01010001000000050000000000000465",
@@ -2520,8 +2520,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "聚鲨环球",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "聚鲨环球"
   },
   {
     "channelID": "00000001000000050000000000000619",
@@ -2533,8 +2533,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "吉林卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "吉林卫视高清"
   },
   {
     "channelID": "01010001000000050000000000000455",
@@ -2546,8 +2546,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "优购物精选",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "优购物精选"
   },
   {
     "channelID": "01010001000000050000000000000456",
@@ -2557,17 +2557,17 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226169/10000100000000060000000001311650_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "时尚购物精选",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "时尚购物精选"
   },
   {
     "channelID": "01010001000000050000000000000457",
@@ -2577,17 +2577,17 @@
     "channelSDP": "igmp://239.3.1.188:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226173/10000100000000060000000001341044_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "中国交通",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "中国交通"
   },
   {
     "channelID": "00000001000000050000000000000631",
@@ -2599,8 +2599,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "河南卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "河南卫视高清"
   },
   {
     "channelID": "01010001000000050000000000000438",
@@ -2612,8 +2612,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "央广购物精选",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "央广购物精选"
   },
   {
     "channelID": "01010001000000050000000000000437",
@@ -2623,17 +2623,17 @@
     "channelSDP": null,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226146/10000100000000060000000001189968_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "央广购物",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "央广购物"
   },
   {
     "channelID": "01010001000000050000000000000389",
@@ -2645,8 +2645,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-16高清",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "CCTV-16高清"
   },
   {
     "channelID": "01010001000000050000000000000442",
@@ -2658,8 +2658,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "时尚购物",
-    "channelType": "null"
+    "channelType": "null",
+    "channelName": "时尚购物"
   },
   {
     "channelID": "01010001000000050000000000000443",
@@ -2669,17 +2669,17 @@
     "channelSDP": "igmp://239.3.1.185:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226154/10000100000000060000000001234688_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "家有购物",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "家有购物"
   },
   {
     "channelID": "01010001000000050000000000000388",
@@ -2691,8 +2691,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "CCTV-16 4K",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "CCTV-16 4K"
   },
   {
     "channelID": "01010001000000050000000000000441",
@@ -2704,8 +2704,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "优购物",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "优购物"
   },
   {
     "channelID": "01010001000000050000000000000460",
@@ -2717,8 +2717,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "睛彩竞技",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "睛彩竞技"
   },
   {
     "channelID": "01010001000000050000000000000461",
@@ -2730,8 +2730,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "睛彩篮球",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "睛彩篮球"
   },
   {
     "channelID": "01010001000000050000000000000462",
@@ -2743,8 +2743,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "睛彩羽毛球",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "睛彩羽毛球"
   },
   {
     "channelID": "01010001000000050000000000000463",
@@ -2756,8 +2756,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "睛彩广场舞",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "睛彩广场舞"
   },
   {
     "channelID": "01010001000000050000000000000468",
@@ -2767,17 +2767,17 @@
     "channelSDP": "igmp://239.3.1.186:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226168/10000100000000060000000001558173_0.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "家有购物精选",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "家有购物精选"
   },
   {
     "channelID": "01010001000000050000000000004491",
@@ -2787,17 +2787,17 @@
     "channelSDP": "igmp://239.3.1.22:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226182/390398577.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV北京卫视超高清SDR",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "BRTV北京卫视超高清SDR"
   },
   {
     "channelID": "01010001000000050000000000005492",
@@ -2807,17 +2807,17 @@
     "channelSDP": "igmp://239.3.1.118:8001",
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226184/391328653.smil",
     "channelLogoStruct": {
-      "positionY": 0,
       "channelLogURL": null,
       "positionX": 0,
+      "positionY": 0,
       "interval": 0,
       "beginTime": "null",
       "lasting": "null"
     },
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "BRTV北京卫视超高清HDR",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "BRTV北京卫视超高清HDR"
   },
   {
     "channelID": "00000001000000050000000000000603",
@@ -2829,8 +2829,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "甘肃卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "甘肃卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000635",
@@ -2842,8 +2842,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "广东卫视4K超高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "广东卫视4K超高清"
   },
   {
     "channelID": "00000001000000050000000000000637",
@@ -2855,8 +2855,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "深圳卫视4K超高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "深圳卫视4K超高清"
   },
   {
     "channelID": "00000001000000050000000000000639",
@@ -2868,8 +2868,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "西藏卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "西藏卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000640",
@@ -2881,8 +2881,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "宁夏卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "宁夏卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000641",
@@ -2894,8 +2894,8 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "新疆卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "新疆卫视高清"
   },
   {
     "channelID": "00000001000000050000000000000642",
@@ -2907,7 +2907,7 @@
     "channelLogoStruct": null,
     "channelPurchased": true,
     "channelFECPort": 0,
-    "channelName": "兵团卫视高清",
-    "channelType": "1"
+    "channelType": "1",
+    "channelName": "兵团卫视高清"
   }
 ]
