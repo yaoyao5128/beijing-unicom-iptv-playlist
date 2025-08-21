@@ -193,12 +193,6 @@ http://udpxy.local:8080/rtp/239.3.1.43:8176
 http://udpxy.local:8080/rtp/239.3.1.44:8184
 #EXTINF:-1 channel-number="158" tvg-id="158" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HaiNan.png" group-title="卫视",海南卫视
 http://udpxy.local:8080/rtp/239.3.1.45:8304
-#EXTINF:-1 channel-number="159" tvg-id="159" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/NingXia.png" group-title="卫视",宁夏卫视
-http://udpxy.local:8080/rtp/239.3.1.46:8124
-#EXTINF:-1 channel-number="160" tvg-id="160" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/XiZang.png" group-title="卫视",西藏卫视
-http://udpxy.local:8080/rtp/239.3.1.47:8164
-#EXTINF:-1 channel-number="161" tvg-id="161" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/XinJiang.png" group-title="卫视",新疆卫视
-http://udpxy.local:8080/rtp/239.3.1.48:8160
 #EXTINF:-1 channel-number="163" tvg-id="163" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/SanSha.png" group-title="卫视",三沙卫视
 http://udpxy.local:8080/rtp/239.3.1.155:4120
 #EXTINF:-1 channel-number="164" tvg-id="164" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/YunNan.png" group-title="卫视",云南卫视
@@ -207,8 +201,6 @@ http://udpxy.local:8080/rtp/239.3.1.26:8108
 http://udpxy.local:8080/rtp/239.3.1.53:9136
 #EXTINF:-1 channel-number="166" tvg-id="166" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/XiaMen.png" group-title="卫视",厦门卫视
 http://udpxy.local:8080/rtp/239.3.1.143:4120
-#EXTINF:-1 channel-number="167" tvg-id="167" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BingTuan.png" group-title="卫视",兵团卫视
-http://udpxy.local:8080/rtp/239.3.1.144:4120
 #EXTINF:-1 channel-number="168" tvg-id="168" tvg-name="南方卫视",南方卫视
 http://udpxy.local:8080/rtp/239.3.1.161:8001
 #EXTINF:-1 channel-number="169" tvg-id="169" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_JinYingKaTong.png" group-title="卫视",金鹰卡通

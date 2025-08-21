@@ -132,26 +132,6 @@
     "channelType": "null"
   },
   {
-    "channelID": "00000001000000050000000000000462",
-    "userChannelID": 167,
-    "channelURL": "igmp://239.3.1.144:4120",
-    "timeShift": true,
-    "channelSDP": "igmp://239.3.1.144:4120",
-    "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225995/10000100000000060000000000176944_0.smil",
-    "channelLogoStruct": {
-      "positionY": 0,
-      "channelLogURL": null,
-      "positionX": 0,
-      "interval": 0,
-      "beginTime": "null",
-      "lasting": "null"
-    },
-    "channelPurchased": true,
-    "channelFECPort": 0,
-    "channelName": "兵团卫视",
-    "channelType": "null"
-  },
-  {
     "channelID": "00000001000000050000000000000533",
     "userChannelID": 324,
     "channelURL": "igmp://239.3.1.66:8068",
@@ -589,26 +569,6 @@
     "channelPurchased": true,
     "channelFECPort": 0,
     "channelName": "动作影院",
-    "channelType": "null"
-  },
-  {
-    "channelID": "00000001000000050000000000000100",
-    "userChannelID": 160,
-    "channelURL": "igmp://239.3.1.47:8164",
-    "timeShift": true,
-    "channelSDP": "igmp://239.3.1.47:8164",
-    "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225848/10000100000000060000000000025077_0.smil",
-    "channelLogoStruct": {
-      "positionY": 0,
-      "channelLogURL": null,
-      "positionX": 0,
-      "interval": 0,
-      "beginTime": "null",
-      "lasting": "null"
-    },
-    "channelPurchased": true,
-    "channelFECPort": 0,
-    "channelName": "西藏卫视",
     "channelType": "null"
   },
   {
@@ -1176,26 +1136,6 @@
     "channelPurchased": true,
     "channelFECPort": 0,
     "channelName": "爱上4K",
-    "channelType": "null"
-  },
-  {
-    "channelID": "00000001000000050000000000000097",
-    "userChannelID": 161,
-    "channelURL": "igmp://239.3.1.48:8160",
-    "timeShift": true,
-    "channelSDP": "igmp://239.3.1.48:8160",
-    "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225849/10000100000000060000000000025072_0.smil",
-    "channelLogoStruct": {
-      "positionY": 0,
-      "channelLogURL": null,
-      "positionX": 0,
-      "interval": 0,
-      "beginTime": "null",
-      "lasting": "null"
-    },
-    "channelPurchased": true,
-    "channelFECPort": 0,
-    "channelName": "新疆卫视",
     "channelType": "null"
   },
   {
@@ -2171,26 +2111,6 @@
     "channelPurchased": true,
     "channelFECPort": 0,
     "channelName": "戏曲",
-    "channelType": "null"
-  },
-  {
-    "channelID": "00000001000000050000000000000082",
-    "userChannelID": 159,
-    "channelURL": "igmp://239.3.1.46:8124",
-    "timeShift": true,
-    "channelSDP": "igmp://239.3.1.46:8124",
-    "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221225851/10000100000000060000000000025074_0.smil",
-    "channelLogoStruct": {
-      "positionY": 0,
-      "channelLogURL": null,
-      "positionX": 0,
-      "interval": 0,
-      "beginTime": "null",
-      "lasting": "null"
-    },
-    "channelPurchased": true,
-    "channelFECPort": 0,
-    "channelName": "宁夏卫视",
     "channelType": "null"
   },
   {
