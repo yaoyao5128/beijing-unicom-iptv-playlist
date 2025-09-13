@@ -147,13 +147,13 @@ http://udpxy.local:8080/rtp/239.3.1.58:8156
 http://udpxy.local:8080/rtp/239.3.1.240:8172
 #EXTINF:-1 channel-number="79" tvg-id="79" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/ZhongGuoJiaoTong.png" group-title="上海",中国交通
 http://udpxy.local:8080/rtp/239.3.1.188:8001
-#EXTINF:-1 channel-number="81" tvg-id="81" tvg-name="BRTV北京卫视超高清SDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/Beijing.png" group-title="北京",BRTV北京卫视超高清SDR
+#EXTINF:-1 channel-number="81" tvg-id="81" tvg-name="BRTV北京卫视超高清SDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京",BRTV北京卫视超高清SDR
 http://udpxy.local:8080/rtp/239.3.1.22:8001
 #EXTINF:-1 channel-number="85" tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="央视",CCTV4K超高清
 http://udpxy.local:8080/rtp/239.3.1.244:2000
 #EXTINF:-1 channel-number="86" tvg-id="86" tvg-name="CCTV4K超高清HDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="央视",CCTV4K超高清HDR
 http://udpxy.local:8080/rtp/239.3.1.245:2000
-#EXTINF:-1 channel-number="121" tvg-id="121" tvg-name="BRTV北京卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/Beijing.png" group-title="北京标清",BRTV北京卫视
+#EXTINF:-1 channel-number="121" tvg-id="121" tvg-name="BRTV北京卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京标清",BRTV北京卫视
 http://udpxy.local:8080/rtp/239.3.1.225:8000
 #EXTINF:-1 channel-number="122" tvg-id="122" tvg-name="BRTV文艺" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_WenYi.png" group-title="北京标清",BRTV文艺
 http://udpxy.local:8080/rtp/239.3.1.226:8000
