@@ -25,7 +25,7 @@ rtp://239.3.1.157:8176
 rtp://239.3.1.120:8000
 #EXTINF:-1 channel-number="404" tvg-id="404" tvg-name="BRTV体育休闲4K SDR",BRTV体育休闲4K SDR
 rtp://239.3.1.121:8000
-#EXTINF:-1 channel-number="405" tvg-id="405" tvg-name="CCTV-16 4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-16.png" group-title="央视",CCTV-16 4K
+#EXTINF:-1 channel-number="498" tvg-id="498" tvg-name="CCTV-16 4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-16.png" group-title="央视",CCTV-16 4K
 rtp://239.3.1.183:8001
 #EXTINF:-1 channel-number="502" tvg-id="502" tvg-name="VBR测试-2",VBR测试-2
 rtp://239.3.1.140:8001

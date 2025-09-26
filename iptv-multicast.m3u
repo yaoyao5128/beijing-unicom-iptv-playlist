@@ -295,19 +295,31 @@ rtp://239.3.1.94:4120
 rtp://239.3.1.237:4120
 #EXTINF:-1 channel-number="401" tvg-id="401" tvg-name="爱上4K" group-title="轮播",爱上4K
 rtp://239.3.1.236:2000
+#EXTINF:-1 channel-number="405" tvg-id="405" tvg-name="湖南卫视4K超高清",湖南卫视4K超高清
+rtp://239.3.1.112:3002
 #EXTINF:-1 channel-number="406" tvg-id="406" tvg-name="广东卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangDong.png" group-title="卫视超高清",广东卫视4K超高清
 rtp://239.3.1.203:2000
+#EXTINF:-1 channel-number="407" tvg-id="407" tvg-name="江苏卫视4K超高清",江苏卫视4K超高清
+rtp://239.3.1.113:3003
 #EXTINF:-1 channel-number="408" tvg-id="408" tvg-name="深圳卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShenZhen.png" group-title="卫视超高清",深圳卫视4K超高清
 rtp://239.3.1.202:2000
+#EXTINF:-1 channel-number="409" tvg-id="409" tvg-name="东方卫视4K超高清",东方卫视4K超高清
+rtp://239.3.1.119:3006
+#EXTINF:-1 channel-number="410" tvg-id="410" tvg-name="浙江卫视4K超高清",浙江卫视4K超高清
+rtp://239.3.1.114:3004
+#EXTINF:-1 channel-number="411" tvg-id="411" tvg-name="山东卫视4K超高清",山东卫视4K超高清
+rtp://239.3.1.144:3005
+#EXTINF:-1 channel-number="412" tvg-id="412" tvg-name="四川卫视4K超高清",四川卫视4K超高清
+rtp://239.3.1.131:3001
 #EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="BRTV北京卫视超高清HDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京",BRTV北京卫视超高清HDR
 rtp://239.3.1.118:8001
-#EXTINF:-1 channel-number="302" tvg-id="302" tvg-name="通州融媒" group-title="区县",通州融媒
-rtp://239.3.1.221:8001
+#EXTINF:-1 channel-number="302" tvg-id="302" tvg-name="北京朝阳",北京朝阳
+rtp://239.3.1.163:8001
 #EXTINF:-1 channel-number="303" tvg-id="303" tvg-name="密云电视台" group-title="区县",密云电视台
 rtp://239.3.1.154:8001
-#EXTINF:-1 channel-number="304" tvg-id="304" tvg-name="门头沟电视台" group-title="区县",门头沟电视台
-rtp://239.3.1.59:8001
+#EXTINF:-1 channel-number="304" tvg-id="304" tvg-name="通州电视台",通州电视台
+rtp://239.3.1.221:8001
 #EXTINF:-1 channel-number="305" tvg-id="305" tvg-name="延庆电视台" group-title="区县",延庆电视台
 rtp://239.3.1.187:8001
-#EXTINF:-1 channel-number="310" tvg-id="310" tvg-name="朝阳融媒" group-title="区县",朝阳融媒
-rtp://239.3.1.163:8001
+#EXTINF:-1 channel-number="306" tvg-id="306" tvg-name="门头沟电视台" group-title="区县",门头沟电视台
+rtp://239.3.1.59:8001
