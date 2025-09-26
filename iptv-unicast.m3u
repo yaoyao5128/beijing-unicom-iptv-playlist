@@ -63,17 +63,17 @@ http://udpxy.local:8080/rtp/239.3.1.186:8001
 http://udpxy.local:8080/rtp/239.3.1.180:8001
 #EXTINF:-1 channel-number="33" tvg-id="33" tvg-name="时尚购物" group-title="购物",时尚购物
 http://udpxy.local:8080/rtp/239.3.1.181:8001
-#EXTINF:-1 channel-number="34" tvg-id="34" tvg-name="萌宠TV" group-title="轮播",萌宠TV
+#EXTINF:-1 channel-number="34" tvg-id="34" tvg-name="萌宠TV" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BJIPTV_MengChongTV.png" group-title="轮播",萌宠TV
 http://udpxy.local:8080/rtp/239.3.1.102:8001
-#EXTINF:-1 channel-number="36" tvg-id="36" tvg-name="淘Baby" group-title="轮播",淘Baby
+#EXTINF:-1 channel-number="36" tvg-id="36" tvg-name="淘Baby" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BJIPTV_TaoBABY.png" group-title="轮播",淘Baby
 http://udpxy.local:8080/rtp/239.3.1.238:8001
-#EXTINF:-1 channel-number="37" tvg-id="37" tvg-name="淘剧场" group-title="轮播",淘剧场
+#EXTINF:-1 channel-number="37" tvg-id="37" tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BJIPTV_TaoJuChang.png" group-title="轮播",淘剧场
 http://udpxy.local:8080/rtp/239.3.1.95:8001
-#EXTINF:-1 channel-number="38" tvg-id="38" tvg-name="淘电影" group-title="轮播",淘电影
+#EXTINF:-1 channel-number="38" tvg-id="38" tvg-name="淘电影" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BJIPTV_TaoDianYing.png" group-title="轮播",淘电影
 http://udpxy.local:8080/rtp/239.3.1.250:8001
-#EXTINF:-1 channel-number="39" tvg-id="39" tvg-name="淘娱乐" group-title="轮播",淘娱乐
+#EXTINF:-1 channel-number="39" tvg-id="39" tvg-name="淘娱乐" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BJIPTV_TaoYuLe.png" group-title="轮播",淘娱乐
 http://udpxy.local:8080/rtp/239.3.1.100:8001
-#EXTINF:-1 channel-number="40" tvg-id="40" tvg-name="4K超清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-4.png" group-title="地方",4K超清
+#EXTINF:-1 channel-number="40" tvg-id="40" tvg-name="4K超清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/BJIPTV_4KChaoQing.png" group-title="地方",4K超清
 http://udpxy.local:8080/rtp/239.3.1.249:8001
 #EXTINF:-1 channel-number="41" tvg-id="41" tvg-name="湖南卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="卫视",湖南卫视高清
 http://udpxy.local:8080/rtp/239.3.1.132:8012
@@ -123,13 +123,13 @@ http://udpxy.local:8080/rtp/239.3.1.166:8188
 http://udpxy.local:8080/rtp/239.3.1.167:8192
 #EXTINF:-1 channel-number="65" tvg-id="65" tvg-name="兵团卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BingTuan.png" group-title="卫视",兵团卫视高清
 http://udpxy.local:8080/rtp/239.3.1.168:8196
-#EXTINF:-1 channel-number="66" tvg-id="66" tvg-name="睛彩竞技" group-title="轮播",睛彩竞技
+#EXTINF:-1 channel-number="66" tvg-id="66" tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiJingJi.png" group-title="轮播",睛彩竞技
 http://udpxy.local:8080/rtp/239.3.1.125:8001
-#EXTINF:-1 channel-number="67" tvg-id="67" tvg-name="睛彩篮球" group-title="轮播",睛彩篮球
+#EXTINF:-1 channel-number="67" tvg-id="67" tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiLanQiu.png" group-title="轮播",睛彩篮球
 http://udpxy.local:8080/rtp/239.3.1.126:8001
-#EXTINF:-1 channel-number="68" tvg-id="68" tvg-name="睛彩羽毛球" group-title="轮播",睛彩羽毛球
+#EXTINF:-1 channel-number="68" tvg-id="68" tvg-name="睛彩羽毛球" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiYuMaoQiu.png" group-title="轮播",睛彩羽毛球
 http://udpxy.local:8080/rtp/239.3.1.127:8001
-#EXTINF:-1 channel-number="69" tvg-id="69" tvg-name="睛彩广场舞" group-title="轮播",睛彩广场舞
+#EXTINF:-1 channel-number="69" tvg-id="69" tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiGuangChangWu.png" group-title="轮播",睛彩广场舞
 http://udpxy.local:8080/rtp/239.3.1.128:8001
 #EXTINF:-1 channel-number="71" tvg-id="71" tvg-name="宁夏卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/NingXia.png" group-title="卫视",宁夏卫视高清
 http://udpxy.local:8080/rtp/239.3.1.169:8212
@@ -217,9 +217,19 @@ http://udpxy.local:8080/rtp/239.3.1.196:9012
 http://udpxy.local:8080/rtp/239.3.1.199:9000
 #EXTINF:-1 channel-number="301" tvg-id="301" tvg-name="房山电视台" group-title="区县",房山电视台
 http://udpxy.local:8080/rtp/239.3.1.96:8001
-#EXTINF:-1 channel-number="320" tvg-id="320" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_KuaiLeChuiDiao.jpg" group-title="地方",快乐垂钓
+#EXTINF:-1 channel-number="302" tvg-id="302" tvg-name="北京朝阳" group-title="区县",北京朝阳
+http://udpxy.local:8080/rtp/239.3.1.163:8001
+#EXTINF:-1 channel-number="303" tvg-id="303" tvg-name="密云电视台" group-title="区县",密云电视台
+http://udpxy.local:8080/rtp/239.3.1.154:8001
+#EXTINF:-1 channel-number="304" tvg-id="304" tvg-name="通州电视台" group-title="区县",通州电视台
+http://udpxy.local:8080/rtp/239.3.1.221:8001
+#EXTINF:-1 channel-number="305" tvg-id="305" tvg-name="延庆电视台" group-title="区县",延庆电视台
+http://udpxy.local:8080/rtp/239.3.1.187:8001
+#EXTINF:-1 channel-number="306" tvg-id="306" tvg-name="门头沟电视台" group-title="区县",门头沟电视台
+http://udpxy.local:8080/rtp/239.3.1.59:8001
+#EXTINF:-1 channel-number="320" tvg-id="320" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_KuaiLeChuiDiao.png" group-title="地方",快乐垂钓
 http://udpxy.local:8080/rtp/239.3.1.164:8001
-#EXTINF:-1 channel-number="321" tvg-id="321" tvg-name="茶" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_ChaPinDao.jpg" group-title="地方",茶
+#EXTINF:-1 channel-number="321" tvg-id="321" tvg-name="茶" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_ChaPinDao.png" group-title="地方",茶
 http://udpxy.local:8080/rtp/239.3.1.165:8001
 #EXTINF:-1 channel-number="341" tvg-id="341" tvg-name="CCTV-4欧洲高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4-EUO.png" group-title="央视国际",CCTV-4欧洲高清
 http://udpxy.local:8080/rtp/239.3.1.213:4220
@@ -293,33 +303,23 @@ http://udpxy.local:8080/rtp/239.3.1.93:4120
 http://udpxy.local:8080/rtp/239.3.1.94:4120
 #EXTINF:-1 channel-number="379" tvg-id="379" tvg-name="IPTV5＋高清" group-title="轮播",IPTV5＋高清
 http://udpxy.local:8080/rtp/239.3.1.237:4120
-#EXTINF:-1 channel-number="401" tvg-id="401" tvg-name="爱上4K" group-title="轮播",爱上4K
+#EXTINF:-1 channel-number="401" tvg-id="401" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/AiShang4K.png" group-title="轮播",爱上4K
 http://udpxy.local:8080/rtp/239.3.1.236:2000
-#EXTINF:-1 channel-number="405" tvg-id="405" tvg-name="湖南卫视4K超高清",湖南卫视4K超高清
+#EXTINF:-1 channel-number="405" tvg-id="405" tvg-name="湖南卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="卫视超高清",湖南卫视4K超高清
 http://udpxy.local:8080/rtp/239.3.1.112:3002
 #EXTINF:-1 channel-number="406" tvg-id="406" tvg-name="广东卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangDong.png" group-title="卫视超高清",广东卫视4K超高清
 http://udpxy.local:8080/rtp/239.3.1.203:2000
-#EXTINF:-1 channel-number="407" tvg-id="407" tvg-name="江苏卫视4K超高清",江苏卫视4K超高清
+#EXTINF:-1 channel-number="407" tvg-id="407" tvg-name="江苏卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangSu.png" group-title="卫视超高清",江苏卫视4K超高清
 http://udpxy.local:8080/rtp/239.3.1.113:3003
 #EXTINF:-1 channel-number="408" tvg-id="408" tvg-name="深圳卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShenZhen.png" group-title="卫视超高清",深圳卫视4K超高清
 http://udpxy.local:8080/rtp/239.3.1.202:2000
-#EXTINF:-1 channel-number="409" tvg-id="409" tvg-name="东方卫视4K超高清",东方卫视4K超高清
+#EXTINF:-1 channel-number="409" tvg-id="409" tvg-name="东方卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongFang.png" group-title="卫视超高清",东方卫视4K超高清
 http://udpxy.local:8080/rtp/239.3.1.119:3006
-#EXTINF:-1 channel-number="410" tvg-id="410" tvg-name="浙江卫视4K超高清",浙江卫视4K超高清
+#EXTINF:-1 channel-number="410" tvg-id="410" tvg-name="浙江卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ZheJiang.png" group-title="卫视超高清",浙江卫视4K超高清
 http://udpxy.local:8080/rtp/239.3.1.114:3004
-#EXTINF:-1 channel-number="411" tvg-id="411" tvg-name="山东卫视4K超高清",山东卫视4K超高清
+#EXTINF:-1 channel-number="411" tvg-id="411" tvg-name="山东卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShanDong.png" group-title="卫视超高清",山东卫视4K超高清
 http://udpxy.local:8080/rtp/239.3.1.144:3005
-#EXTINF:-1 channel-number="412" tvg-id="412" tvg-name="四川卫视4K超高清",四川卫视4K超高清
+#EXTINF:-1 channel-number="412" tvg-id="412" tvg-name="四川卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/SiChuan.png" group-title="卫视超高清",四川卫视4K超高清
 http://udpxy.local:8080/rtp/239.3.1.131:3001
 #EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="BRTV北京卫视超高清HDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京",BRTV北京卫视超高清HDR
 http://udpxy.local:8080/rtp/239.3.1.118:8001
-#EXTINF:-1 channel-number="302" tvg-id="302" tvg-name="北京朝阳",北京朝阳
-http://udpxy.local:8080/rtp/239.3.1.163:8001
-#EXTINF:-1 channel-number="303" tvg-id="303" tvg-name="密云电视台" group-title="区县",密云电视台
-http://udpxy.local:8080/rtp/239.3.1.154:8001
-#EXTINF:-1 channel-number="304" tvg-id="304" tvg-name="通州电视台",通州电视台
-http://udpxy.local:8080/rtp/239.3.1.221:8001
-#EXTINF:-1 channel-number="305" tvg-id="305" tvg-name="延庆电视台" group-title="区县",延庆电视台
-http://udpxy.local:8080/rtp/239.3.1.187:8001
-#EXTINF:-1 channel-number="306" tvg-id="306" tvg-name="门头沟电视台" group-title="区县",门头沟电视台
-http://udpxy.local:8080/rtp/239.3.1.59:8001
