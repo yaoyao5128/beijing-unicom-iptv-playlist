@@ -38,3 +38,7 @@ server {
 ```
 
 配置仅供参考，请按实际情况修改，并且将更新仓库和转换的命令放在crontab中定时执行。
+
+## 致谢
+
+本项目台标资源来源于互联网，部分台标资源来源于 [老张的EPG](http://epg.51zmt.top:8000/) 和 [wanglindl/TVlogo](https://github.com/wanglindl/TVlogo) 项目，在此向项目维护者表示感谢。
