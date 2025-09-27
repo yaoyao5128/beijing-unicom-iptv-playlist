@@ -163,8 +163,6 @@ http://udpxy.local:8080/rtp/239.3.1.227:8000
 http://udpxy.local:8080/rtp/239.3.1.228:8000
 #EXTINF:-1 channel-number="125" tvg-id="125" tvg-name="BRTV财经" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_CaiJing.png" group-title="北京标清",BRTV财经
 http://udpxy.local:8080/rtp/239.3.1.229:8000
-#EXTINF:-1 channel-number="126" tvg-id="126" tvg-name="BRTV体育休闲" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_TiYuXiuXian.png" group-title="北京标清",BRTV体育休闲
-http://udpxy.local:8080/rtp/239.3.1.230:8000
 #EXTINF:-1 channel-number="127" tvg-id="127" tvg-name="BRTV生活" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_ShengHuo.png" group-title="北京标清",BRTV生活
 http://udpxy.local:8080/rtp/239.3.1.231:8000
 #EXTINF:-1 channel-number="128" tvg-id="128" tvg-name="BRTV卡酷少儿" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_KakuShaoEr.png" group-title="北京标清",BRTV卡酷少儿
@@ -267,6 +265,8 @@ http://udpxy.local:8080/rtp/239.3.1.74:4120
 http://udpxy.local:8080/rtp/239.3.1.75:4120
 #EXTINF:-1 channel-number="360" tvg-id="360" tvg-name="军事" group-title="轮播",军事
 http://udpxy.local:8080/rtp/239.3.1.76:4120
+#EXTINF:-1 channel-number="361" tvg-id="361" tvg-name="国学" group-title="轮播",国学
+http://udpxy.local:8080/rtp/239.3.1.77:4120
 #EXTINF:-1 channel-number="362" tvg-id="362" tvg-name="戏曲" group-title="轮播",戏曲
 http://udpxy.local:8080/rtp/239.3.1.78:4120
 #EXTINF:-1 channel-number="363" tvg-id="363" tvg-name="早教" group-title="轮播",早教
@@ -301,8 +301,6 @@ http://udpxy.local:8080/rtp/239.3.1.92:4120
 http://udpxy.local:8080/rtp/239.3.1.93:4120
 #EXTINF:-1 channel-number="378" tvg-id="378" tvg-name="星影" group-title="轮播",星影
 http://udpxy.local:8080/rtp/239.3.1.94:4120
-#EXTINF:-1 channel-number="379" tvg-id="379" tvg-name="IPTV5＋高清" group-title="轮播",IPTV5＋高清
-http://udpxy.local:8080/rtp/239.3.1.237:4120
 #EXTINF:-1 channel-number="401" tvg-id="401" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/AiShang4K.png" group-title="轮播",爱上4K
 http://udpxy.local:8080/rtp/239.3.1.236:2000
 #EXTINF:-1 channel-number="405" tvg-id="405" tvg-name="湖南卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="卫视超高清",湖南卫视4K超高清

@@ -3,6 +3,8 @@
 rtp://239.3.1.178:8001
 #EXTINF:-1 channel-number="75" tvg-id="75" tvg-name="纪实频道HD",纪实频道HD
 rtp://239.3.1.212:8060
+#EXTINF:-1 channel-number="126" tvg-id="126" tvg-name="BRTV体育休闲" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_TiYuXiuXian.png" group-title="北京标清",BRTV体育休闲
+rtp://239.3.1.230:8000
 #EXTINF:-1 channel-number="168" tvg-id="168" tvg-name="南方卫视",南方卫视
 rtp://239.3.1.161:8001
 #EXTINF:-1 channel-number="173" tvg-id="173" tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-3.png" group-title="地方",CETV3
@@ -17,8 +19,8 @@ rtp://239.3.1.200:9008
 rtp://239.3.1.201:8072
 #EXTINF:-1 channel-number="324" tvg-id="324" tvg-name="熊猫频道",熊猫频道
 rtp://239.3.1.66:8068
-#EXTINF:-1 channel-number="361" tvg-id="361" tvg-name="国学" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GuoXue.jpg" group-title="地方",国学
-rtp://239.3.1.77:4120
+#EXTINF:-1 channel-number="379" tvg-id="379" tvg-name="IPTV5＋高清" group-title="轮播",IPTV5＋高清
+rtp://239.3.1.237:4120
 #EXTINF:-1 channel-number="380" tvg-id="380" tvg-name="体育赛事高清",体育赛事高清
 rtp://239.3.1.157:8176
 #EXTINF:-1 channel-number="403" tvg-id="403" tvg-name="BRTV体育休闲4K HDR",BRTV体育休闲4K HDR
