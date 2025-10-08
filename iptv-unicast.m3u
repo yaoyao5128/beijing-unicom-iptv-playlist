@@ -31,7 +31,7 @@ http://udpxy.local:8080/rtp/239.3.1.65:8132
 http://udpxy.local:8080/rtp/239.3.1.153:8136
 #EXTINF:-1 channel-number="16" tvg-id="16" tvg-name="CCTV-16高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-16.png" group-title="央视",CCTV-16高清
 http://udpxy.local:8080/rtp/239.3.1.184:8001
-#EXTINF:-1 channel-number="17" tvg-id="17" tvg-name="CCTV-17高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-17.png" group-title="央视",CCTV-17高清
+#EXTINF:-1 channel-number="17" tvg-id="17" tvg-name="CCTV-17高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-17.png" group-title="央视" zz-raw-name="CCTV17-高清",CCTV-17高清
 http://udpxy.local:8080/rtp/239.3.1.151:8144
 #EXTINF:-1 channel-number="18" tvg-id="18" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-5+.png" group-title="央视",CCTV-5+
 http://udpxy.local:8080/rtp/239.3.1.130:8004
@@ -127,7 +127,7 @@ http://udpxy.local:8080/rtp/239.3.1.168:8196
 http://udpxy.local:8080/rtp/239.3.1.125:8001
 #EXTINF:-1 channel-number="67" tvg-id="67" tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiLanQiu.png" group-title="轮播",睛彩篮球
 http://udpxy.local:8080/rtp/239.3.1.126:8001
-#EXTINF:-1 channel-number="68" tvg-id="68" tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiYuMaoQiu.png" group-title="轮播",睛彩青少
+#EXTINF:-1 channel-number="68" tvg-id="68" tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiYuMaoQiu.png" group-title="轮播" zz-raw-name="睛彩羽毛球",睛彩青少
 http://udpxy.local:8080/rtp/239.3.1.127:8001
 #EXTINF:-1 channel-number="69" tvg-id="69" tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiGuangChangWu.png" group-title="轮播",睛彩广场舞
 http://udpxy.local:8080/rtp/239.3.1.128:8001
@@ -147,7 +147,7 @@ http://udpxy.local:8080/rtp/239.3.1.58:8156
 http://udpxy.local:8080/rtp/239.3.1.240:8172
 #EXTINF:-1 channel-number="79" tvg-id="79" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/ZhongGuoJiaoTong.png" group-title="上海",中国交通
 http://udpxy.local:8080/rtp/239.3.1.188:8001
-#EXTINF:-1 channel-number="81" tvg-id="81" tvg-name="北京卫视4K超高清 SDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京",北京卫视4K超高清 SDR
+#EXTINF:-1 channel-number="81" tvg-id="81" tvg-name="北京卫视4K超高清 SDR" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京" zz-raw-name="BRTV北京卫视超高清SDR",北京卫视4K超高清 SDR
 http://udpxy.local:8080/rtp/239.3.1.22:8001
 #EXTINF:-1 channel-number="85" tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="央视",CCTV4K超高清
 http://udpxy.local:8080/rtp/239.3.1.244:2000
@@ -233,17 +233,17 @@ http://udpxy.local:8080/rtp/239.3.1.165:8001
 http://udpxy.local:8080/rtp/239.3.1.213:4220
 #EXTINF:-1 channel-number="342" tvg-id="342" tvg-name="CCTV-4美洲高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4-AME.png" group-title="央视国际",CCTV-4美洲高清
 http://udpxy.local:8080/rtp/239.3.1.214:4220
-#EXTINF:-1 channel-number="343" tvg-id="343" tvg-name="CGTN 英语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN.png" group-title="央视国际",CGTN 英语高清
+#EXTINF:-1 channel-number="343" tvg-id="343" tvg-name="CGTN 英语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN.png" group-title="央视国际" zz-raw-name="CGTN英语",CGTN 英语高清
 http://udpxy.local:8080/rtp/239.3.1.215:4220
-#EXTINF:-1 channel-number="344" tvg-id="344" tvg-name="CGTN 英文纪录高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Doc.png" group-title="央视国际",CGTN 英文纪录高清
+#EXTINF:-1 channel-number="344" tvg-id="344" tvg-name="CGTN 英文纪录高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Doc.png" group-title="央视国际" zz-raw-name="CGTN英文纪录",CGTN 英文纪录高清
 http://udpxy.local:8080/rtp/239.3.1.216:4220
-#EXTINF:-1 channel-number="345" tvg-id="345" tvg-name="CGTN 西班牙语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Espanol.png" group-title="央视国际",CGTN 西班牙语高清
+#EXTINF:-1 channel-number="345" tvg-id="345" tvg-name="CGTN 西班牙语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Espanol.png" group-title="央视国际" zz-raw-name="CGTN西班牙语",CGTN 西班牙语高清
 http://udpxy.local:8080/rtp/239.3.1.217:4220
-#EXTINF:-1 channel-number="346" tvg-id="346" tvg-name="CGTN 法语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Francis.png" group-title="央视国际",CGTN 法语高清
+#EXTINF:-1 channel-number="346" tvg-id="346" tvg-name="CGTN 法语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Francis.png" group-title="央视国际" zz-raw-name="CGTN法语",CGTN 法语高清
 http://udpxy.local:8080/rtp/239.3.1.218:4220
-#EXTINF:-1 channel-number="347" tvg-id="347" tvg-name="CGTN 阿拉伯语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Arabic.png" group-title="央视国际",CGTN 阿拉伯语高清
+#EXTINF:-1 channel-number="347" tvg-id="347" tvg-name="CGTN 阿拉伯语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Arabic.png" group-title="央视国际" zz-raw-name="CGTN阿拉伯语",CGTN 阿拉伯语高清
 http://udpxy.local:8080/rtp/239.3.1.219:4220
-#EXTINF:-1 channel-number="348" tvg-id="348" tvg-name="CGTN 俄语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Russian.png" group-title="央视国际",CGTN 俄语高清
+#EXTINF:-1 channel-number="348" tvg-id="348" tvg-name="CGTN 俄语高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Russian.png" group-title="央视国际" zz-raw-name="CGTN俄语",CGTN 俄语高清
 http://udpxy.local:8080/rtp/239.3.1.220:4220
 #EXTINF:-1 channel-number="351" tvg-id="351" tvg-name="城市剧场" group-title="轮播",城市剧场
 http://udpxy.local:8080/rtp/239.3.1.67:4120
@@ -319,5 +319,5 @@ http://udpxy.local:8080/rtp/239.3.1.114:3004
 http://udpxy.local:8080/rtp/239.3.1.144:3005
 #EXTINF:-1 channel-number="412" tvg-id="412" tvg-name="四川卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/SiChuan.png" group-title="卫视超高清",四川卫视4K超高清
 http://udpxy.local:8080/rtp/239.3.1.131:3001
-#EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="北京卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京",北京卫视4K超高清
+#EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="北京卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京" zz-raw-name="BRTV北京卫视超高清HDR",北京卫视4K超高清
 http://udpxy.local:8080/rtp/239.3.1.118:8001
