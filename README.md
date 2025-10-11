@@ -8,6 +8,20 @@
 
 本项目将于2025年10月31日后(等作者再想起来的时候)，将 `iptv-unicast.m3u` 和 `iptv-ignored-unicast.m3u` 文件内的 `udpxy.local` 域名修改为 `iptv.local`，请您提前添加解析或修改脚本以适配更改。
 
+## 时移
+
+本项目已实现时移功能！
+
+已验证的服务端：
+* [rtp2httpd](https://github.com/stackia/rtp2httpd/)(需要启用 `playseek-passthrough` [PR#25](https://github.com/stackia/rtp2httpd/issues/25))
+
+已验证的客户端：
+* [Kodi IPTV Simple Client](https://kodi.tv/addons/omega/pvr.iptvsimple/)，catchup格式需修改为 `?playseek={utc:YmdHMS}-{utcend:YmdHMS}`
+* [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)，catchup格式配置文件默认即可，参考 [APTV Playseek](https://docs.aptvapp.com/play/playseek)
+* [我的电视](https://github.com/yaoxieyoulei/mytv-android) 、[电视直播](https://github.com/mytv-android/mytv-android) 和 天光云影 仅支持rtp2httpd代理的RTSP流且无法调整回放进度，似乎未识别m3u catchup参数，原生RTSP流待确认。
+
+欢迎网友测试并提供反馈。
+
 ## 文件说明
 
 * [iptv-multicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-multicast.m3u): 带有组播地址的播放列表，通过 [zzzz0317/beijing-unicom-iptv-playlist-sniffer](https://github.com/zzzz0317/beijing-unicom-iptv-playlist-sniffer/) 抓取
@@ -17,6 +31,8 @@
 * [rawplaylist.json](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/rawplaylist.json): 原始节目单
 * [iptv-ignored-multicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-ignored-multicast.m3u): 无法播放频道的播放列表(组播)，若您发现其中的频道可以播放，请提交 [Issue](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/)
 * [iptv-ignored-unicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-ignored-unicast.m3u): 无法播放频道的播放列表(单播)，若您发现其中的频道可以播放，请提交 [Issue](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/issues/)
+* [iptv-rtsp.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-rtsp.m3u): 转换为RTSP代理地址的播放列表，需要使本地网络能解析 `iptv.local` 域名到您可访问的 `rtp2httpd` 实例，您也可以将文件中的 `iptv.local` 替换为您可访问的 `rtp2httpd` 实例地址
+* [iptv-rtsp-raw.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-rtsp-raw.m3u): 带有原生RTSP地址的播放列表，通过 [zzzz0317/beijing-unicom-iptv-playlist-sniffer](https://github.com/zzzz0317/beijing-unicom-iptv-playlist-sniffer/) 抓取
 
 ## 播放列表转换工具 convert.py
 
