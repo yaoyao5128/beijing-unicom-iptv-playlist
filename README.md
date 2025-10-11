@@ -34,6 +34,18 @@
 * [iptv-rtsp.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-rtsp.m3u): 转换为RTSP代理地址的播放列表，需要使本地网络能解析 `iptv.local` 域名到您可访问的 `rtp2httpd` 实例，您也可以将文件中的 `iptv.local` 替换为您可访问的 `rtp2httpd` 实例地址
 * [iptv-rtsp-raw.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-rtsp-raw.m3u): 带有原生RTSP地址的播放列表，通过 [zzzz0317/beijing-unicom-iptv-playlist-sniffer](https://github.com/zzzz0317/beijing-unicom-iptv-playlist-sniffer/) 抓取
 
+## 节目单对比
+
+|文件名称|Sniffer配置对应|地址|时移|说明|
+|-----|-----|-----|-----|-----|
+|[iptv-unicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-unicast.m3u)|playlist_save_path|HTTP转组播|HTTP转RTSP|**推荐**|
+|[iptv-multicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-multicast.m3u)|playlist_mc_save_path|组播|RTSP|**推荐**，光猫路由模式可直接使用|
+|[iptv-ignored-unicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-ignored-unicast.m3u)|playlist_ignored_save_path|HTTP转组播|HTTP转RTSP|已忽略的频道列表，大概没用|
+|[iptv-ignored-multicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-ignored-multicast.m3u)|playlist_ignored_mc_save_path|组播|RTSP|已忽略的频道列表，大概没用|
+|[iptv-rtsp.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-rtsp.m3u)|playlist_rtsp_save_path|HTTP转RTSP|HTTP转RTSP|[我的电视](https://github.com/yaoxieyoulei/mytv-android)及其分支可使用时移|
+|[iptv-rtsp-raw.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-rtsp-raw.m3u)|playlist_rtsp_raw_save_path|RTSP|RTSP|光猫路由模式可直接使用，交换机组播不通时可尝试|
+
+
 ## 播放列表转换工具 convert.py
 
 适用于自部署 Web 服务的情况，以下示例假设您的服务器 IP 地址为 10.1.1.1，并且在该服务器上安装了 udpxy 和 Nginx
