@@ -10,14 +10,15 @@
 
 ## 时移
 
-本项目已实现时移功能！
+本项目已实现时移功能！时移参数参考 [APTV Playseek](https://docs.aptvapp.com/play/playseek)、[rtp2httpd Issue#25](https://github.com/stackia/rtp2httpd/issues/25)
 
 已验证的服务端：
-* [rtp2httpd](https://github.com/stackia/rtp2httpd/)(需要启用 `playseek-passthrough` [PR#25](https://github.com/stackia/rtp2httpd/issues/25))
+* [rtp2httpd](https://github.com/stackia/rtp2httpd/)(需要启用 `playseek-passthrough` [PR#23](https://github.com/stackia/rtp2httpd/issues/23))
 
 已验证的客户端：
+* [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)，catchup格式无需修改
+* [APTV](https://apps.apple.com/us/app/aptv/id1630403500)，catchup格式无需修改
 * [Kodi IPTV Simple Client](https://kodi.tv/addons/omega/pvr.iptvsimple/)，catchup格式需修改为 `?playseek={utc:YmdHMS}-{utcend:YmdHMS}`
-* [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)，catchup格式配置文件默认即可，参考 [APTV Playseek](https://docs.aptvapp.com/play/playseek)
 * [我的电视](https://github.com/yaoxieyoulei/mytv-android) 、[电视直播](https://github.com/mytv-android/mytv-android) 和 天光云影 仅支持rtp2httpd代理的RTSP流且无法调整回放进度，似乎未识别m3u catchup参数，原生RTSP流待确认。
 
 欢迎网友测试并提供反馈。
