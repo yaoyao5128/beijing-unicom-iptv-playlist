@@ -309,5 +309,5 @@ http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226209/403519959
 http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226206/403519612.smil
 #EXTINF:-1 channel-number="412" tvg-id="412" tvg-name="四川卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/SiChuan.png" group-title="卫视超高清",四川卫视4K超高清
 http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226204/403519606.smil
-#EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="北京卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京" zz-raw-name="BRTV北京卫视超高清HDR",北京卫视4K超高清
+#EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="北京卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京超高清" zz-raw-name="BRTV北京卫视超高清HDR",北京卫视4K超高清
 http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226184/391328653.smil
