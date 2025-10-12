@@ -7,7 +7,7 @@ rtp://239.3.1.212:8060
 rtp://239.3.1.230:8000
 #EXTINF:-1 channel-number="168" tvg-id="168" tvg-name="南方卫视" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226087/10000100000000060000000000658473_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南方卫视
 rtp://239.3.1.161:8001
-#EXTINF:-1 channel-number="173" tvg-id="173" tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-3.png" group-title="地方" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226056/10000100000000060000000000384779_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CETV3
+#EXTINF:-1 channel-number="173" tvg-id="173" tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-3.png" group-title="卫视标清" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226056/10000100000000060000000000384779_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CETV3
 rtp://239.3.1.55:4120
 #EXTINF:-1 channel-number="205" tvg-id="205" tvg-name="IPTV6＋" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225852/10000100000000060000000000025080_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",IPTV6＋
 rtp://239.3.1.197:9016
@@ -27,7 +27,7 @@ rtp://239.3.1.157:8176
 rtp://239.3.1.120:8000
 #EXTINF:-1 channel-number="404" tvg-id="404" tvg-name="BRTV体育休闲4K SDR",BRTV体育休闲4K SDR
 rtp://239.3.1.121:8000
-#EXTINF:-1 channel-number="498" tvg-id="498" tvg-name="CCTV-16 4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-16.png" group-title="央视" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226150/10000100000000060000000001234274_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 4K
+#EXTINF:-1 channel-number="498" tvg-id="498" tvg-name="CCTV-16 4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-16.png" group-title="央视超高清" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226150/10000100000000060000000001234274_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 4K
 rtp://239.3.1.183:8001
 #EXTINF:-1 channel-number="502" tvg-id="502" tvg-name="VBR测试-2" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225893/10000100000000060000000000146741_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",VBR测试-2
 rtp://239.3.1.140:8001
