@@ -65,15 +65,15 @@ def generate_m3u_playlist(
         if len(key_live) > 0:
             channel["live"] = {}
             for k in key_live:
-                if k.endswith("-httpproxy"):
+                if k in playlist_data_previous[channel_name]["live"].keys():
+                    channel["live"][k] = playlist_data_previous[channel_name]["live"][k]
+                elif k.endswith("-httpproxy"):
                     kk = k[:-10]
                     if kk in playlist_data_previous[channel_name]["live"].keys():
                         channel["live"][k] = convert_http_proxy(
                             playlist_data_previous[channel_name]["live"][kk],
                             rtp_proxy_url, rtsp_proxy_url
                         )
-                if k in playlist_data_previous[channel_name]["live"].keys():
-                    channel["live"][k] = playlist_data_previous[channel_name]["live"][k]
         if len(key_timeshift) > 0:
             channel["timeshift"] = {}
             for k in key_timeshift:
