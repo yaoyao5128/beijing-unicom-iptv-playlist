@@ -14,6 +14,16 @@ def convert_http_proxy(source_info: dict, rtp_proxy_url: str, rtsp_proxy_url: st
     result_info["type"] = "http"
     return result_info
 
+def convert_rtsp_ts2hls(source_info: dict):
+    result_info = copy.deepcopy(source_info)
+    if result_info["type"] == "rtsp":
+        if result_info["addr"].endswith(".smil"):
+            result_info["addr"] = "http://" + source_info["addr"][7:] + "/index.m3u8?fmt=ts2hls"
+    else:
+        raise Exception(f"Unsupported ts2hls format: " + result_info["type"])
+    result_info["type"] = "http"
+    return result_info
+
 def generate_m3u_playlist(
     json_path_list: list[str], 
     key_live: list[str],
@@ -74,6 +84,12 @@ def generate_m3u_playlist(
                             playlist_data_previous[channel_name]["live"][kk],
                             rtp_proxy_url, rtsp_proxy_url
                         )
+                elif k.endswith("-ts2hls"):
+                    kk = k[:-7]
+                    if kk in playlist_data_previous[channel_name]["live"].keys():
+                        channel["live"][k] = convert_rtsp_ts2hls(
+                            playlist_data_previous[channel_name]["live"][kk]
+                        )
         if len(key_timeshift) > 0:
             channel["timeshift"] = {}
             for k in key_timeshift:
@@ -85,6 +101,12 @@ def generate_m3u_playlist(
                         channel["timeshift"][k] = convert_http_proxy(
                             playlist_data_previous[channel_name]["timeshift"][kk],
                             rtp_proxy_url, rtsp_proxy_url
+                        )
+                elif k.endswith("-ts2hls"):
+                    kk = k[:-7]
+                    if kk in playlist_data_previous[channel_name]["timeshift"].keys():
+                        channel["timeshift"][k] = convert_rtsp_ts2hls(
+                            playlist_data_previous[channel_name]["timeshift"][kk]
                         )
     
     playlist_data = copy.deepcopy(playlist_data)
