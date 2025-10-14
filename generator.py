@@ -16,12 +16,17 @@ def convert_http_proxy(source_info: dict, rtp_proxy_url: str, rtsp_proxy_url: st
 
 def generate_m3u_playlist(
     json_path_list: list[str], 
-    key_live: list[str], key_timeshift: list[str], 
-    rtp_proxy_url: str, rtsp_proxy_url: str, 
-    multi_source: bool, keep_ignored_channel: bool, 
-    epg_url: str, logo_url: str, 
-    catchup_param: str,
-    keep_channel_acquire_name: bool
+    key_live: list[str],
+    key_timeshift: list[str], 
+    rtp_proxy_url: str = "",
+    rtsp_proxy_url: str = "",
+    multi_source: bool = False, 
+    tag_include: list[str] = [],
+    tag_exclude: list[str] = ["ignore"],
+    epg_url: str = "", 
+    logo_url: str = "", 
+    catchup_param: str = "playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",
+    keep_channel_acquire_name: bool = False
     ):
     playlist_data = {}
     for zz_playlist_path in json_path_list:
@@ -85,9 +90,25 @@ def generate_m3u_playlist(
     playlist_data = copy.deepcopy(playlist_data)
     channel_del_list = []
     for channel_name, channel in playlist_data.items():
-        if not keep_ignored_channel and "ignore" in channel["flag"]:
-            channel_del_list.append(channel_name)
-            continue
+        if len(tag_exclude) > 0:
+            flag_exclude = False
+            for tag in tag_exclude:
+                if tag in channel["flag"]:
+                    flag_exclude = True
+                    break
+            if flag_exclude:
+                channel_del_list.append(channel_name)
+                continue
+        elif len(tag_include) > 0:
+            flag_include = False
+            if "flag" in channel.keys():
+                for tag in tag_include:
+                    if tag in channel["flag"]:
+                        flag_include = True
+                        break
+            if not flag_include:
+                channel_del_list.append(channel_name)
+                continue
         flag_first_timeshift = True
         tkey_del_list = []
         for tkey in channel["timeshift"].keys():
@@ -155,6 +176,8 @@ if __name__ == "__main__":
     parser_convert.add_argument("--rtp-proxy-url", default="http://iptv.local:8080/rtp/", help="RTP proxy URL.")
     parser_convert.add_argument("--rtsp-proxy-url", default="http://iptv.local:8080/rtsp/", help="RTSP proxy URL.")
     parser_convert.add_argument("--multi-source", action="store_true", help="Enable multi source mode.")
+    parser_convert.add_argument("--tag-include", nargs="+", default=[], help="Only include channels with these tags.")
+    parser_convert.add_argument("--tag-exclude", nargs="+", default=["ignore"], help="Exclude channels with these tags.")
     parser_convert.add_argument("--keep-ignored-channel", action="store_true", help="Keep channels marked as ignore.")
     parser_convert.add_argument("--keep-channel-acquire-name", action="store_true", help="Use channel name from channelAcquire API")
     parser_convert.add_argument("--epg-url", default="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/epg.xml.gz", help="EPG URL.")
@@ -162,8 +185,11 @@ if __name__ == "__main__":
     parser_convert.add_argument("--catchup-param", default="playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}", help="Catchup parameter.")
     parser_convert.add_argument("--output", default=None, help="Output M3U playlist file path.")
     args = parser.parse_args()
-
+    
     if args.command == "convert":
+        exclude_tags = args.tag_exclude
+        if args.keep_ignored_channel and "ignore" in exclude_tags:
+            exclude_tags.remove("ignore")
         txt = generate_m3u_playlist(
             json_path_list=args.source,
             key_live=args.key_live,
@@ -171,7 +197,8 @@ if __name__ == "__main__":
             rtp_proxy_url=args.rtp_proxy_url,
             rtsp_proxy_url=args.rtsp_proxy_url,
             multi_source=args.multi_source,
-            keep_ignored_channel=args.keep_ignored_channel,
+            tag_include=args.tag_include,
+            tag_exclude=exclude_tags,
             epg_url=args.epg_url,
             logo_url=args.logo_url,
             catchup_param=args.catchup_param,
