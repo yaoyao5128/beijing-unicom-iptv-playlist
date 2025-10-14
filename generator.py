@@ -137,6 +137,12 @@ def generate_m3u_playlist(
         f"#EXTM3U name=\"bj-unicom-iptv\" x-tvg-url=\"{epg_url}\"" if epg_url else "#EXTM3U name=\"bj-unicom-iptv\"",
     ]
     for channel_name, channel in playlist_data.items():
+        source_list = []
+        for live_data in list(channel["live"].values()):
+            live_addr = live_data["addr"]
+            source_list.append(live_addr)
+        if len(source_list) == 0:
+            continue
         info_line = f"#EXTINF:-1 channel-number=\"{channel['chno']}\""
         info_line += f" tvg-id=\"{channel['tvg_id']}\"" if channel.get('tvg_id') else ""
         info_line += f" tvg-name=\"{channel['tvg_name']}\"" if channel.get('tvg_name') else ""
@@ -159,9 +165,7 @@ def generate_m3u_playlist(
         else:
             info_line += f",{channel_name}"
         m3u_content.append(info_line)
-        for live_data in list(channel["live"].values()):
-            live_addr = live_data["addr"]
-            m3u_content.append(live_addr)
+        m3u_content.extend(source_list)
     return "\n".join(m3u_content)
     
 
