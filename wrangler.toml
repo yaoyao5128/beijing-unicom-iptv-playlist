@@ -1,0 +1,7 @@
+name = "beijing-unicom-iptv-playlist"
+main = "worker.py"
+compatibility_flags = ["python_workers"]
+compatibility_date = "2025-10-16"
+rules = [
+  { type = "Text", globs = ["playlist-zz.json"], fallthrough = true }
+]
