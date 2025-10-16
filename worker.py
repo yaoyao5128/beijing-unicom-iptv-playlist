@@ -8,7 +8,7 @@ from generator import generate_m3u_from_http_get_params
 class Default(WorkerEntrypoint):
     async def fetch(self, request, env):
         url = urlparse(request.url)
-        if url.path == "/playlist.m3u":
+        if url.path.endswith("/playlist.m3u"):
             try:
                 args = dict(parse_qsl(url.query))
                 txt = generate_m3u_from_http_get_params(
