@@ -23,4 +23,5 @@ class Default(WorkerEntrypoint):
                 return Response(error_message, headers={
                     "Content-Type": "text/plain"
                 })
-        return Response("Hello world!")
+        # return Response("Hello world!")
+        raise Response("Forbidden", status=403)
