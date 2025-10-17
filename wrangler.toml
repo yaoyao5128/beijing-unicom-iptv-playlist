@@ -5,3 +5,7 @@ compatibility_date = "2025-10-16"
 rules = [
   { type = "Text", globs = ["playlist-zz.json"], fallthrough = true }
 ]
+[assets]
+directory="./"
+binding="ASSETS"
+html_handling = "none"

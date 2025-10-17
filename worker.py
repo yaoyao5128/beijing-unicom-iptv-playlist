@@ -8,8 +8,8 @@ from generator import generate_m3u_from_http_get_params
 class Default(WorkerEntrypoint):
     async def fetch(self, request, env):
         url = urlparse(request.url)
-        if url.path.endswith("/playlist.m3u"):
-            try:
+        try:
+            if url.path.endswith("/playlist.m3u"):
                 args = dict(parse_qsl(url.query))
                 txt = generate_m3u_from_http_get_params(
                     json_path_list=["/session/metadata/playlist-zz.json"],
@@ -18,10 +18,9 @@ class Default(WorkerEntrypoint):
                 return Response(txt, headers={
                     "Content-Type": "text/plain; charset=utf-8" if args.get("txt", "1") == "1" else "application/x-mpegURL; charset=utf-8"
                 })
-            except Exception as e:
-                error_message = traceback.format_exc()
-                return Response(error_message, headers={
-                    "Content-Type": "text/plain"
-                })
-        # return Response("Hello world!")
-        raise Response("Forbidden", status=403)
+        except Exception as e:
+            error_message = traceback.format_exc()
+            return Response(error_message, status=500, headers={
+                "Content-Type": "text/plain"
+            })
+        return await self.env.ASSETS.fetch(request)
