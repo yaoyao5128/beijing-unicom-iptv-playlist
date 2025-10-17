@@ -16,7 +16,7 @@ class Default(WorkerEntrypoint):
                     args=args
                 )
                 return Response(txt, headers={
-                    "Content-Type": "text/plain; charset=utf-8" if args.get("txt", "1") == "1" else "application/x-mpegURL; charset=utf-8"
+                    "Content-Type": "text/plain; charset=utf-8" if args.get("txt", "0") == "1" else "application/x-mpegURL; charset=utf-8"
                 })
         except Exception as e:
             error_message = traceback.format_exc()
