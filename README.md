@@ -19,7 +19,7 @@
 * [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)，catchup格式无需修改
 * [APTV](https://apps.apple.com/us/app/aptv/id1630403500)，catchup格式无需修改
 * [Kodi IPTV Simple Client](https://kodi.tv/addons/omega/pvr.iptvsimple/)，catchup格式需修改为 `?playseek={utc:YmdHMS}-{utcend:YmdHMS}`
-* [电视直播](https://github.com/mytv-android/mytv-android) 截止到2.0.0.184测试版，EPG频道匹配逻辑不明，无法正确识别本项目EPG数据，[Issues#230](https://github.com/mytv-android/mytv-android/issues/230) 提完还没改明白，目前不建议需要时移的场景使用
+* [电视直播](https://github.com/mytv-android/mytv-android) 2.0.0.184测试版，ts2hls模式时移进度有Bug，EPG识别逻辑比较奇怪，[Issues#230](https://github.com/mytv-android/mytv-android/issues/230) 已修复对本项目EPG数据的兼容性
 * [我的电视 2.2.7](https://github.com/yaoxieyoulei/mytv-android) 和 [天光云影 3.3.10](https://t.me/mytv_android_release) 不支持HTTP协议的时移，原生RTSP流待确认，其余功能完美
 * [云影空蒙 3.6.5-1](https://t.me/YYKM_release/46) rtp2httpd代理的RTSP流调整时移进度有一些小Bug，ts2hls模式效果完美，本节目单项目提供的其余所有功能均完美支持
 
