@@ -9,7 +9,7 @@ class Default(WorkerEntrypoint):
     async def fetch(self, request, env):
         url = urlparse(request.url)
         try:
-            if url.path.endswith("/playlist.m3u"):
+            if url.path == "/playlist.m3u":
                 args = dict(parse_qsl(url.query))
                 txt = generate_m3u_from_http_get_params(
                     json_path_list=["/session/metadata/playlist-zz.json"],
