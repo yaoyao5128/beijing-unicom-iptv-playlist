@@ -41,7 +41,7 @@
 
 |文件名称|Sniffer配置对应|地址|时移|说明|
 |-----|-----|-----|-----|-----|
-|[iptv-unicast-timeshift-ts2hls.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-unicast-timeshift-ts2hls.m3u)|playlist_save_path|HTTP转组播|TS2HLS|**推荐**|
+|[iptv-unicast-timeshift-ts2hls.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-unicast-timeshift-ts2hls.m3u)|仅能通过 `generator.py` 生成|HTTP转组播|TS2HLS|**推荐**|
 |[iptv-unicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-unicast.m3u)|playlist_save_path|HTTP转组播|HTTP转RTSP|**推荐**|
 |[iptv-multicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-multicast.m3u)|playlist_mc_save_path|组播|RTSP|**推荐**，光猫路由模式可直接使用|
 |[iptv-ignored-unicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-ignored-unicast.m3u)|playlist_ignored_save_path|HTTP转组播|HTTP转RTSP|已忽略的频道列表，大概没用|
