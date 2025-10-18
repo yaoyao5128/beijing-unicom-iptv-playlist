@@ -47,13 +47,84 @@
 |[iptv-rtsp-raw.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-rtsp-raw.m3u)|playlist_rtsp_raw_save_path|RTSP|RTSP|光猫路由模式可直接使用，交换机组播不通时可尝试|
 
 
-## 播放列表转换工具 convert.py
+## 播放列表转换工具 generator.py
 
-适用于自部署 Web 服务的情况，以下示例假设您的服务器 IP 地址为 10.1.1.1，并且在该服务器上安装了 udpxy 和 Nginx
+适用于自部署 Web 服务的情况，`generator.py` 提供三个子命令：
 
-转换: `./convert.py --rtp-url http://10.1.1.1:8081/rtp/ --epg-url http://10.1.1.1:8081/epg.xml.gz --logo-url http://10.1.1.1:8081/img/ --output iptv.m3u`
+### convert 子命令 - 转换播放列表
 
-然后将整个目录使用 Nginx 等工具承载即可，以下是一个示例的 Nginx 虚拟主机配置文件
+用于将 JSON 格式的播放列表转换为 M3U 格式。
+
+基本用法：
+```bash
+python generator.py convert playlist-zz.json --output iptv.m3u
+```
+
+完整示例（假设您的服务器 IP 地址为 10.1.1.1，并且在该服务器上安装了 udpxy 和 Nginx）：
+```bash
+python generator.py convert playlist-zz.json \
+  --rtp-proxy-url http://10.1.1.1:8081/rtp/ \
+  --rtsp-proxy-url http://10.1.1.1:8081/rtsp/ \
+  --epg-url http://10.1.1.1:8081/epg.xml.gz \
+  --logo-url http://10.1.1.1:8081/img/ \
+  --output iptv.m3u
+```
+
+常用参数：
+- `--key-live`: 指定直播源（默认：`bjunicom-multicast`）
+- `--key-timeshift`: 指定时移源（默认：`bjunicom-rtsp`）
+- `--rtp-proxy-url`: RTP 代理地址（默认：`http://iptv.local:8080/rtp/`）
+- `--rtsp-proxy-url`: RTSP 代理地址（默认：`http://iptv.local:8080/rtsp/`）
+- `--multi-source`: 启用多源模式
+- `--tag-exclude`: 排除特定标签的频道（默认：`ignore`）
+- `--catchup-param`: 时移参数格式（默认：`playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}`，可设为 `kodi` 以兼容 Kodi）
+
+### serve 子命令 - Flask Web 服务
+
+通过 Flask 提供动态 M3U 播放列表服务，支持通过 URL 参数自定义配置。
+
+基本用法：
+```bash
+python generator.py serve playlist-zz.json --listen 127.0.0.1 --port 5000 --base-url "http://10.1.1.1:8081"
+```
+
+启动参数：
+- `--listen`: 监听地址
+- `--port`: 监听端口
+- `--base-url`: EPG和Logo的基础URL，默认使用GitHub
+
+接口地址：`http://服务器IP:5000/playlist.m3u`，可通过仓库中提供的 `generator.html` 调用
+
+支持的 URL 参数：
+- `live`: 直播源键，多个用逗号分隔
+- `timeshift`: 时移源键，多个用逗号分隔
+- `host`: 代理服务器地址（与 `scheme`、`port`、`rtp`、`rtsp` 配合使用）
+- `scheme`: 协议（http/https，默认 http）
+- `port`: 端口号
+- `rtp`: RTP 路径（默认 `rtp`）
+- `rtsp`: RTSP 路径（默认 `rtsp`）
+- `multisource`: 启用多源（`1`/`true`）
+- `include`: 包含标签，多个用逗号分隔
+- `exclude`: 排除标签，多个用逗号分隔
+- `epg`: EPG 地址（支持相对路径、完整 URL 或 `0` 禁用）
+- `logo`: 台标地址（支持相对路径、完整 URL 或 `0` 禁用）
+- `catchup`: 时移参数格式
+- `txt`: 设为 `1` 时返回纯文本格式
+
+示例：`http://10.1.1.1:5000/playlist.m3u?host=10.1.1.1&port=8081&live=bjunicom-multicast-httpproxy`
+
+### serve-fastapi 子命令 - FastAPI Web 服务
+
+与 `serve` 功能相同，但使用 FastAPI 框架，性能更好。
+
+基本用法：
+```bash
+python generator.py serve-fastapi playlist-zz.json --listen 127.0.0.1 --port 5000 --base-url "http://10.1.1.1:8081"
+```
+
+需要安装依赖：`pip install fastapi uvicorn`
+
+### Nginx 配置示例
 
 ```
 server {
@@ -61,16 +132,36 @@ server {
     #server_name 10.1.1.1;
     root /var/www/iptv;
 
+    # 指向 udpxy
     location /rtp {
         proxy_redirect off;
         proxy_set_header X-Real-IP $remote_addr;
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
         proxy_pass http://127.0.0.1:8080;
     }
+    
+    # 如果您使用了 rtp2httpd 或其他能代理 rtsp 协议的软件
+    location /rtsp {
+        proxy_redirect off;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_pass http://127.0.0.1:8080;
+    }
+
+    # 如果您运行了 generator.py serve 提供的实例
+    location = /playlist.m3u {
+        proxy_pass http://127.0.0.1:5000/playlist.m3u;
+    }
 }
 ```
 
-配置仅供参考，请按实际情况修改，并且将更新仓库和转换的命令放在crontab中定时执行。
+配置仅供参考，请按实际情况修改，并且将更新仓库和转换的命令放在 crontab 中定时执行。
+
+### 播放列表转换工具 convert.py（⚠️已弃用）
+
+> **⚠️ 注意：`convert.py` 已弃用，请使用 `generator.py convert` 子命令代替。**
+> 适用于自部署 Web 服务的情况，以下示例假设您的服务器 IP 地址为 10.1.1.1，并且在该服务器上安装了 udpxy 和 Nginx
+> 转换: `./convert.py --rtp-url http://10.1.1.1:8081/rtp/ --epg-url http://10.1.1.1:8081/epg.xml.gz --logo-url http://10.1.1.1:8081/img/ --output iptv.m3u`
 
 ## 致谢
 
