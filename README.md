@@ -157,11 +157,13 @@ server {
 
 配置仅供参考，请按实际情况修改，并且将更新仓库和转换的命令放在 crontab 中定时执行。
 
-### 播放列表转换工具 convert.py（⚠️已弃用）
+## 播放列表转换工具 convert.py
 
-> **⚠️ 注意：`convert.py` 已弃用，请使用 `generator.py convert` 子命令代替。**
-> 适用于自部署 Web 服务的情况，以下示例假设您的服务器 IP 地址为 10.1.1.1，并且在该服务器上安装了 udpxy 和 Nginx
-> 转换: `./convert.py --rtp-url http://10.1.1.1:8081/rtp/ --epg-url http://10.1.1.1:8081/epg.xml.gz --logo-url http://10.1.1.1:8081/img/ --output iptv.m3u`
+**⚠️ 注意：此方法已弃用，未来可能删除，请使用 `generator.py convert` 代替。**
+
+适用于自部署 Web 服务的情况，以下示例假设您的服务器 IP 地址为 10.1.1.1，并且在该服务器上安装了 udpxy 和 Nginx
+
+转换: `./convert.py --rtp-url http://10.1.1.1:8081/rtp/ --epg-url http://10.1.1.1:8081/epg.xml.gz --logo-url http://10.1.1.1:8081/img/ --output iptv.m3u`
 
 ## 致谢
 
