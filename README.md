@@ -1,4 +1,12 @@
-# 北京联通IPTV播放列表（每日自动更新）
+<div align="center">
+    <h1>北京联通IPTV播放列表（每日自动更新）</h1>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/zzzz0317/beijing-unicom-iptv-playlist">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/zzzz0317/beijing-unicom-iptv-playlist">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/zzzz0317/beijing-unicom-iptv-playlist">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/zzzz0317/beijing-unicom-iptv-playlist">
+    <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/zzzz0317/beijing-unicom-iptv-playlist">
+</div>
+
 
 ## 法律声明
 
