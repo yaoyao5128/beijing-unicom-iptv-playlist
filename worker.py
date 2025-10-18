@@ -1,5 +1,5 @@
 from workers import WorkerEntrypoint, Response
-from urllib.parse import urlparse, parse_qsl
+from urllib.parse import urlparse, urlunparse, parse_qsl
 import traceback
 import os
 import sys
@@ -10,10 +10,13 @@ class Default(WorkerEntrypoint):
         url = urlparse(request.url)
         try:
             if url.path == "/playlist.m3u":
+                base_dir = os.path.dirname(url.path)
+                base_url = urlunparse(url._replace(path=base_dir))
                 args = dict(parse_qsl(url.query))
                 txt = generate_m3u_from_http_get_params(
                     json_path_list=["/session/metadata/playlist-zz.json"],
-                    args=args
+                    args=args,
+                    base_url=base_url
                 )
                 return Response(txt, headers={
                     "Content-Type": "text/plain; charset=utf-8" if args.get("txt", "0") == "1" else "application/x-mpegURL; charset=utf-8"
