@@ -22,16 +22,16 @@
 $ git clone --depth=1 https://github.com/zzzz0317/beijing-unicom-iptv-playlist
 ```
 
-更新时保持浅克隆，执行 pull 时同样指定 `--depth 1`，避免拉取历史提交：
+更新时保持浅克隆，执行 pull 时同样指定 `--depth 1`，避免拉取过多历史提交：
 
 ```shell
-$ git pull --depth 1
+$ git pull --depth 10
 ```
 
 定期执行垃圾回收命令，立即删除无效对象：
 
 ```shell
-$ git gc --prune=now
+$ git gc --aggressive --prune=now
 ```
 
 ## 公告
