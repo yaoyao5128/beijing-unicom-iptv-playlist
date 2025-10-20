@@ -12,6 +12,28 @@
 
 **使用本项目前请务必阅读[免责声明](DISCLAIMER.md)。**
 
+## 仓库空间优化
+
+由于本仓库包含台标图片资源和大量历史 EPG 数据（涵盖过去七天及未来N天，且早期数据获取顺序随机导致变更频繁），截至 2025 年 10 月体积已达 80M。如需自行部署，建议采用以下方法减小本地空间占用：
+
+初次克隆使用 `--depth 1` 参数仅获取最新版本，无需下载完整历史记录：
+
+```shell
+$ git clone --depth=1 https://github.com/zzzz0317/beijing-unicom-iptv-playlist
+```
+
+更新时保持浅克隆，执行 pull 时同样指定 `--depth 1`，避免拉取历史提交：
+
+```shell
+$ git pull --depth 1
+```
+
+定期执行垃圾回收命令，立即删除无效对象：
+
+```shell
+$ git gc --prune=now
+```
+
 ## 公告
 
 本项目将于2025年10月31日后(等作者再想起来的时候)，将 `iptv-unicast.m3u` 和 `iptv-ignored-unicast.m3u` 文件内的 `udpxy.local` 域名修改为 `iptv.local`，请您提前添加解析或修改脚本以适配更改。
