@@ -9,7 +9,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -38,7 +39,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -67,7 +69,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -96,7 +99,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -125,7 +129,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -154,7 +159,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -178,7 +184,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -207,7 +214,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -236,7 +244,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -265,7 +274,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -294,7 +304,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -323,7 +334,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -352,7 +364,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -381,7 +394,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -410,7 +424,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -439,7 +454,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -468,7 +484,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -497,7 +514,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -526,7 +544,8 @@
     "group_title": "购物",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-shopping"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -555,7 +574,8 @@
     "group_title": "购物",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-shopping"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -584,7 +604,8 @@
     "group_title": "北京",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -613,7 +634,8 @@
     "group_title": "北京",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -642,7 +664,8 @@
     "group_title": "北京",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -671,7 +694,8 @@
     "group_title": "北京",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -700,7 +724,8 @@
     "group_title": "北京",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -729,7 +754,8 @@
     "group_title": "北京",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -753,7 +779,8 @@
     "group_title": "北京",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -782,7 +809,8 @@
     "group_title": "北京",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -811,7 +839,8 @@
     "group_title": "北京",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -840,7 +869,8 @@
     "group_title": "购物",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-shopping"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -898,7 +928,8 @@
     "group_title": "购物",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-shopping"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -927,7 +958,8 @@
     "group_title": "购物",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-shopping"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -956,7 +988,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -985,7 +1018,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1014,7 +1048,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1043,7 +1078,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1072,7 +1108,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1101,7 +1138,8 @@
     "group_title": "轮播",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1125,7 +1163,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1154,7 +1193,8 @@
     "group_title": "购物",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-shopping"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1183,7 +1223,8 @@
     "group_title": "购物",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-shopping"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1212,7 +1253,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1241,7 +1283,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1270,7 +1313,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1299,7 +1343,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1328,7 +1373,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1357,7 +1403,8 @@
     "group_title": "购物",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-shopping"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1386,7 +1433,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1415,7 +1463,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1444,7 +1493,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1473,7 +1523,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1502,7 +1553,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1531,7 +1583,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1560,7 +1613,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1589,7 +1643,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1618,7 +1673,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1647,7 +1703,8 @@
     "group_title": "购物",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-shopping"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1676,7 +1733,8 @@
     "group_title": "购物",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-shopping"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1705,7 +1763,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1734,7 +1793,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1763,7 +1823,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1792,7 +1853,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1821,7 +1883,8 @@
     "group_title": "体验",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-trial"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1850,7 +1913,8 @@
     "group_title": "体验",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-trial"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1879,7 +1943,8 @@
     "group_title": "体验",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-trial"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1908,7 +1973,8 @@
     "group_title": "体验",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-trial"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1937,7 +2003,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1961,7 +2028,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -1990,7 +2058,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2019,7 +2088,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2077,7 +2147,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2106,7 +2177,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2135,7 +2207,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2164,7 +2237,8 @@
     "group_title": "卫视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2193,7 +2267,8 @@
     "group_title": "北京超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2217,7 +2292,8 @@
     "group_title": "央视超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2241,7 +2317,8 @@
     "group_title": "央视超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2265,7 +2342,8 @@
     "group_title": "北京标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2289,7 +2367,8 @@
     "group_title": "北京标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2313,7 +2392,8 @@
     "group_title": "北京标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2337,7 +2417,8 @@
     "group_title": "北京标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2361,7 +2442,8 @@
     "group_title": "北京标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2386,7 +2468,8 @@
     "definition": "SD",
     "flag": [
       "ignore",
-      "sd"
+      "sd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2410,7 +2493,8 @@
     "group_title": "北京标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2434,7 +2518,8 @@
     "group_title": "北京标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2458,7 +2543,8 @@
     "group_title": "北京标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2482,7 +2568,8 @@
     "group_title": "北京",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2511,7 +2598,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2540,7 +2628,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2569,7 +2658,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2598,7 +2688,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2627,7 +2718,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2656,7 +2748,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2685,7 +2778,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2714,7 +2808,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2743,7 +2838,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2772,7 +2868,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2801,7 +2898,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2830,7 +2928,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2888,7 +2987,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2917,7 +3017,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2946,7 +3047,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -2976,7 +3078,8 @@
     "definition": "SD",
     "flag": [
       "ignore",
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3005,7 +3108,8 @@
     "group_title": "卫视标清",
     "definition": "SD",
     "flag": [
-      "sd"
+      "sd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3034,7 +3138,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3063,7 +3168,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3092,7 +3198,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3121,7 +3228,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3208,7 +3316,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3295,7 +3404,8 @@
     "group_title": "区县",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-district"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3325,7 +3435,8 @@
     "definition": "HD",
     "flag": [
       "from_sniffer_config",
-      "hd"
+      "hd",
+      "group-district"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3346,7 +3457,8 @@
     "definition": "HD",
     "flag": [
       "from_sniffer_config",
-      "hd"
+      "hd",
+      "group-district"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3367,7 +3479,8 @@
     "definition": "HD",
     "flag": [
       "from_sniffer_config",
-      "hd"
+      "hd",
+      "group-district"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3388,7 +3501,8 @@
     "definition": "SD",
     "flag": [
       "from_sniffer_config",
-      "sd"
+      "sd",
+      "group-district"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3409,7 +3523,8 @@
     "definition": "HD",
     "flag": [
       "from_sniffer_config",
-      "hd"
+      "hd",
+      "group-district"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3429,7 +3544,8 @@
     "group_title": "体验",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-trial"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3453,7 +3569,8 @@
     "group_title": "体验",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-trial"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3506,7 +3623,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3535,7 +3653,8 @@
     "group_title": "央视",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3564,7 +3683,8 @@
     "group_title": "CGTN",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cgtn"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3593,7 +3713,8 @@
     "group_title": "CGTN",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cgtn"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3622,7 +3743,8 @@
     "group_title": "CGTN",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cgtn"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3651,7 +3773,8 @@
     "group_title": "CGTN",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cgtn"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3680,7 +3803,8 @@
     "group_title": "CGTN",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cgtn"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3709,7 +3833,8 @@
     "group_title": "CGTN",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-cgtn"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3738,7 +3863,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3767,7 +3893,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3796,7 +3923,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3825,7 +3953,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3854,7 +3983,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3878,7 +4008,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3907,7 +4038,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3936,7 +4068,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3965,7 +4098,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -3994,7 +4128,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4023,7 +4158,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4052,7 +4188,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4081,7 +4218,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4110,7 +4248,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4139,7 +4278,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4168,7 +4308,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4197,7 +4338,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4226,7 +4368,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4255,7 +4398,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4284,7 +4428,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4313,7 +4458,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4342,7 +4488,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4371,7 +4518,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4400,7 +4548,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4429,7 +4578,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4458,7 +4608,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4487,7 +4638,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4516,7 +4668,8 @@
     "group_title": "轮播",
     "definition": "HD",
     "flag": [
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4546,7 +4699,8 @@
     "definition": "HD",
     "flag": [
       "ignore",
-      "hd"
+      "hd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4599,7 +4753,8 @@
     "group_title": "轮播",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-nvod"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4671,7 +4826,8 @@
     "group_title": "卫视超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4695,7 +4851,8 @@
     "group_title": "卫视超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4724,7 +4881,8 @@
     "group_title": "卫视超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4748,7 +4906,8 @@
     "group_title": "卫视超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4772,7 +4931,8 @@
     "group_title": "卫视超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4796,7 +4956,8 @@
     "group_title": "卫视超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4820,7 +4981,8 @@
     "group_title": "卫视超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4844,7 +5006,8 @@
     "group_title": "卫视超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-province"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4868,7 +5031,8 @@
     "group_title": "北京超高清",
     "definition": "UHD",
     "flag": [
-      "uhd"
+      "uhd",
+      "group-brtv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -4893,7 +5057,8 @@
     "definition": "UHD",
     "flag": [
       "ignore",
-      "uhd"
+      "uhd",
+      "group-cctv"
     ],
     "live": {
       "bjunicom-multicast": {
@@ -5000,7 +5165,8 @@
     "definition": "UHD",
     "flag": [
       "ignore",
-      "uhd"
+      "uhd",
+      "group-test"
     ],
     "live": {
       "bjunicom-multicast": {
