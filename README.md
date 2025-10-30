@@ -52,6 +52,7 @@ $ git gc --aggressive --prune=now
 * [电视直播](https://github.com/mytv-android/mytv-android) 2.0.0.184测试版，ts2hls模式时移进度有Bug，EPG识别逻辑比较奇怪，[Issues#230](https://github.com/mytv-android/mytv-android/issues/230) 已修复对本项目EPG数据的兼容性
 * ~~[我的电视 2.2.7](https://github.com/yaoxieyoulei/mytv-android) 和 [天光云影 3.3.10](https://t.me/mytv_android_release) 不支持HTTP协议的时移，原生RTSP流待确认~~
 * [云影空蒙 3.6.5-1](https://t.me/YYKM_release/46) rtp2httpd代理的RTSP流调整时移进度有一些小Bug，ts2hls模式效果完美，本节目单项目提供的其余所有功能均完美支持
+* [rtp2httpd m3u播放列表集成](https://github.com/stackia/rtp2httpd/blob/main/docs/m3u-integration.md) 使用组播节目单 [iptv-multicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-multicast.m3u) 非常完美
 
 欢迎网友测试并提供反馈。
 
@@ -75,7 +76,7 @@ $ git gc --aggressive --prune=now
 |-----|-----|-----|-----|-----|
 |[iptv-unicast-timeshift-ts2hls.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-unicast-timeshift-ts2hls.m3u)|仅能通过 `generator.py` 生成|HTTP转组播|TS2HLS|**推荐**|
 |[iptv-unicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-unicast.m3u)|playlist_save_path|HTTP转组播|HTTP转RTSP|**推荐**|
-|[iptv-multicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-multicast.m3u)|playlist_mc_save_path|组播|RTSP|**推荐**，光猫路由模式可直接使用|
+|[iptv-multicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-multicast.m3u)|playlist_mc_save_path|组播|RTSP|**推荐**，光猫路由模式、[rtp2httpd播放列表集成](https://github.com/stackia/rtp2httpd/blob/main/docs/m3u-integration.md) 可直接使用|
 |[iptv-ignored-unicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-ignored-unicast.m3u)|playlist_ignored_save_path|HTTP转组播|HTTP转RTSP|已忽略的频道列表，大概没用|
 |[iptv-ignored-multicast.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-ignored-multicast.m3u)|playlist_ignored_mc_save_path|组播|RTSP|已忽略的频道列表，大概没用|
 |[iptv-rtsp.m3u](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/raw/refs/heads/main/iptv-rtsp.m3u)|playlist_rtsp_save_path|HTTP转RTSP|HTTP转RTSP|[我的电视](https://github.com/yaoxieyoulei/mytv-android)及其分支可使用时移|
