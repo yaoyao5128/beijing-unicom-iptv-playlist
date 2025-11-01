@@ -14,7 +14,11 @@
 
 ## 公告
 
-本项目将于2025年10月31日后(等作者再想起来的时候)，将 `iptv-unicast.m3u` 和 `iptv-ignored-unicast.m3u` 文件内的 `udpxy.local` 域名修改为 `iptv.local`，请您提前添加解析或修改脚本以适配更改。
+本项目 ~~将于2025年10月31日后(等作者再想起来的时候)~~ 已于2025年11月01日，将 `iptv-unicast.m3u` 和 `iptv-ignored-unicast.m3u` 文件内的 `udpxy.local` 域名修改为 `iptv.local`，请您 ~~提前~~ 添加解析或修改脚本以适配更改。
+
+## 在线播放链接生成器
+
+您可根据您的需求自定义播放列表（如直播源、时移源、转发服务器、清晰度、频道分组等），并生成播放列表链接。请访问 [https://butv.0w0.ltd/](https://butv.0w0.ltd/) 使用，站点基于 Cloudflare Workers。
 
 ## 仓库空间优化
 
