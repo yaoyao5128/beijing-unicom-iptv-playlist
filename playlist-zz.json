@@ -479,7 +479,7 @@
     "id_sys": "00000001000000050000000000000580",
     "chno": 17,
     "tvg_id": 17,
-    "tvg_name": "CCTV17-高清",
+    "tvg_name": "CCTV-17高清",
     "logo": "CCTV/CCTV-17.png",
     "group_title": "央视",
     "definition": "HD",
@@ -1938,7 +1938,7 @@
     "id_sys": "01010001000000050000000000000462",
     "chno": 68,
     "tvg_id": 68,
-    "tvg_name": "睛彩羽毛球",
+    "tvg_name": "睛彩青少",
     "logo": "QiTa/CBC_JingCaiQingShao.png",
     "group_title": "体验",
     "definition": "HD",
@@ -2257,12 +2257,39 @@
       }
     }
   },
+  "证券服务": {
+    "name": "证券服务",
+    "id_sys": "01010001000000050000000000007513",
+    "chno": 80,
+    "tvg_id": 80,
+    "tvg_name": "证券服务",
+    "logo": null,
+    "group_title": null,
+    "definition": null,
+    "flag": [],
+    "live": {
+      "bjunicom-multicast": {
+        "addr": "rtp://239.3.1.24:8001",
+        "type": "rtp"
+      },
+      "bjunicom-rtsp": {
+        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226210/406742223.smil",
+        "type": "rtsp"
+      }
+    },
+    "timeshift": {
+      "bjunicom-rtsp": {
+        "addr": "rtsp://61.135.88.136/TVOD/88888892/224/3221226210/406742223.smil",
+        "type": "rtsp"
+      }
+    }
+  },
   "BRTV北京卫视超高清SDR": {
     "name": "BRTV北京卫视超高清SDR",
     "id_sys": "01010001000000050000000000004491",
     "chno": 81,
     "tvg_id": 81,
-    "tvg_name": "BRTV北京卫视超高清SDR",
+    "tvg_name": "北京卫视4K超高清 SDR",
     "logo": "WeiShi/BeiJing.png",
     "group_title": "北京超高清",
     "definition": "UHD",
@@ -3678,7 +3705,7 @@
     "id_sys": "00000001000000050000000000000613",
     "chno": 343,
     "tvg_id": 343,
-    "tvg_name": "CGTN英语",
+    "tvg_name": "CGTN 英语高清",
     "logo": "CCTV/CGTN.png",
     "group_title": "CGTN",
     "definition": "HD",
@@ -3708,7 +3735,7 @@
     "id_sys": "00000001000000050000000000000614",
     "chno": 344,
     "tvg_id": 344,
-    "tvg_name": "CGTN英文纪录",
+    "tvg_name": "CGTN 英文纪录高清",
     "logo": "CCTV/CGTN-Doc.png",
     "group_title": "CGTN",
     "definition": "HD",
@@ -3738,7 +3765,7 @@
     "id_sys": "00000001000000050000000000000615",
     "chno": 345,
     "tvg_id": 345,
-    "tvg_name": "CGTN西班牙语",
+    "tvg_name": "CGTN 西班牙语高清",
     "logo": "CCTV/CGTN-Espanol.png",
     "group_title": "CGTN",
     "definition": "HD",
@@ -3768,7 +3795,7 @@
     "id_sys": "00000001000000050000000000000616",
     "chno": 346,
     "tvg_id": 346,
-    "tvg_name": "CGTN法语",
+    "tvg_name": "CGTN 法语高清",
     "logo": "CCTV/CGTN-Francis.png",
     "group_title": "CGTN",
     "definition": "HD",
@@ -3798,7 +3825,7 @@
     "id_sys": "00000001000000050000000000000617",
     "chno": 347,
     "tvg_id": 347,
-    "tvg_name": "CGTN阿拉伯语",
+    "tvg_name": "CGTN 阿拉伯语高清",
     "logo": "CCTV/CGTN-Arabic.png",
     "group_title": "CGTN",
     "definition": "HD",
@@ -3828,7 +3855,7 @@
     "id_sys": "00000001000000050000000000000618",
     "chno": 348,
     "tvg_id": 348,
-    "tvg_name": "CGTN俄语",
+    "tvg_name": "CGTN 俄语高清",
     "logo": "CCTV/CGTN-Russian.png",
     "group_title": "CGTN",
     "definition": "HD",
@@ -3852,6 +3879,28 @@
         "type": "rtsp"
       }
     }
+  },
+  "重温经典": {
+    "name": "重温经典",
+    "id_sys": "01010001000000050000000000003488",
+    "chno": 349,
+    "tvg_id": 349,
+    "tvg_name": "重温经典",
+    "logo": null,
+    "group_title": null,
+    "definition": null,
+    "flag": [],
+    "live": {
+      "bjunicom-multicast": {
+        "addr": "rtp://239.3.1.25:8001",
+        "type": "rtp"
+      },
+      "bjunicom-rtsp": {
+        "addr": "rtsp://61.135.88.136/PLTV/88888892/224/3221226213/406750667.smil",
+        "type": "rtsp"
+      }
+    },
+    "timeshift": {}
   },
   "城市剧场": {
     "name": "城市剧场",
@@ -5026,7 +5075,7 @@
     "id_sys": "01010001000000050000000000005492",
     "chno": 421,
     "tvg_id": 421,
-    "tvg_name": "BRTV北京卫视超高清HDR",
+    "tvg_name": "北京卫视4K超高清",
     "logo": "WeiShi/BeiJing.png",
     "group_title": "北京超高清",
     "definition": "UHD",

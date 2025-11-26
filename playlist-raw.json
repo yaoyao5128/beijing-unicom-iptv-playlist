@@ -1276,6 +1276,26 @@
   },
   {
     "channelFECPort": 0,
+    "channelID": "01010001000000050000000000007513",
+    "channelLogoStruct": {
+      "beginTime": "null",
+      "channelLogURL": null,
+      "interval": 0,
+      "lasting": "null",
+      "positionX": 0,
+      "positionY": 0
+    },
+    "channelName": "证券服务",
+    "channelPurchased": true,
+    "channelSDP": null,
+    "channelType": "1",
+    "channelURL": "igmp://239.3.1.24:8001",
+    "timeShift": true,
+    "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226210/406742223.smil",
+    "userChannelID": 80
+  },
+  {
+    "channelFECPort": 0,
     "channelID": "01010001000000050000000000004491",
     "channelLogoStruct": {
       "beginTime": "null",
@@ -2187,6 +2207,26 @@
     "timeShift": true,
     "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226144/10000100000000060000000001154854_0.smil",
     "userChannelID": 348
+  },
+  {
+    "channelFECPort": 0,
+    "channelID": "01010001000000050000000000003488",
+    "channelLogoStruct": {
+      "beginTime": "null",
+      "channelLogURL": null,
+      "interval": 0,
+      "lasting": "null",
+      "positionX": 0,
+      "positionY": 0
+    },
+    "channelName": "重温经典",
+    "channelPurchased": true,
+    "channelSDP": null,
+    "channelType": "1",
+    "channelURL": "igmp://239.3.1.25:8001",
+    "timeShift": false,
+    "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226213/406750667.smil",
+    "userChannelID": 349
   },
   {
     "channelFECPort": 0,
