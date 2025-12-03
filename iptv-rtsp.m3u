@@ -299,12 +299,12 @@ http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226029/100001000
 http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226046/10000100000000060000000000323100_0.smil
 #EXTINF:-1 channel-number="405" tvg-id="405" tvg-name="湖南卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="卫视超高清" zz-definition="UHD",湖南卫视4K超高清
 http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226202/403519084.smil
-#EXTINF:-1 channel-number="406" tvg-id="406" tvg-name="广东卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangDong.png" group-title="卫视超高清" zz-definition="UHD" catchup="default" catchup-source="http://iptv.local:8080/rtsp/61.135.88.136/TVOD/88888892/224/3221226195/397709747.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视4K超高清
-http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226195/397709747.smil
+#EXTINF:-1 channel-number="510" tvg-id="510" tvg-name="广东卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangDong.png" group-title="卫视超高清" zz-definition="UHD",广东卫视4K超高清
+http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226215/407059592.smil
 #EXTINF:-1 channel-number="407" tvg-id="407" tvg-name="江苏卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangSu.png" group-title="卫视超高清" zz-definition="UHD",江苏卫视4K超高清
 http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226207/403519600.smil
-#EXTINF:-1 channel-number="408" tvg-id="408" tvg-name="深圳卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShenZhen.png" group-title="卫视超高清" zz-definition="UHD",深圳卫视4K超高清
-http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226188/397709741.smil
+#EXTINF:-1 channel-number="511" tvg-id="511" tvg-name="深圳卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShenZhen.png" group-title="卫视超高清" zz-definition="UHD",深圳卫视4K超高清
+http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226212/407058192.smil
 #EXTINF:-1 channel-number="409" tvg-id="409" tvg-name="东方卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongFang.png" group-title="卫视超高清" zz-definition="UHD",东方卫视4K超高清
 http://iptv.local:8080/rtsp/61.135.88.136/PLTV/88888892/224/3221226211/403519965.smil
 #EXTINF:-1 channel-number="410" tvg-id="410" tvg-name="浙江卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ZheJiang.png" group-title="卫视超高清" zz-definition="UHD",浙江卫视4K超高清

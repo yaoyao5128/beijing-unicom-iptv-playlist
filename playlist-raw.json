@@ -2864,6 +2864,32 @@
   },
   {
     "channelFECPort": 0,
+    "channelID": "00000001000000050000000000000636",
+    "channelLogoStruct": null,
+    "channelName": "广东卫视4K超高清",
+    "channelPurchased": true,
+    "channelSDP": null,
+    "channelType": "1",
+    "channelURL": "igmp://239.3.1.27:2000",
+    "timeShift": false,
+    "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226215/407059592.smil",
+    "userChannelID": 510
+  },
+  {
+    "channelFECPort": 0,
+    "channelID": "00000001000000050000000000000638",
+    "channelLogoStruct": null,
+    "channelName": "深圳卫视4K超高清",
+    "channelPurchased": true,
+    "channelSDP": null,
+    "channelType": "1",
+    "channelURL": "igmp://239.3.1.28:2000",
+    "timeShift": false,
+    "timeShiftURL": "rtsp://61.135.88.136/PLTV/88888892/224/3221226212/407058192.smil",
+    "userChannelID": 511
+  },
+  {
+    "channelFECPort": 0,
     "channelID": "01010001000000050000000000000126",
     "channelLogoStruct": {
       "beginTime": "null",
